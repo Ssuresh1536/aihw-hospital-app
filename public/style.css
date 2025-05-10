@@ -1,0 +1,81 @@
+/* Global page styling */
+body {
+    font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding-bottom: 40px;
+}
+
+/* Consistent container spacing */
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Headings */
+h1,
+h2,
+h3 {
+    color: #003366;
+    margin-bottom: 20px;
+}
+
+/* Navbar customization */
+.navbar-brand {
+    font-size: 1.4rem;
+}
+
+.nav-link {
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+}
+
+.nav-link:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+    border-radius: 5px;
+}
+
+/* Active nav link */
+.nav-link.active {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+/* Form and button spacing */
+form {
+    margin-top: 20px;
+}
+
+input,
+select,
+textarea {
+    margin-bottom: 15px;
+}
+
+/* Custom button styling */
+button,
+.btn {
+    border-radius: 0.4rem;
+    transition: all 0.2s ease-in-out;
+}
+
+button:hover,
+.btn:hover {
+    opacity: 0.9;
+}
+
+/* Responsive tweaks */
+@media (max-width: 576px) {
+    .container {
+        padding: 15px;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+    }
+
+    .nav-link {
+        font-size: 0.95rem;
+    }
+}
