@@ -2,31 +2,17 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>WA Hospital App</title>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
-  <style>
-    body {
-      padding-top: 70px;
-      background-color: #f8f9fa;
-    }
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Home – WA Hospitals</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
 
-    .navbar-brand {
-      font-weight: bold;
-    }
-
-    table {
-      background-color: white;
-    }
-  </style>
 </head>
-
-<body>
-  <!-- Navbar -->
-  <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top">
-    <div class="container-fluid">
-      <a class="navbar-brand" href="#">API Description</a>
+  
+  <body>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark px-4">
+      <a class="navbar-brand" href="#" data-bs-toggle="modal" data-bs-target="#apiModal">API Description</a>
       <div class="collapse navbar-collapse">
         <ul class="navbar-nav ms-auto">
           <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
@@ -36,8 +22,34 @@
           <li class="nav-item"><a class="nav-link" href="legal.html">Legal</a></li>
         </ul>
       </div>
+    </nav>
+  <!-- Modal -->
+  <div class="modal fade" id="apiModal" tabindex="-1" aria-labelledby="apiModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="apiModalLabel">API Description</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          <p>This application communicates with a RESTful API hosted on Vercel and backed by MongoDB Atlas. It provides
+            the following endpoints:</p>
+          <ul>
+            <li><strong>GET /api/hospitals</strong> - Retrieve all hospital records</li>
+            <li><strong>POST /api/hospitals</strong> - Add a new hospital record</li>
+            <li><strong>PATCH /api/hospitals/[code]</strong> - Update selected fields (e.g., resus, emergency, urgency)
+            </li>
+            <li><strong>DELETE /api/hospitals/[code]</strong> - Delete a hospital by code</li>
+          </ul>
+          <p>All requests return JSON responses and interact with a live database. Admin access is required for
+            modifying or deleting data.</p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        </div>
+      </div>
     </div>
-  </nav>
+  </div>
 
   <!-- Main Content -->
   <div class="container mt-4">
@@ -61,6 +73,7 @@
   </div>
 
   <!-- JavaScript -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
   <script src="script.js"></script>
 </body>
 

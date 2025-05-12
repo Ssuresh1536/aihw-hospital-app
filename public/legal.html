@@ -10,24 +10,53 @@
 
 <body>
 
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <div class="container-fluid">
-            <a class="navbar-brand" href="#">WA Hospitals API</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav ms-auto">
-                    <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
-                    <li class="nav-item"><a class="nav-link" href="edit.html">Edit</a></li>
-                    <li class="nav-item"><a class="nav-link" href="upload.html">Upload</a></li>
-                    <li class="nav-item"><a class="nav-link" href="help.html">Help</a></li>
-                    <li class="nav-item"><a class="nav-link active" href="legal.html">Legal</a></li>
-                </ul>
-            </div>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark px-4">
+        <a class="navbar-brand" href="#" data-bs-toggle="modal" data-bs-target="#apiModal">API Description</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ms-auto">
+                <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+                <li class="nav-item"><a class="nav-link" href="edit.html">Edit</a></li>
+                <li class="nav-item"><a class="nav-link" href="upload.html">Upload</a></li>
+                <li class="nav-item"><a class="nav-link" href="help.html">Help</a></li>
+                <li class="nav-item"><a class="nav-link active" href="legal.html">Legal</a></li>
+            </ul>
         </div>
     </nav>
 
+    <!-- API Description Modal -->
+    <div class="modal fade" id="apiModal" tabindex="-1" aria-labelledby="apiModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="apiModalLabel">API Description</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <p>This application communicates with a RESTful API hosted on Vercel and backed by MongoDB Atlas. It
+                        provides the following endpoints:</p>
+                    <ul>
+                        <li><strong>GET /api/hospitals</strong> – Retrieve all hospital records</li>
+                        <li><strong>POST /api/hospitals</strong> – Add a new hospital record</li>
+                        <li><strong>PATCH /api/hospitals/[code]</strong> – Update selected fields (resus, emergency,
+                            urgency)</li>
+                        <li><strong>DELETE /api/hospitals/[code]</strong> – Delete a hospital by code</li>
+                    </ul>
+                    <p>All requests return JSON responses and interact with a live database. Admin access is required
+                        for
+                        modifying or deleting data.</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Legal Disclaimer Content -->
     <div class="container mt-4">
         <h1>Legal Disclaimer</h1>
         <p>This application uses publicly available hospital data from the Australian Institute of Health and Welfare
