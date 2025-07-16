@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Send Prescription to Pharmacy</title>
+
+    <!-- Include Select2 CSS & JS -->
+    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+
+    <style>
+        body {
+            padding: 2rem;
+            font-family: Arial, sans-serif;
+            line-height: 1.5;
+        }
+
+        #emailPreview {
+            margin-top: 1rem;
+            padding: 1rem;
+            border: 1px dashed #888;
+            background: #f9f9f9;
+            font-size: 0.9rem;
+            white-space: pre-wrap;
+        }
+
+        .info-note {
+            color: #555;
+            font-size: 0.95rem;
+            margin-top: 1rem;
+        }
+
+        select {
+            width: 100%;
+            padding: 0.5rem;
+            font-size: 1rem;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h2>Send Prescription PDF to Selected Pharmacy</h2>
+
+    <!-- PDF Link -->
+    <p>
+        <a href="Authority PrescriptionTEST.pdf" id="prescriptionLink" download>
+            📄 Download Prescription PDF
+        </a>
+    </p>
+
+    <!-- Searchable dropdown -->
+    <label for="pharmacySelect">Search & Select Pharmacy:</label>
+    <select id="pharmacySelect">
+        <option value="">-- Choose a pharmacy --</option>
+        <option value="cdip@nunet.com.au">Champion Drive</option>
+        <option value="armadale@terrywhitechemmart.com.au">Terry White, Armadale</option>
+        <option value="amcalbc@optusnet.com.au">Belmont Amcal</option>
+        <option value="info@bottspharmacy.com.au">Botts</option>
+        <option value="burswood@amcal.net.au">Burswood Amcal</option>
+        <option value="john@marketcitypharmacy.com">Market City Canning Vale</option>
+        <option value="gosnellspharmacy@procp.com.au">Chemist Discount Gosnells</option>
+        <option value="gosnellspharmacy@rocketmail.com">Pharmacy Advice Gosnells</option>
+        <option value="huntingdale@caringpharmacy.com.au">Caring Huntingdale</option>
+        <option value="kelmscottstargate@wizardphy.com.au">Wizard Stargate Kelmscott</option>
+        <option value="kenwickpharmacy@westnet.com.au">Kenwick</option>
+        <option value="langford@pharmacy777.com.au">Langford 777</option>
+        <option value="lynwood@pharmacy777.com.au">Lynwood 777</option>
+        <option value="maddington@pharmacy777.com.au">Maddington 777</option>
+        <option value="info@sjnp.com.au">St James</option>
+        <option value="thornliesqphy@gmail.com">Thornlie Square</option>
+        <!-- Appended entries from JSON data -->
+        <option value="Dispensing@albanypharmacy.com.au">Albany Community Pharmacy</option>
+        <option value="dogrock@pharmacyalliance.net">Albany Dog Rock Chemist</option>
+        <option value="scripts@amcalalbany.com.au">Amcal Max Albany</option>
+        <option value="admin@oranacommunitychemist.com.au">Orana Pharmacy Albany</option>
+        <option value="dispensary@twcmchesterpass.com.au">TerryWhite Chemmart Chester Pass Albany</option>
+        <option value="pharmacyworld40@hotmail.com">Pharmacy World Discount Chemist</option>
+        <option value="alkimos@greenleaf.au">Greenleaf Pharmacy Alkimos</option>
+        <option value="applecross@pharmacy777.com.au">Pharmacy 777 Applecross</option>
+        <option value="applecrossvillage@pharmacy777.com.au">Pharmacy 777 Applecross Village</option>
+        <option value="canningbridge@pharmacy777.com.au">Pharmacy 777 Canning Bridge</option>
+        <option value="applecross@terrywhitechemmart.com.au">TerryWhite Chemmart Applecross</option>
+        <option value="championdrivepharmacy@gmail.com">Champion Drive In Pharmacy</option>
+        <option value="pm-oppa@westnet.com.au">Optimal Pharmacy Plus Armadale</option>
+        <option value="armadale@twcmgroup.com">TerryWhite Chemmart Armadale</option>
+        <option value="ascotpharmacy@outlook.com">Soul Pattinson Chemist Ascot Medical Ctr</option>
+        <option value="ashfieldchemist@optusnet.com.au">Ashfield Community Chemist</option>
+        <option value="atwellrx@bigpond.net.au">Atwell Community Pharmacy</option>
+        <option value="hl@rkpharmacy.com.au">Harvest Lakes Discount Drug Store</option>
+        <option value="augusta@pharmacy777.com.au">Pharmacy 777 Augusta</option>
+        <option value="australind@chemwisepharmacy.com.au">Chemwise Pharmacy Australind</option>
+        <option value="aveley@pharmacy777.com.au">Pharmacy 777 Aveley</option>
+        <option value="kate@baldivispharmacy.com.au">Baldivis Pharmacy</option>
+        <option value="baldivisstockland@blooms.net.au">Blooms The Chemist Baldivis Stockland</option>
+        <option value="baldivis@clinicarepharmacy.com.au">Clinicare Compounding Pharmacy Baldivis</option>
+        <option value="pm-oppba@westnet.com.au">Optimal Pharmacy Plus Balga</option>
+        <option value="malagapharmacy@gmail.com">Amcal Pharmacy Ballajura</option>
+        <option value="banksiagrove@twcmgroup.com">TerryWhite Chemmart Banksia Grove</option>
+        <option value="csc.banksiagrove1@wizardphy.com.au">Wizard Pharmacy Banksia Grove</option>
+        <option value="bassendeanpharmacy@gmail.com">Bassendean Pharmacy</option>
+        <option value="homecarepharmacybassendean@gmail.com">Home Care Pharmacy Bassendean</option>
+        <option value="bayonethead@terrywhitechemmart.com.au">TerryWhite Chemmart Bayonet Head</option>
+        <option value="bdic@bigpond.com">Amcal Bayswater Drive-in Pharmacy</option>
+        <option value="bayswater1@guardianpharm.net">Amcal Night And Day Pharmacy Bayswater</option>
+        <option value="bayswater@pharmacy777.com.au">Pharmacy 777 Bayswater</option>
+        <option value="bcp115@outlook.com">Beaconsfield Community Pharmacy</option>
+        <option value="pharmacist@bedfordpharmacy.com.au">Advantage Pharmacy Bedford</option>
+        <option value="healthlink.beechboro@outlook.com">Healthlink Pharmacy Beechboro</option>
+        <option value="oppap@iinet.net.au">Optimal Pharmacy Plus Altone Park</option>
+        <option value="info@bcpchemist.com.au">Beeliar Community Pharmacy</option>
+        <option value="spcbeeliar@gmail.com">Soul Pattinson Chemist Beeliar</option>
+        <option value="belridge@greenleaf.au">Greenleaf Pharmacy Belridge</option>
+        <option value="epsomavenue@amcal.net.au">Amcal Epsom Ave Pharmacy</option>
+        <option value="springschemmart@westnet.com.au">TerryWhite Chemmart Bennett Springs</option>
+        <option value="geraldburns.pharmacy@frednet.com.au">Gerald Burns Pharmacy</option>
+        <option value="bindoon@twcmgroup.com.au">Terrywhite Chemmart Bindoon</option>
+        <option value="boddingtonpharmacy@gmail.com">Boddington Pharmacy</option>
+        <option value="pm.gardencity1@wizardphy.com.au">Wizard Pharmacy Garden City (Kmart Mall)</option>
+        <option value="boulderpharmacy@gmail.com">Boulder Pharmacy</option>
+        <option value="boyanuppharmacy@gmail.com">Boyanup Pharmacy</option>
+        <option value="admin@boyupbrookpharmacy.com.au">Boyup Brook Pharmacy</option>
+        <option value="pharmacist@brentwoodpharmacy.com.au">Brentwood Pharmacy</option>
+        <option value="bridgetown@pharmacy777.com.au">Pharmacy 777 Bridgetown</option>
+        <option value="dispensary@broomepharmacy.com.au">Broome Pharmacy</option>
+        <option value="kps@kimberleypharmacyservices.com.au">Kimberley Pharmacy Services (Broome)</option>
+        <option value="admin@bullsbrookpharmacy.com.au">TerryWhite Chemmart Bullsbrook</option>
+        <option value="admin@bdicwa.com.au">Bunbury Drive In Pharmacy</option>
+        <option value="bunbury@chemwisepharmacy.com.au">Chemwise Pharmacy Bunbury</option>
+        <option value="webster@southcitypharmacy.com.au">TerryWhite Chemmart South City</option>
+        <option value="usher@pharmacy777.com.au">Pharmacy 777 Usher Compounding</option>
+        <option value="dispensary.bunbury3@wizardphy.com.au">Wizard Pharmacy Bunbury Centrepoint</option>
+        <option value="burswood@amcal.net.au">Amcal Express Burswood</option>
+        <option value="scripts@bwaterpharmacy.com.au">Broadwater Pharmacy Busselton</option>
+        <option value="disp@bsndds.com.au">Busselton Discount Drug Store</option>
+        <option value="geographepharmacy@gmail.com">Geographe Pharmacy</option>
+        <option value="busselton.pharmacist@pharmacy777.com.au">Pharmacy 777 Busselton</option>
+        <option value="scripts@busseltonpharmacy.com.au">Busselton Pharmacy</option>
+        <option value="butler@pharmacy777.com.au">Pharmacy 777 Butler</option>
+        <option value="butler@superchem.com.au">Superchem Butler Pharmacy</option>
+        <option value="by@rkpharmacy.com.au">Byford Glades 7 Day Pharmacy</option>
+        <option value="pp.byford@gmail.com">Priceline Pharmacy Byford</option>
+        <option value="info@canningvalepharmacy.com.au">Canning Vale Pharmacy</option>
+        <option value="hamiltonshealth@westnet.com.au">Hamilton's Compounding Pharmacy</option>
+        <option value="pm.livingston1@wizardphy.com.au">Wizard Pharmacy Livingston</option>
+        <option value="john@marketcitypharmacy.com">Market City Pharmacy</option>
+        <option value="cannington@amcal.net.au">Amcal Pharmacy Cannington</option>
+        <option value="canningtonmedical.pharmacy@gmail.com">Cannington Medical Centre Pharmacy</option>
+        <option value="pm.cannington1@wizardphy.com.au">Wizard Pharmacy Cannington (Full)</option>
+        <option value="capelpharmacy@hotmail.com">Capel Pharmacy</option>
+        <option value="Carlisle@caringpharmacy.com.au">Caring Pharmacy Carlisle</option>
+        <option value="dispensary.carnarvon@amcal.net.au">Amcal Chemist Carnarvon</option>
+        <option value="chidlowpharmacy@yahoo.com.au">Chidlow Pharmacy</option>
+        <option value="cipharmg@pulau.cx">Island Pharmacy</option>
+        <option value="herdsmandispensary@gmail.com">Herdsman Pharmacy</option>
+        <option value="dispensary@claremontchemist.com.au">Advantage Pharmacy Claremont</option>
+        <option value="claremont@michaelschemist.com.au">Michael's Chemist Claremont</option>
+        <option value="dispensary@sdip.com.au">Stirling Highway Drive-In Pharmacy 777</option>
+        <option value="clarksonpharmacy@iinet.net.au">Pharmacy on Clarkson Station</option>
+        <option value="amcalbc@optusnet.com.au">Amcal Pharmacy Belmont City</option>
+        <option value="kkho@wizardphy.com.au">Wizard Pharmacy Belmont</option>
+        <option value="cockburn@pharmacy777.com.au">Pharmacy 777 Cockburn</option>
+        <option value="collpharm@westnet.com.au">TerryWhite Chemmart Collie</option>
+        <option value="pharmacist@comopharmacy.com.au">Community Pharmacy Amcal</option>
+        <option value="Connolly@pharmacy777.com.au">Pharmacy 777 Connolly</option>
+        <option value="oppc@westnet.com.au">Optimal Pharmacy Plus Coolbellup</option>
+        <option value="woodbridge@feelgoodpharmacies.com.au">Woodbridge Pharmacy</option>
+        <option value="pharmacy@corriginpharmacy.com.au">Corrigin Pharmacy</option>
+        <option value="cottesloe@pharmacy777.com.au">Pharmacy 777 Cottesloe</option>
+        <option value="admin.pon@phcy.com.au">Pharmacy on Napoleon</option>
+        <option value="info@craigiecommunitychemist.com">Craigie Community Chemist</option>
+        <option value="sunlanderpharmacy@gmail.com">Sunlander Pharmacy</option>
+        <option value="dalwallinupharmacy@gmail.com">Dalwallinu Pharmacy</option>
+        <option value="darch@blooms.net.au">Blooms The Chemist Darch</option>
+        <option value="florida@fpgpharmacy.com.au">Advantage Pharmacy Florida Beach</option>
+        <option value="florida@twcmgroup.com">TerryWhite Chemmart Florida</option>
+        <option value="denmarkpharmacy@bigpond.com">Denmark Pharmacy</option>
+        <option value="derby@kimberleypharmacyservices.com.au">Kimberley Pharmacy Services (Derby)</option>
+        <option value="pm-oppd@westnet.com.au">Optimal Pharmacy Plus Dianella</option>
+        <option value="dongarapharmacy@gmail.com">Dongara Pharmacy</option>
+        <option value="donnybrookpharmacy@gmail.com">Donnybrook Pharmacy</option>
+        <option value="duncraigpharmacy6023@gmail.com">Duncraig Pharmacy</option>
+        <option value="glengarry@pharmacy777.com.au">Pharmacy 777 Glengarry</option>
+        <option value="scripts@dunspharmacy.com.au">Dunsborough Pharmacy</option>
+        <option value="eastfreo@caringpharmacy.com.au">Caring Pharmacy East Fremantle</option>
+        <option value="laaanders@gmail.com">Affinity Pharmacy</option>
+        <option value="pharmacy.dao@health.wa.gov.au">Next Step</option>
+        <option value="eastperth@pharmacy777.com.au">Pharmacy 777 East Perth</option>
+        <option value="eastvicpark@theinfinitygroup.net.au">Priceline Pharmacy East Victoria Park</option>
+        <option value="admin@twcmeaton.com.au">TerryWhite Chemmart Eaton</option>
+        <option value="admin@hcpwa.com.au">Home Care Pharmacy WA</option>
+        <option value="dispensary@bradshawspharmacy.com.au">Bradshaws Pharmacy</option>
+        <option value="office@castletownchemist.com">Castletown Chemist</option>
+        <option value="esperance@twcmgroup.com">TerryWhite Chemmart Esperance</option>
+        <option value="exmouthpharmacy@westnet.com.au">Exmouth Pharmacy</option>
+        <option value="falconpharmacy@starpharmacy.com.au">Advantage Pharmacy Falcon</option>
+        <option value="fitzroy@kimberleypharmacyservices.com.au">Kimberley Pharmacy Services (Fitzroy Valley)</option>
+        <option value="pricelinepharmacyfremantle@outlook.com">Priceline Pharmacy Fremantle</option>
+        <option value="WCPFREO@gmail.com">Chemist Discount Centre Fremantle</option>
+        <option value="fremantle@pharmacy777.com.au">Pharmacy 777 Fremantle</option>
+        <option value="oppn@westnet.com.au">Optimal Pharmacy Plus Northgate</option>
+        <option value="geraldton@pharmacy777.com.au">Pharmacy 777 Geraldton</option>
+        <option value="rangeway@amcal.net.au">Rangeway Amcal Pharmacy</option>
+        <option value="mail@bluffpointpharmacy.com.au">Terrywhite Chemmart Bluff Point</option>
+        <option value="info@gidgepharmacy.com.au">Gidgegannup Pharmacy</option>
+        <option value="girra@health1stpharmacy.com.au">Health First Goldfield Pharmacy</option>
+        <option value="glenforrest@pharmacyalliance.net">Glen Forrest Pharmacy</option>
+        <option value="glendalough@pharmacy777.com.au">Pharmacy 777 Glendalough</option>
+        <option value="goldenbay.phcy@gmail.com">Golden Bay Pharmacy</option>
+        <option value="info@gopharmacywa.com.au">Goomalling Pharmacy</option>
+        <option value="gosnellsdispense@procp.com.au">Chemist Discount Centre Gosnells</option>
+        <option value="gosnellspharmacy@rocketmail.com">Pharmacist Advice Gosnells</option>
+        <option value="greenheadchemist@westnet.com.au">Green Head Chemist</option>
+        <option value="admin@greenwoodpharmacy.com.au">TerryWhite Chemmart Greenwood</option>
+        <option value="waterhallpharmacy@gmail.com">Waterhall Pharmacy</option>
+        <option value="dispensary.gpp@phcy.com.au">Gwelup Plaza Pharmacy</option>
+        <option value="team@tbpharmacy.com.au">The Bridge 7 Day Pharmacy (Full)</option>
+        <option value="simmsroad@opplus.com.au">Optimal Pharmacy Plus Simms Road</option>
+        <option value="harveypharmacyscripts@gmail.com">Harvey Pharmacy</option>
+        <option value="highwycombe@blooms.net.au">Blooms The Chemist High Wycombe</option>
+        <option value="hw.discountchemist@gmail.com">High Wycombe Discount Chemist</option>
+        <option value="highwycombe@pharmacy777.com.au">Pharmacy 777 High Wycombe</option>
+        <option value="whitfordcity@pharmacy777.com.au">Pharmacy 777 Whitford City</option>
+        <option value="dispensary.whitfordcity@twcmgroup.com">TerryWhite Chemmart Whitford City</option>
+        <option value="hilton@pharmacy777.com.au">Pharmacy 777 Hilton</option>
+        <option value="hocking@superchem.com.au">Superchem Hocking</option>
+        <option value="huntingdale@caringpharmacy.com.au">Caring Pharmacy Huntingdale</option>
+        <option value="huntpharm@westnet.com.au">Huntingdale Village Pharmacy</option>
+        <option value="inglewood@pharmacy777.com.au">Pharmacy 777 Inglewood</option>
+        <option value="innaloo@discountdrugstores.com.au">Innaloo Discount Drug Store</option>
+        <option value="morrispharmacy@bigpond.com">Morris Compounding Pharmacy</option>
+        <option value="innaloo1@wizardphy.com.au">Wizard Innaloo Pharmacy</option>
+        <option value="jindalee@pharmacy777.com.au">Pharmacy 777 Jindalee</option>
+        <option value="lakeside@hpspharmacies.com.au">HPS Pharmacies Lakeside</option>
+        <option value="pm.joondalup2@wizardphy.com.au">Wizard Pharmacy Joondalup Dr</option>
+        <option value="Joondanna@caringpharmacy.com.au">Caring Pharmacy Joondanna</option>
+        <option value="jurpharm@westnet.com.au">Jurien Pharmacy</option>
+        <option value="hillsview@medsolutions.net.au">Hills View Pharmacy Kalamunda</option>
+        <option value="Dispensary@nightingales.net.au">Nightingales Pharmacy Kalamunda</option>
+        <option value="kalamunda@pharmacy777.com.au">O'Hara's Pharmacy 777 Kalamunda</option>
+        <option value="dispensary@pricelinepharmacykalamunda.com">Priceline Pharmacy Kalamunda</option>
+        <option value="kalbarripharmacy42@yahoo.com">Kalbarri Pharmacy</option>
+        <option value="pm.kalgoorlie3@wizardphy.com.au">Wizard Pharmacy Hannans</option>
+        <option value="dispensary.kalgoorlie1@wizardphy.com.au">Wizard Pharmacy Kalgoorlie Central</option>
+        <option value="contact@dovespharmacy.com.au">Dove's Pharmacy</option>
+        <option value="karratha@pharmacy777.com.au">Pharmacy 777 Karratha</option>
+        <option value="admin@stlukepharmacy.com.au">Karrinyup St Luke Pharmacy</option>
+        <option value="gscchemist@gmail.com">Great Southern Community Chemist</option>
+        <option value="info@katanningpharmacy.com.au">Katanning Pharmacy</option>
+        <option value="kellerberrin.phcy@gmail.com">Kellerberrin Pharmacy</option>
+        <option value="dispensary.kelmscott2@wizardphy.com.au">Wizard Pharmacy Kelmscott Stargate</option>
+        <option value="kenwickpharmacy@gmail.com">Kenwick Pharmacy</option>
+        <option value="kingsley@twcmgroup.com">TerryWhite Chemmart Kingsley</option>
+        <option value="kojonup.pharmacy@gmail.com">Kojonup Pharmacy</option>
+        <option value="koondoolapharmacy@westnet.com.au">Koondoola Pharmacy</option>
+        <option value="kpharm@iinet.net.au">Kununurra Amcal Pharmacy</option>
+        <option value="pricelinepharmacykwinana@gmail.com">Priceline Pharmacy Kwinana</option>
+        <option value="admin@lakegracepharmacy.com.au">Lake Grace Community Pharmacy</option>
+        <option value="lancelinpharmacy@bigpond.com">Lancelin Pharmacy</option>
+        <option value="erx@rkpharmacy.com.au">Landsdale Compounding Pharmacy</option>
+        <option value="langford@pharmacy777.com.au">Pharmacy 777 Langford</option>
+        <option value="leemanpharmacy@westnet.com.au">Leeman Pharmacy</option>
+        <option value="lesmurdie@pharmacy777.com.au">Pharmacy 777 Lesmurdie</option>
+        <option value="lynwood@pharmacy777.com.au">Pharmacy 777 Lynwood</option>
+        <option value="maddington@pharmacy777.com.au">Pharmacy 777 Maddington</option>
+        <option value="dispensary@mcpharmacy.net.au">Mandurah Central Pharmacy</option>
+        <option value="mandurah@wholelife.com.au">Mandurah Wholelife Pharmacy and Healthfoods</option>
+        <option value="mandurah@pharmacy777.com.au">Pharmacy 777 Mandurah</option>
+        <option value="mandurah@theinfinitygroup.net.au">Priceline Pharmacy Mandurah East</option>
+        <option value="twcpeelpharmacy@gmail.com">TerryWhite Chemmart Peel</option>
+        <option value="pm.mandurah1@wizardphy.com.au">Wizard Pharmacy Mandurah</option>
+        <option value="ambassadors@manjimuppharmacy.com">Ambassadors Pharmacy</option>
+        <option value="manjimup@pharmacy777.com.au">Pharmacy 777 Manjimup</option>
+        <option value="dispense2@pharmacymr.com.au">Priceline Pharmacy Margaret River</option>
+        <option value="margaretriver@pharmacy777.com.au">Pharmacy 777 Margaret River</option>
+        <option value="maylands@amcal.net.au">Amcal Pharmacy Maylands</option>
+        <option value="info@maylandscompounding.com.au">Clinicare Compounding Pharmacy Maylands</option>
+        <option value="maylands@pharmacy777.com.au">Pharmacy 777 Maylands</option>
+        <option value="meekapharmacy@gmail.com">Meekatharra Pharmacy</option>
+        <option value="merredinpharmacyscripts@gmail.com">Merredin Pharmacy</option>
+        <option value="mdip@live.com.au">Midland Drive-In Pharmacy</option>
+        <option value="info@midlandpharmacy.com.au">Midland Pharmacy & Compounding Centre</option>
+        <option value="oppmi@westnet.com.au">Optimal Pharmacy Plus Midland</option>
+        <option value="midland@pharmacy777.com.au">Pharmacy 777 Centrepoint Midland</option>
+        <option value="mindariepharmacy@outlook.com">Mindarie Keys Pharmacy</option>
+        <option value="mirrabooka@superchem.com.au">Superchem Mirrabooka Village</option>
+        <option value="moorapharmacy@iinet.net.au">Moora Community Pharmacy</option>
+        <option value="justpharmacymorley@ppsportal.com.au">Just Pharmacy Morley</option>
+        <option value="morley@pharmacy777.com.au">Pharmacy 777 Morley</option>
+        <option value="dispensary@mosmandriveinchemist.com">Mosman Drive-In Chemist</option>
+        <option value="mbccdispensary@alliancepharmacy.com.au">Mt Barker Country Chemist</option>
+        <option value="mthawthorn@pharmacy777.com.au">Pharmacy 777 Mt Hawthorn</option>
+        <option value="info@beaufortchemist.com.au">Beaufort Chemist</option>
+        <option value="mtlawley@epicpharmacy.com.au">Epic Pharmacy Mt Lawley</option>
+        <option value="dispensary.td@tassone.com.au">The Dispensary Mount Lawley</option>
+        <option value="mundaring@amcal.net.au">Mundaring Amcal Pharmacy</option>
+        <option value="info@mundaringpharmacy.com.au">Mundaring Village Pharmacy</option>
+        <option value="mundijongpharmacy@gmail.com">Mundijong Pharmacy</option>
+        <option value="barry.jenkins@health.wa.gov.au">Fiona Stanley Hospital Pharmacy</option>
+        <option value="myareepharmacy@gmail.com">Myaree Pharmacy</option>
+        <option value="narembeenpharmacy@live.co.uk">Narembeen Pharmacy</option>
+        <option value="narrogin@guardianpharm.net">Narrogin Guardian Pharmacy</option>
+        <option value="admin@broadwayfairpharmacy.com.au">Broadway Fair Pharmacy</option>
+        <option value="boulevard@newmanpharma.com.au">Boulevard Pharmacy</option>
+        <option value="hilditchpharm@gmail.com">Hilditch Pharmacy</option>
+        <option value="nollamaracompounding@pharmacy777.com.au">Nollamara Compounding Pharmacy 777</option>
+        <option value="nollamara@pharmacy777.com.au">Pharmacy 777 Nollamara</option>
+        <option value="dispense@norandachemmart.com.au">TerryWhite Chemmart Noranda</option>
+        <option value="script.northbeach@greenleaf.au">Greenleaf Pharmacy North Beach</option>
+        <option value="leightonbeachchemist@gmail.com">Leighton Beach Drive-In Pharmacy</option>
+        <option value="northperth@michaelschemist.com.au">Michael's Health Care Chemist North Perth</option>
+        <option value="dispensary@northamdds.com.au">Northam Discount Drug Store</option>
+        <option value="admin@wheatbeltpharmacy.com.au">Wheatbelt Health Centre Pharmacy</option>
+        <option value="northbridge@cdcpharmacy.com.au">Chemist Discount Centre Northbridge</option>
+        <option value="northbridge@caringpharmacy.com.au">Caring Pharmacy Northbridge</option>
+        <option value="oceanreefpharmacy@gmail.com">Ocean Reef Pharmacy</option>
+        <option value="opp@nunet.com.au">Osborne Park Pharmacy</option>
+        <option value="formulapharmacy@outlook.com">Formula Pharmacy</option>
+        <option value="paraburdoopharmacy@gmail.com">Paraburdoo Pharmacy</option>
+        <option value="chishamave@frednet.com.au">Chisham Express Pharmacy</option>
+        <option value="pearsall@greenleaf.au">Greenleaf Pharmacy Pearsall</option>
+        <option value="pembertonpharmacy@westnet.com.au">Pemberton Pharmacy</option>
+        <option value="perth@cdcpharmacy.com.au">Chemist Discount Centre Perth CBD</option>
+        <option value="pharmacycravens@gmail.com">Craven's Pharmacy</option>
+        <option value="perthcity@pharmacy777.com.au">Pharmacy 777 Perth City</option>
+        <option value="perth@superchem.com.au">Superchem Perth Central</option>
+        <option value="admin@piarawaterspharmacy.com.au">Piara Waters Pharmacy</option>
+        <option value="pharmacist@twcmpinjarra.com.au">TerryWhite Chemmart Pinjarra</option>
+        <option value="porthedland@pharmacy777.com.au">Pharmacy 777 Port Hedland</option>
+        <option value="services@pkpharmacy.com.au">Port Kennedy Pharmacy</option>
+        <option value="stclairpharmacynews@hotmail.com">St Clair Pharmacy & News</option>
+        <option value="ravensthorpepharmacy@gmail.com">Ravensthorpe Pharmacy</option>
+        <option value="dispensary@ravenswoodpharmacy.com.au">Ravenswood Amcal Pharmacy</option>
+        <option value="info@rivervalechemmart.com.au">TerryWhite Chemmart Rivervale</option>
+        <option value="rockingham@theinfinitygroup.net.au">Infinity Pharmacy Rockingham</option>
+        <option value="sonicpharmacy@frednet.com.au">Sonic Rockingham Pharmacy</option>
+        <option value="rockingham@superchem.com.au">Superchem Rockingham Beach Pharmacy</option>
+        <option value="dispensary.rockingham@twcmgroup.com">TerryWhite Chemmart Rockingham Centre</option>
+        <option value="roleystonecommunitychemist@hotmail.com">Roleystone Community Pharmacy</option>
+        <option value="malibu@caringpharmacy.com.au">Caring Pharmacy Malibu (Compounding Chemist)</option>
+        <option value="oppsc@iinet.net.au">Optimal Pharmacy Plus Scarborough</option>
+        <option value="scarborough7daychemist@gmail.com">Scarborough 7 Day Chemist</option>
+        <option value="scarboroughbeachpharmacy@gmail.com">Scarborough Beach Pharmacy</option>
+        <option value="oasispharmacy.sh@gmail.com">Oasis Pharmacy</option>
+        <option value="serpentinepharmacy@bigpond.com">Serpentine Pharmacy</option>
+        <option value="shenton.pharmacy@frednet.com.au">Shenton Pharmacy</option>
+        <option value="shoalwater@pharmacy777.com.au">Pharmacy 777 Shoalwater</option>
+        <option value="Sorrento@pharmacy777.com.au">Pharmacy 777 Sorrento</option>
+        <option value="southfreo@ppsportal.com.au">Greg's Discount Chemist South Fremantle</option>
+        <option value="shedlandpharmacy@westnet.com.au">South Hedland Pharmacy</option>
+        <option value="oppsl@iinet.net.au">Optimal Pharmacy Plus Southlakes</option>
+        <option value="southlake@pharmacy777.com.au">Pharmacy 777 South Lake</option>
+        <option value="yunderup@twcmgroup.com">TerryWhite Chemmart Yunderup</option>
+        <option value="spearwood@pharmacy777.com.au">Pharmacy 777 Spearwood</option>
+        <option value="phoenixcentrepharmacy@gmail.com">Phoenix Centre Pharmacy</option>
+        <option value="info@bottspharmacy.com.au">Botts Compounding Pharmacy</option>
+        <option value="info@sjnp.com.au">St James Newstart Pharmacy</option>
+        <option value="enquiries@stfrancispharmacy.com.au">St Francis Pharmacy</option>
+        <option value="subiaco@greenleaf.au">Greenleaf Pharmacy Subiaco</option>
+        <option value="info@csclinicpharmacy.com.au">Cockburn Super Clinic Pharmacy</option>
+        <option value="gateways@theinfinitygroup.net.au">Priceline Pharmacy Gateways</option>
+        <option value="mrdip@bigpond.com">Morrison Road Compounding Pharmacy</option>
+        <option value="thornliesqphy@gmail.com">Thornlie Square Pharmacy</option>
+        <option value="salspharmacy@hotmail.com">Sal's Pharmacy</option>
+        <option value="tompricepharmacy@gmail.com">Tom Price Pharmacy</option>
+        <option value="triggmedicalpharmacy@gmail.com">Trigg Medical Pharmacy</option>
+        <option value="dispensary.tuarthill@amcal.net.au">Amcal Tuart Hill</option>
+        <option value="dogswamp@pharmacy777.com.au">Pharmacy 777 Dog Swamp</option>
+        <option value="vassepharmacy@gmail.com">Vasse Pharmacy</option>
+        <option value="waginpharmacy@gmail.com">Wagin Pharmacy</option>
+        <option value="oppw@westnet.com.au">Optimal Pharmacy Plus Waikiki</option>
+        <option value="Dispensary.waikiki@twcmgroup.com">TerryWhite Chemmart Waikiki</option>
+        <option value="wangarapharmacy@outlook.com">Wangara Pharmacy</option>
+        <option value="dispensary@wanneroopharmacy.com">Amcal Pharmacy Wanneroo</option>
+        <option value="wanneroo@droverspharmacy.com.au">Drovers Pharmacy Wanneroo</option>
+        <option value="dispense@twcwarwick.com.au">TerryWhite Chemmart Warwick</option>
+        <option value="wattlegrove6cpa@gmail.com">Wattle Grove Pharmacy</option>
+        <option value="pm.wellard1@wizardphy.com.au">Wizard Pharmacy Wellard</option>
+        <option value="wembley@pharmacy777.com.au">Pharmacy 777 Wembley</option>
+        <option value="wembley@pharmacyalliance.net">Wembley Pharmacy</option>
+        <option value="wembleydowns@terrywhitechemmart.com.au">TerryWhite Chemmart Wembley Downs</option>
+        <option value="westleederville@terrywhitechemmart.com.au">Terry White Chemmart West Leederville</option>
+        <option value="wickhampharmacy@hotmail.com">Wickham Pharmacy</option>
+        <option value="willagee@pharmacy777.com.au">Pharmacy 777 Willagee</option>
+        <option value="Willetton@pharmacy777.com.au">Pharmacy 777 Willetton</option>
+        <option value="pm.willetton1@wizardphy.com.au">Wizard Pharmacy Willetton</option>
+        <option value="williams.pharmacy@yahoo.com">Williams Pharmacy</option>
+        <option value="wonganhillschemist@gmail.com">Wongan Hills Pharmacy</option>
+        <option value="woodvalephcy@gmail.com">Woodvale Pharmacy</option>
+        <option value="yanchep@pharmacy777.com.au">Pharmacy 777 Yanchep</option>
+        <option value="yancheppharmacy@bigpond.com">Yanchep Community Pharmacy</option>
+        <option value="yangebup@caringpharmacy.com.au">Caring Pharmacy Yangebup</option>
+        <option value="flinders@pharmacy777.com.au">Pharmacy 777 Flinders</option>
+        <option value="rscp@ppsportal.com.au">Royal Street Community Pharmacy</option>
+        <option value="dispensary@yokinepharmacy.com.au">Amcal Yokine Pharmacy</option>
+        <option value="dispensary@healthpharmacy.com.au">Health Pharmacy York</option>
+    </select>
+
+    <br><br>
+    <button onclick="sendEmail()">📧 Send Email</button>
+
+    <div id="emailPreview"></div>
+
+    <p class="info-note">
+        📎 After your email opens, please <strong>attach the PDF</strong> manually:
+        <br><code>Authority_PrescriptionTEST.pdf</code>
+    </p>
+
+    <!-- JS: Enable Select2 + Email generation -->
+    <script>
+        $(document).ready(function () {
+            $('#pharmacySelect').select2({
+                placeholder: "Type to search pharmacy...",
+                maximumInputLength: 10
+            });
+        });
+
+        function sendEmail() {
+            const email = document.getElementById("pharmacySelect").value;
+            if (!email) {
+                alert("Please select a pharmacy first.");
+                return;
+            }
+
+            const subject = "Prescription for Patient";
+            const body = `Dear Pharmacy,
+
+Please find the attached prescription PDF.
+
+Kind regards,
+Suresh Sriramareddy`;
+
+            const mailtoLink = `mailto:${email}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+
+            document.getElementById("emailPreview").innerHTML = `
+<strong>Email Preview:</strong>
+To: ${email}
+Subject: ${subject}
+
+${body}
+
+👉 <a href="${mailtoLink}">Click here to open your email client</a>
+      `;
+
+            window.location.href = mailtoLink;
+        }
+    </script>
+
+</body>
+
+</html>

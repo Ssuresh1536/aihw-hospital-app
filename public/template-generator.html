@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Next Step – Clinical Summary Generator</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 2rem;
+        }
+
+        textarea {
+            width: 100%;
+            height: 200px;
+            margin-top: 1rem;
+        }
+
+        .section {
+            margin-bottom: 1.5rem;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h2>📄 Create Clinical Summary – Next Step Services</h2>
+
+    <div class="section">
+        <label for="variableSelect">➕ Insert Variable:</label>
+        <select id="variableSelect">
+            <option value="">-- Choose a variable --</option>
+            <option value="Client entered OST program – June 2023">Entry to OST</option>
+            <option value="Nyxoid kit supplied on 2024-06-01">Nyxoid Kit</option>
+            <option value="Depot injection confirmed – 2024-07-01">Depot Injection Date</option>
+            <option value="BBV Status: HCV treated, HIV negative">BBV Status</option>
+            <option value="Fibroscan completed – 8.7 kPa, no cirrhosis">Fibroscan</option>
+            <option value="ScriptCheckWA alert: benzodiazepine duplication">ScriptCheckWA Alert</option>
+        </select>
+        <button onclick="insertVariable()">Insert</button>
+    </div>
+
+    <div class="section">
+        <label for="notes">📝 Type Clinical Notes:</label><br>
+        <textarea id="notes" placeholder="Add detailed clinical summary here..."></textarea>
+    </div>
+
+    <div class="section">
+        <label for="recipient">📬 Select GP or Pharmacy:</label>
+        <select id="recipient">
+            <option value="">-- Choose recipient --</option>
+            <option value="cdip@nunet.com.au">Champion Drive Pharmacy</option>
+            <option value="armadale@terrywhitechemmart.com.au">Terry White Armadale</option>
+            <option value="drsmith@gpclinic.com.au">Dr Smith – GP Clinic</option>
+            <option value="kelmscottstargate@wizardphy.com.au">Wizard Kelmscott</option>
+            <option value="info@sjnp.com.au">St James Pharmacy</option>
+            <option value="thornliesqphy@gmail.com">Thornlie Square</option>
+        </select>
+    </div>
+
+    <button onclick="generatePDF()">📥 Generate PDF</button>
+    <button onclick="sendEmail()">📧 Email Selected</button>
+
+    <script>
+        function insertVariable() {
+            const variable = document.getElementById("variableSelect").value;
+            if (variable) {
+                const notesBox = document.getElementById("notes");
+                notesBox.value += (notesBox.value ? "\n" : "") + variable;
+            }
+        }
+
+        async function generatePDF() {
+            const { jsPDF } = window.jspdf;
+            const doc = new jsPDF();
+
+            const header = "Next Step Drug and Alcohol Services\nnextstep@health.wa.gov.au";
+            const footer = "Sent from Next Step Drug and Alcohol Services – Confidential";
+            const content = document.getElementById("notes").value;
+
+            doc.setFont("helvetica");
+            doc.setFontSize(12);
+            doc.text(header, 10, 20);
+            doc.text(content, 10, 40);
+            doc.text(footer, 10, 280);
+
+            doc.save("NextStep_Clinical_Summary.pdf");
+        }
+
+        function sendEmail() {
+            const recipient = document.getElementById("recipient").value;
+            if (!recipient) {
+                alert("Please select a GP or pharmacy recipient.");
+                return;
+            }
+
+            const subject = encodeURIComponent("Next Step Clinical Summary");
+            const body = encodeURIComponent(
+                `Dear Colleague,\n\nPlease find the attached clinical summary regarding our mutual client.\n\nRegards,\nNext Step Services\n\n[Please manually attach the PDF just downloaded.]`
+            );
+
+            window.location.href = `ma

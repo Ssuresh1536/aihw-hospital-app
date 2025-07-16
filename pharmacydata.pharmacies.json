@@ -1,0 +1,5816 @@
+[{
+  "_id": {
+    "$oid": "6876263247db947029e30d14"
+  },
+  "PharmacyName": "Albany Community Pharmacy",
+  "Address1": "Lot P14, 18 Pioneer Rd",
+  "Suburb": "Albany",
+  "Phone": "9841 1532",
+  "Fax": "9842 5172",
+  "ContactEmail": "Dispensing@albanypharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS\nM-F 8.30-6pm Sat 9-12",
+  "State": "WA",
+  "Postcode": 6330,
+  "ContactPerson": "Ciaran Ronayne/Jane Walker",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0467 411 532 Ciaran Ronayne*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d15"
+  },
+  "PharmacyName": "Albany Dog Rock Chemist",
+  "Address1": "Shop 16 Dogrock Place\nMiddleton Rd",
+  "Suburb": "Albany",
+  "Phone": "9841 1115",
+  "Fax": "9841 1115",
+  "ContactEmail": "dogrock@pharmacyalliance.net",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS\nMon-Sat 8-6",
+  "State": "WA",
+  "Postcode": 6330,
+  "ContactPerson": "Michael Hannagan",
+  "PreferredContactMethod": "Email"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d16"
+  },
+  "PharmacyName": "Amcal Max Albany ",
+  "Address1": "262-264 York Street",
+  "Suburb": "Albany",
+  "Phone": "9842 2036",
+  "Fax": "9841 1332",
+  "ContactEmail": "scripts@amcalalbany.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-Sat 8-8 \nSun 9-7",
+  "State": "WA",
+  "Postcode": 6330,
+  "ContactPerson": "Divesh Sanghvi",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0431 921 437 Alison Fu** \n*Formerly Albany Amcal Chemist*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d17"
+  },
+  "PharmacyName": "Orana Pharmacy Albany",
+  "Address1": "463 Albany Highway",
+  "Suburb": "Albany",
+  "Phone": "9844 9837",
+  "Fax": "9891 6137",
+  "ContactEmail": "admin@oranacommunitychemist.com.au",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 9-5 Sat 9-12",
+  "State": "WA",
+  "Postcode": 6330,
+  "ContactPerson": "Derek",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Accept One-off dosing* *Formerly 'Friendlies Orana' "
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d18"
+  },
+  "PharmacyName": "TerryWhite Chemmart Chester\nPass Albany",
+  "Address1": "Shop 3 Chester Pass Mall, \n160 Chester Pass Road",
+  "Suburb": "Albany",
+  "Phone": "9841 3841",
+  "Fax": "9842 3767",
+  "ContactEmail": "dispensary@twcmchesterpass.com.au",
+  "Treatment": "M",
+  "Administer": "Bradley \nSmithson",
+  "OpeningHours": "7 DAYS M-F 8-6 Sat 8-5\nSun 10-4",
+  "State": "WA",
+  "Postcode": 6330,
+  "ContactPerson": "Mr Bradley Smithson",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "*Accept One-off dosing* *Formerly \"Brooks Garden Chemmart Pharmacy\""
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d19"
+  },
+  "PharmacyName": "Pharmacy World Discount \nChemist",
+  "Address1": "Shop 4 & 5 Alinjarra SC\n40 Greenpark Rd",
+  "Suburb": "Alexander \nHeights",
+  "Phone": "9343 1900",
+  "Fax": "9343 1990",
+  "ContactEmail": "pharmacyworld40@hotmail.com",
+  "Treatment": "M",
+  "OpeningHours": "7 Days M-Sat 8am-8.30\nSun 9-8.30",
+  "State": "WA",
+  "Postcode": 6064,
+  "ContactPerson": "Mr Minh Loi Thach",
+  "PreferredContactMethod": "Phone"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d1a"
+  },
+  "PharmacyName": "Greenleaf Pharmacy Alkimos",
+  "Address1": "Tenancy 12, 1 Graceful Blvd",
+  "Suburb": "Alkimos",
+  "Phone": "9502 9889",
+  "ContactEmail": "alkimos@greenleaf.au\nscript.alkimos@greenleaf.au",
+  "Treatment": "M",
+  "Administer": "Jamie \nBogoias",
+  "OpeningHours": "7 DAYS 8-8",
+  "State": "WA",
+  "Postcode": 6038,
+  "ContactPerson": "Mr Jamie Bogoias",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Formerly \"Alkimos Beach Pharmacy\""
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d1b"
+  },
+  "PharmacyName": "Pharmacy 777 Applecross",
+  "Address1": "PO Box 7005",
+  "Suburb": "Applecross",
+  "Phone": "9364 8777",
+  "Fax": "9316 3974",
+  "ContactEmail": "applecross@pharmacy777.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS + P/H 7am-11pm",
+  "State": "WA",
+  "Postcode": 6153,
+  "ContactPerson": "Mr Mitchell Briotti",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "777 Canning Highway"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d1c"
+  },
+  "PharmacyName": "Pharmacy 777 Applecross Village",
+  "Address1": "Unit 1/ 40 Ardross Street",
+  "Suburb": "Applecross",
+  "Phone": "9364 1986",
+  "Fax": "9364 1615",
+  "ContactEmail": "applecrossvillage@pharmacy777.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS Mon-Sun 8-7",
+  "State": "WA",
+  "Postcode": 6153,
+  "ContactPerson": "Nicholas Cox",
+  "PreferredContactMethod": "Phone"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d1d"
+  },
+  "PharmacyName": "Pharmacy 777 Canning Bridge",
+  "Address1": "902A Canning Highway",
+  "Suburb": "Applecross",
+  "Phone": "9364 4080",
+  "Fax": "9316 4770",
+  "ContactEmail": "canningbridge@pharmacy777.com.au",
+  "Treatment": "M",
+  "Administer": "Malgorzata\nAndrysiak",
+  "OpeningHours": "6 DAYS M-F 8-6 Sat 8-2 ",
+  "State": "WA",
+  "Postcode": 6153,
+  "ContactPerson": "Mrs Malgorzata Andryslak",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Formerly \"Applecross Community Pharmacy\""
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d1e"
+  },
+  "PharmacyName": "TerryWhite Chemmart \nApplecross",
+  "Address1": "764 Canning Highway",
+  "Suburb": "Applecross",
+  "Phone": "9316 8211",
+  "Fax": "9316 8366",
+  "ContactEmail": "applecross@terrywhitechemmart.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-Sun 8-7",
+  "State": "WA",
+  "Postcode": 6153,
+  "ContactPerson": "Neil Kennedy",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0415 668 188 Neil Kennedy* \n*Formerly \"Greg's Discount Chemist-Applecross, Just Pharmacy Applecross\""
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d1f"
+  },
+  "PharmacyName": "Champion Drive In Pharmacy",
+  "Address1": "1/240 Seville Drive",
+  "Suburb": "Armadale",
+  "Phone": "9497 1393",
+  "Fax": "9497 1856",
+  "ContactEmail": "championdrivepharmacy@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8.30-8 \nSat-Sun+P/H 9-6",
+  "State": "WA",
+  "Postcode": 6112,
+  "ContactPerson": "Clinton Leyden,Andrew Leong",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**No prison release clients 1/1/2019**"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d20"
+  },
+  "PharmacyName": "Optimal Pharmacy Plus Armadale",
+  "Address1": "Shop 70A & 71 Armadale SC\n10 Orchard Avenue",
+  "Suburb": "Armadale",
+  "Phone": "9399 1886",
+  "Fax": "9399 1882",
+  "ContactEmail": "pm-oppa@westnet.com.au",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 8-6 Sat 9-5",
+  "State": "WA",
+  "Postcode": 6112,
+  "ContactPerson": "Mr Anthony Gascoigne",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Approved for all formulations but Px only dispense oral 25/10/23"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d21"
+  },
+  "PharmacyName": "TerryWhite Chemmart Armadale",
+  "Address1": "Shop 25 Armadale Shopping City\nJull Street",
+  "Suburb": "Armadale",
+  "Phone": "9399 5557",
+  "Fax": "9497 4916",
+  "ContactEmail": "armadale@twcmgroup.com",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8.30-6 \nSat 8.30-5 Sun 11-4",
+  "State": "WA",
+  "Postcode": 6112,
+  "ContactPerson": "Luke Edmunds",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Formerly \"Terry White Chemists Armadale\"  "
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d22"
+  },
+  "PharmacyName": "Soul Pattinson Chemist Ascot \nMedical Ctr",
+  "Address1": "7/398 Great Eastern Highway",
+  "Suburb": "Ascot",
+  "Phone": "9277 3435",
+  "Fax": "9277 9719",
+  "ContactEmail": "ascotpharmacy@outlook.com",
+  "Treatment": "M",
+  "OpeningHours": "5 DAYS M-F 8.30-5",
+  "State": "WA",
+  "Postcode": 6104,
+  "ContactPerson": "Dan Nguyen",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Formerly 'Ascot Medical Centre Pharmacy'"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d23"
+  },
+  "PharmacyName": "Ashfield Community Chemist",
+  "Address1": "1B Colstoun Road",
+  "Suburb": "Ashfield",
+  "Phone": "6161 9958",
+  "Fax": "6161 9958",
+  "ContactEmail": "ashfieldchemist@optusnet.com.au",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 8.30-7 \nSat 8.30-6",
+  "State": "WA",
+  "Postcode": 6054,
+  "ContactPerson": "Mr Ben Tran",
+  "PreferredContactMethod": "{Not Stated}",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0422 373 465 Ben Tran**"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d24"
+  },
+  "PharmacyName": "Atwell Community Pharmacy",
+  "Address1": "Shop 12 Stargate SC\n129 Lydon Boulevard",
+  "Suburb": "Atwell",
+  "Phone": "9414 6000",
+  "Fax": "9414 6100",
+  "ContactEmail": "atwellrx@bigpond.net.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS  8-8",
+  "State": "WA",
+  "Postcode": 6164,
+  "ContactPerson": "John",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0417 989 077 John**"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d25"
+  },
+  "PharmacyName": "Harvest Lakes Discount Drug \nStore",
+  "Address1": "2/23 Gibbs Road",
+  "Suburb": "Atwell",
+  "Phone": "6363 5841",
+  "Fax": "9395 8297",
+  "ContactEmail": "hl@rkpharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS 7am-12am",
+  "State": "WA",
+  "Postcode": 6164,
+  "ContactPerson": "Ms Denise Poon",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0431 603 285 Denise Poon**\n *Accept One-off dosing* Dosing between 6.30am and 11.30pm"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d26"
+  },
+  "PharmacyName": "Pharmacy 777 Augusta",
+  "Address1": "87-89 Blackwood Avenue",
+  "Suburb": "Augusta",
+  "Phone": "9758 1516",
+  "Fax": "9758 1400",
+  "ContactEmail": "augusta@pharmacy777.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 9-1, 2-5.30\nSat 9-5 Sun 10-2",
+  "State": "WA",
+  "Postcode": 6290,
+  "ContactPerson": "Mrs Beth Hastie",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Accept One-off dosing* \"Formerly Augusta Pharmacy\""
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d27"
+  },
+  "PharmacyName": "Chemwise Pharmacy Australind",
+  "Address1": "3/12 Leisure Drive",
+  "Suburb": "Australind",
+  "Phone": "9797 0874",
+  "Fax": "9725 9628",
+  "ContactEmail": "australind@chemwisepharmacy.com.au",
+  "OpeningHours": "6 DAYS M-F 8-6 \nSat 8.30-12.30",
+  "State": "WA",
+  "Postcode": 6233,
+  "ContactPerson": "Chirag Shah",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0437 515 367 Mary Rose** \n*Accept One-off dosing Bup-N only* Formerly \"777 Australind\",\"Friendlies Australind\""
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d28"
+  },
+  "PharmacyName": "Pharmacy 777 Aveley",
+  "Address1": "Shop 10 The Vale Town Centre\nSwanleigh Parade",
+  "Suburb": "Aveley",
+  "Phone": "6296 4183",
+  "Fax": "6296 4219",
+  "ContactEmail": "aveley@pharmacy777.com.au",
+  "Treatment": "M",
+  "Administer": "Mr Shilan\nDodhia",
+  "OpeningHours": "7 DAYS M-F 8-7 \nSat-Sun 8.30-5",
+  "State": "WA",
+  "Postcode": 6069,
+  "ContactPerson": "Mr Shilan Dodhia",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0407 084 708 Shilan Dodhia* \n*Formerly \"Friendlies Aveley\", \"Pharmacy @ Vale\""
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d29"
+  },
+  "PharmacyName": "Baldivis Pharmacy",
+  "Address1": "2 Wattlebird Way",
+  "Suburb": "Baldivis",
+  "Phone": "9524 2422",
+  "Fax": "9523 2422",
+  "ContactEmail": "kate@baldivispharmacy.com.au",
+  "OpeningHours": "7 DAYS M-Sun 7am-10pm",
+  "State": "WA",
+  "Postcode": 6171,
+  "ContactPerson": "Ms Kate Dupagne",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Not taking new client-updated 4 May 2021"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d2a"
+  },
+  "PharmacyName": "Blooms The Chemist \nBaldivis Stockland",
+  "Address1": "Shop 17 Stockland Shopping Ctr\nSafety Bay Road",
+  "Suburb": "Baldivis",
+  "Phone": "9524 3803",
+  "Fax": "9523 2186",
+  "ContactEmail": "baldivisstockland@blooms.net.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-Sun 8-8.30",
+  "State": "WA",
+  "Postcode": 6171,
+  "ContactPerson": "Mr Dhruvkumar Shah",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Not taking patients currently 27/07/21"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d2b"
+  },
+  "PharmacyName": "Clinicare Compounding\nPharmacy Baldivis",
+  "Address1": "Unit 1, 7 Minden Lane",
+  "Suburb": "Baldivis",
+  "Phone": "9523 2274",
+  "Fax": "9523 2394",
+  "ContactEmail": "baldivis@clinicarepharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 8.30-5.30 \nSat 9-1",
+  "State": "WA",
+  "Postcode": 6171,
+  "ContactPerson": "Philip Johnston",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0431 829 261 Philip Johnston**"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d2c"
+  },
+  "PharmacyName": "Optimal Pharmacy Plus Balga",
+  "Address1": "Shop 7 Fieldgate Square\n25 Culloton Cres",
+  "Suburb": "Balga",
+  "Phone": "9342 2212",
+  "Fax": "9342 7721",
+  "ContactEmail": "pm-oppba@westnet.com.au",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-Sat 8-6 ",
+  "State": "WA",
+  "Postcode": 6061,
+  "ContactPerson": "Guido Fazari",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Formerly Guardian Pharmacy Balga"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d2d"
+  },
+  "PharmacyName": "Amcal Pharmacy Ballajura",
+  "Address1": "Shop 4 & 5, 5 Hamelin Drive",
+  "Suburb": "Ballajura",
+  "Phone": "9248 1593",
+  "Fax": "9248 8064",
+  "ContactEmail": "malagapharmacy@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8.30-6.30 \nSat 8.30-5 Sun 11-4",
+  "State": "WA",
+  "Postcode": 6090,
+  "ContactPerson": "Mrs Nhu Serena Tran",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Formerly Health First Pharmacy Malaga"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d2e"
+  },
+  "PharmacyName": "TerryWhite Chemmart \nBanksia Grove",
+  "Address1": "PO Box 203 Joondalup DC          WA 6919",
+  "Suburb": "Banksia \nGrove",
+  "Phone": "9206 2712",
+  "Fax": "9206 1764",
+  "ContactEmail": "banksiagrove@twcmgroup.com",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-7 Sat 8-6 \nSun 11-5",
+  "State": "WA",
+  "Postcode": 6031,
+  "ContactPerson": "Kalpesh Shah",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*EMERGENCY USE ONLY(not be given to clients)-0411 432 184 Kalpesh Fulchand Shah* \nAccept one-off dosing  \"Formerly Banksia Grove Chemmart Pharmacy\"\nT2 Woolworths Banksia Grove SC, 81 Ghost Gum Blvd"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d2f"
+  },
+  "PharmacyName": "Wizard Pharmacy Banksia \nGrove",
+  "Address1": "Shop 15 Banksia Grove Village\n1001 Joondalup Drive",
+  "Suburb": "Banksia \nGrove",
+  "Phone": "9206 1011",
+  "Fax": "9206 1022",
+  "ContactEmail": "csc.banksiagrove1@wizardphy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-7, Sat 8-5\nSun 11-5",
+  "State": "WA",
+  "Postcode": 6031,
+  "ContactPerson": "Andrew Stent",
+  "PreferredContactMethod": "Email",
+  "Notes": "Formerly \"Friendlies Pharmacy Banksia Grove\" Accept one-off dosing"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d30"
+  },
+  "PharmacyName": "Bassendean Pharmacy",
+  "Address1": "1 Old Perth Road",
+  "Suburb": "Bassendean",
+  "Phone": "9279 2495",
+  "Fax": "9279 1277",
+  "ContactEmail": "bassendeanpharmacy@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 8-6 Sat 8-2",
+  "State": "WA",
+  "Postcode": 6054,
+  "ContactPerson": "Quock Khanh NGUYEN",
+  "PreferredContactMethod": "Phone"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d31"
+  },
+  "PharmacyName": "Home Care Pharmacy \nBassendean",
+  "Address1": "51 Old Perth Road",
+  "Suburb": "Bassendean",
+  "Phone": "9279 9503",
+  "Fax": "6270 7066",
+  "ContactEmail": "homecarepharmacybassendean@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "5 DAYS M-F 8.30-6",
+  "State": "WA",
+  "Postcode": 6054,
+  "ContactPerson": "Quoc Khanh NGUYEN",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0412 078 474 Quoc Khanh Nguyen*\nAccept One-off dosing *Formerly Pharmacy 51*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d32"
+  },
+  "PharmacyName": "TerryWhite Chemmart \nBayonet Head",
+  "Address1": "Shop 8 Bayonet Head SC\n208 Lower King Road",
+  "Suburb": "Bayonet \nHead",
+  "Phone": "9844 9615",
+  "Fax": "9844 9416",
+  "ContactEmail": "bayonethead@terrywhitechemmart.com.au",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-Fri 8-6, Sat 8-5",
+  "State": "WA",
+  "Postcode": 6330,
+  "ContactPerson": "Mrs Penelope Gooding",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Accept One-off dosing* \nFormerly \"Terry White Chemists Bayonet Head, Bayonet Head Pharmacy\""
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d33"
+  },
+  "PharmacyName": "Amcal Bayswater Drive-in \nPharmacy",
+  "Address1": "431 Guilford Road",
+  "Suburb": "Bayswater",
+  "Phone": "9272 4465 ",
+  "Fax": "9272 6102 ",
+  "ContactEmail": "bdic@bigpond.com",
+  "OpeningHours": "7 DAYS Mon-Sat 8-7\nSat 8-6 Sun/PH 9-6",
+  "State": "WA",
+  "Postcode": 6053,
+  "ContactPerson": "Sophie / Justin",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0423 064 688 Tin TRAN or\n 0417 558 806 Riwan SU** \nFormerly 'Bayswater Drive in Chemist'"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d34"
+  },
+  "PharmacyName": "Amcal Night And Day Pharmacy \nBayswater",
+  "Address1": "Unit 1 / 488 Walter Road E",
+  "Suburb": "Bayswater",
+  "Phone": "9378 1917",
+  "Fax": "9377 7024",
+  "ContactEmail": "bayswater1@guardianpharm.net",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-Sat 8-7 Sun 8-5",
+  "State": "WA",
+  "Postcode": 6053,
+  "ContactPerson": "Mark, Ron",
+  "PreferredContactMethod": "Phone",
+  "Notes": "FULL - no new CLs 24/11/22\nFormerly 'Night and Day Pharmacy Bayswater'"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d35"
+  },
+  "PharmacyName": "Pharmacy 777 Bayswater",
+  "Address1": "1 King William Street",
+  "Suburb": "Bayswater",
+  "Phone": "9371 8342",
+  "Fax": "9271 1275",
+  "ContactEmail": "bayswater@pharmacy777.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS+P/H 8am-8pm",
+  "State": "WA",
+  "Postcode": 6053,
+  "ContactPerson": "Miss Yi Lin Boo",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0433 935 315 Yi Lin** \n*Accept One-off dosing* Seeking new clients"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d36"
+  },
+  "PharmacyName": "Beaconsfield Community \nPharmacy",
+  "Address1": "Shop 7 Beaconsfield Plaza SC\n115 Lefroy Road",
+  "Suburb": "Beaconsfield",
+  "Phone": "9337 2054",
+  "Fax": "6477 3624",
+  "ContactEmail": "bcp115@outlook.com",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-7 \nSat+P/H 8-5 Sun 8-1",
+  "State": "WA",
+  "Postcode": 6162,
+  "ContactPerson": "Mr Frank La Macchia",
+  "PreferredContactMethod": "Email",
+  "Notes": "*Accept One-off dosing* *Emergency mobile 0411745924*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d37"
+  },
+  "PharmacyName": "Advantage Pharmacy Bedford",
+  "Address1": "Unit 11 / 215 Grand Promenade",
+  "Suburb": "Bedford",
+  "Phone": "6155 6830 \n9271 2725",
+  "Fax": "6155 6839",
+  "ContactEmail": "pharmacist@bedfordpharmacy.com.au",
+  "Treatment": "M",
+  "Administer": "Wesley\nWilliams",
+  "OpeningHours": "6 DAYS M-F 8.30-5.30\nSat 8.30-1",
+  "State": "WA",
+  "Postcode": 6052,
+  "ContactPerson": "Jeff Au",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Formerly Bedford Pharmacy \n*Accept One-off Dosing* No dosing during the first and last hour of opening time."
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d38"
+  },
+  "PharmacyName": "Healthlink Pharmacy Beechboro",
+  "Address1": "Unit 2, 252 Benara Road",
+  "Suburb": "Beechboro",
+  "Phone": "9279 4887",
+  "Fax": "9279 6644",
+  "ContactEmail": "healthlink.beechboro@outlook.com",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 9-6.30\nSat-Sun 9-12.30",
+  "State": "WA",
+  "Postcode": 6063,
+  "ContactPerson": "Mr Mohidien Khan",
+  "PreferredContactMethod": "Email",
+  "Notes": "NO new referrals Sep 2023\n**EMERGENCY USE ONLY (not be given to clients) - 0438 786 119 Mohidien Khan** \nAccept One-off dosing* Closed on Public Holidays"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d39"
+  },
+  "PharmacyName": "Optimal Pharmacy Plus \nAltone Park",
+  "Address1": "Shop 12-13 161 Altone Road",
+  "Suburb": "Beechboro",
+  "Phone": "9279 9727",
+  "Fax": "9279 5594",
+  "ContactEmail": "oppap@iinet.net.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8.30-6.30 \nSat 8.30-5 Sun 11-5",
+  "State": "WA",
+  "Postcode": 6063,
+  "ContactPerson": "Anthony Gascoigne",
+  "PreferredContactMethod": "Phone"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d3a"
+  },
+  "PharmacyName": "Beeliar Community Pharmacy",
+  "Address1": "Shop 8, 28 Lakefront Avenue",
+  "Suburb": "Beeliar",
+  "Phone": "6498 9346",
+  "Fax": "6498 9342",
+  "ContactEmail": "info@bcpchemist.com.au",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-Sat 8.30-6 \nSun 9-1",
+  "State": "WA",
+  "Postcode": 6164,
+  "ContactPerson": "Mr How Lok",
+  "PreferredContactMethod": "Phone"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d3b"
+  },
+  "PharmacyName": "Soul Pattinson Chemist Beeliar",
+  "Address1": "1/ 8 Durnin Avenue",
+  "Suburb": "Beeliar",
+  "Phone": "9437 3677",
+  "Fax": "9437 3477",
+  "ContactEmail": "spcbeeliar@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 7.30-8.30 Sat-Sun 8-6",
+  "State": "WA",
+  "Postcode": 6164,
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0421 558 305 Nirmal Badesha**\n Formerly \"Pharmacist Advice Beeliar\" \"Beeliar Discount Drug Store\""
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d3c"
+  },
+  "PharmacyName": "Greenleaf Pharmacy Belridge",
+  "Address1": "Shops 10-11 Belridge Shopping Ctr \nOcean Reef Road",
+  "Suburb": "Beldon",
+  "Phone": "6555 1833",
+  "Fax": "NIL",
+  "ContactEmail": "belridge@greenleaf.au",
+  "Treatment": "M",
+  "Administer": "Chang Mei \nCHEW (Rachel)",
+  "OpeningHours": "7 DAYS M-F 8-8 Sat 8-6 \nSun 11-5",
+  "State": "WA",
+  "Postcode": 6027,
+  "ContactPerson": "Ms Chang Mei CHEW (Rachel)",
+  "PreferredContactMethod": "Phone"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d3d"
+  },
+  "PharmacyName": "Amcal Epsom Ave Pharmacy",
+  "Address1": "148 Epsom Avenue",
+  "Suburb": "Belmont",
+  "Phone": "9277 3446",
+  "Fax": "9277 5587",
+  "ContactEmail": "epsomavenue@amcal.net.au",
+  "Treatment": "M",
+  "Administer": "Ellsy Choo",
+  "OpeningHours": "6 DAYS M-F 8.30-6 \nSat 8.30-5",
+  "State": "WA",
+  "Postcode": 6104,
+  "ContactPerson": "Ms Li Chuen (Ellsy) Choo",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "*Formerly Pharmacy 777 Belmont, Belmont Discount Drug Store* Mobile No. 0437 625 685 \nPlease fax script or check with pharmacy if emailed"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d3e"
+  },
+  "PharmacyName": "TerryWhite Chemmart \nBennett Springs",
+  "Address1": "Shop 11-12 Springs SC\nBridgeman Drive",
+  "Suburb": "Bennett \nSprings",
+  "Phone": "9377 7087",
+  "Fax": "9378 9385",
+  "ContactEmail": "springschemmart@westnet.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8.30am-7pm \nSat 8.30-5 Sun 11-5",
+  "State": "WA",
+  "Postcode": 6063,
+  "ContactPerson": "Mr Michael Japp",
+  "PreferredContactMethod": "Phone",
+  "Notes": "NO new referrals Sep 2023\n**EMERGENCY USE ONLY (not be given to clients) - 0417 385 485 Michael Japp** \n\"Formerly Springs Chemmart Pharmacy\" Please fax scripts or check with pharmacy if script is emailed"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d3f"
+  },
+  "PharmacyName": "Gerald Burns Pharmacy",
+  "Address1": "Shop 7 Melville Plaza SC\n380 Canning Highway",
+  "Suburb": "Bicton",
+  "Phone": "9339 3696",
+  "Fax": "9339 3809",
+  "ContactEmail": "geraldburns.pharmacy@frednet.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS+P/H M-Sat 8-8 \nSun+P/H 11-5",
+  "State": "WA",
+  "Postcode": 6157,
+  "ContactPerson": "Amanda Bryce",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "Only taking patients who have been stable on the program for 5 years - 02/06/21"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d40"
+  },
+  "PharmacyName": "Terrywhite Chemmart Bindoon",
+  "Address1": "25 Binda Place",
+  "Suburb": "Bindoon",
+  "Phone": "9576 1666",
+  "Fax": "9576 1777",
+  "ContactEmail": "bindoon@twcmgroup.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 9-5.30\nSat 9-4 Sun 9-2",
+  "State": "WA",
+  "Postcode": 6502,
+  "ContactPerson": "Mr Omid Zare",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Accept One-off dosing MMTP only* Formerly Bindoon Pharmacy"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d41"
+  },
+  "PharmacyName": "Boddington Pharmacy",
+  "Address1": "27 Bannister Road",
+  "Suburb": "Boddington",
+  "Phone": "9883 9962",
+  "Fax": "9883 9983",
+  "ContactEmail": "boddingtonpharmacy@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 8.30-6\nSat 8.30-12.30",
+  "State": "WA",
+  "Postcode": 6390,
+  "ContactPerson": "Mr Hian-Boon Hsu",
+  "PreferredContactMethod": "{Not Stated}"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d42"
+  },
+  "PharmacyName": "Wizard Pharmacy Garden City \n(Kmart Mall)",
+  "Address1": "Shop 120 Garden City SC\n125 Riseley Street",
+  "Suburb": "Booragoon",
+  "Phone": "9364 7606",
+  "Fax": "9463 6263",
+  "ContactEmail": "pm.gardencity1@wizardphy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8.30-5.30 \nSat 8.30-5 Sun 11-5",
+  "State": "WA ",
+  "Postcode": 6154,
+  "ContactPerson": "Mr Aaron Poon",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Seek more clients 7 Aug 2024"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d43"
+  },
+  "PharmacyName": "Boulder Pharmacy",
+  "Address1": "46-48 Burt Street",
+  "Suburb": "Boulder",
+  "Phone": "9093 1150",
+  "Fax": "9034 8177",
+  "ContactEmail": "boulderpharmacy@gmail.com",
+  "Treatment": "M",
+  "Administer": "Brooke\nGoddard",
+  "OpeningHours": "7 DAYS M-Sun 8.30-5.30\nSat 8.30-2 Sun 9-2",
+  "State": "WA",
+  "Postcode": 6432,
+  "PreferredContactMethod": "Phone",
+  "Notes": "Formerly \"PharmaSave Boulder Pharmacy\""
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d44"
+  },
+  "PharmacyName": "Boyanup Pharmacy",
+  "Address1": "1/72 Bridge Street",
+  "Suburb": "Boyanup",
+  "Phone": "9731 5000",
+  "Fax": "9716 7474",
+  "ContactEmail": "boyanuppharmacy@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "5 DAYS M-F 9-5",
+  "State": "WA",
+  "Postcode": 6237,
+  "ContactPerson": "Mr Peter Meiring",
+  "PreferredContactMethod": "{Not Stated}",
+  "Notes": "Not planning to take on Depot Admin clients (10/6/24)"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d45"
+  },
+  "PharmacyName": "Boyup Brook Pharmacy",
+  "Address1": "83 Abel Street",
+  "Suburb": "Boyup Brook",
+  "Phone": "9765 1066",
+  "Fax": "6316 4403",
+  "ContactEmail": "admin@boyupbrookpharmacy.com.au",
+  "Treatment": "M",
+  "Administer": "Mrs Kathryn\nWestphal",
+  "OpeningHours": "6 DAYS M-F 9-5 Sat 9-12",
+  "State": "WA",
+  "Postcode": 6244,
+  "ContactPerson": "John Forster",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "*Accept one-offs dosing*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d46"
+  },
+  "PharmacyName": "Brentwood Pharmacy",
+  "Address1": "64 Cranford Ave",
+  "Suburb": "Brentwood",
+  "Phone": "9364 2750",
+  "Fax": "9316 2656",
+  "ContactEmail": "pharmacist@brentwoodpharmacy.com.au",
+  "Treatment": "M",
+  "Administer": "Michelle\nMcAnuff",
+  "OpeningHours": "7 DAYS M-F 8.30-7\nSat 8.30-5 Sun  9-12",
+  "State": "WA",
+  "Postcode": 6153,
+  "ContactPerson": "Michelle Mcanuff",
+  "PreferredContactMethod": "Phone"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d47"
+  },
+  "PharmacyName": "Pharmacy 777 Bridgetown",
+  "Address1": "PO Box 30",
+  "Suburb": "Bridgetown",
+  "Phone": "9761 1004",
+  "Fax": "9761 4103",
+  "ContactEmail": "bridgetown@pharmacy777.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS + P/H 8-7",
+  "State": "WA",
+  "Postcode": 6255,
+  "ContactPerson": "Mauro Stocco",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Accept One-off dosing* 127 Hampton St, Bridgetown Mobile: 0419903773"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d48"
+  },
+  "PharmacyName": "Broome Pharmacy",
+  "Address1": "PO Box 7479",
+  "Suburb": "Broome",
+  "Phone": "9192 1866",
+  "Fax": "9193 5132",
+  "ContactEmail": "dispensary@broomepharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8.30-6\nSat 8.30-5 Sun 9-3",
+  "State": "WA",
+  "Postcode": 6725,
+  "ContactPerson": "Jordan Lindquist",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "*Accept one-offs dosing* **ALL Mail should go to PO Box address above*\nShop 12 & 13 Broome Boulevard Shopping Centre, Frederick Street,Broome WA 6725 \n*Former PO Box 1542*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d49"
+  },
+  "PharmacyName": "Kimberley Pharmacy \nServices (Broome)",
+  "Address1": "61-63 Robinson Street",
+  "Suburb": "Broome",
+  "Phone": "9192 3611",
+  "Fax": "9192 3699",
+  "ContactEmail": "kps@kimberleypharmacyservices.com.au",
+  "Treatment": "M",
+  "OpeningHours": "6 Days \nM-F 8.30-5, Sat 9-2",
+  "State": "WA",
+  "Postcode": 6725,
+  "ContactPerson": "Ms Hannah Mann",
+  "PreferredContactMethod": "Phone",
+  "Notes": " "
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d4a"
+  },
+  "PharmacyName": "TerryWhite Chemmart Bullsbrook",
+  "Address1": "Shop 1A The Brooks SC\n2529 Great Northern Hwy",
+  "Suburb": "Bullsbrook",
+  "Phone": "9571 1122 ",
+  "Fax": "6230 4923",
+  "ContactEmail": "admin@bullsbrookpharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS \nM-F 8-6.30 Sat 8-5 \nSun 9-4",
+  "State": "WA",
+  "Postcode": 6084,
+  "ContactPerson": "Mr Omid Zare - Owner",
+  "PreferredContactMethod": "{Not Stated}",
+  "Notes": "*Formerly Bullsbrook Pharmacy*  Not opening PUBLIC HOLIDAYS"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d4b"
+  },
+  "PharmacyName": "Bunbury Drive In Pharmacy",
+  "Address1": "55 Forrest Avenue",
+  "Suburb": "Bunbury",
+  "Phone": "9791 2447",
+  "Fax": "9721 9955",
+  "ContactEmail": "admin@bdicwa.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS 8.30am-9pm",
+  "State": "WA",
+  "Postcode": 6230,
+  "ContactPerson": "Mr Ross Darnell",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Accept One-off dosing* Full-not taking new clients 05/06/20 "
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d4c"
+  },
+  "PharmacyName": "Chemwise Pharmacy Bunbury",
+  "Address1": "Unit 1, 122 Spencer St",
+  "Suburb": "Bunbury",
+  "Phone": "9721 6555",
+  "Fax": "9791 1068",
+  "ContactEmail": "bunbury@chemwisepharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-Fri 8-6\nSat 9-5",
+  "State": "WA",
+  "Postcode": 6230,
+  "ContactPerson": "Kalpesh Shah",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0411 432 184 Kalpesh Shah** \nFormerly \"Friendlies Bunbury\", \"Pharmacy Plus Bunbury\", \"Pharmacy 777 Bunbury Spencer St\""
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d4d"
+  },
+  "PharmacyName": "TerryWhite Chemmart South City",
+  "Address1": "182 Spencer Street",
+  "Suburb": "Bunbury",
+  "Phone": "9721 2341",
+  "Fax": "9721 2829",
+  "ContactEmail": "webster@southcitypharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-Fri 8-7 \nSat 8.30-5 Sun 10-1",
+  "State": "WA",
+  "Postcode": 6230,
+  "ContactPerson": "Pharmacist on duty/Evelyn Ong",
+  "PreferredContactMethod": "Fax",
+  "Notes": "*Accept one-off dosing* **EMERGENCY USE ONLY (not be given to clients) - 0430 222 839 Evelyn Ong or 0421 842 310 Mark Smith** \n*Formerly South City Chemmart Pharmacy* Not taking clients currently 04/08/20 "
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d4e"
+  },
+  "PharmacyName": "Pharmacy 777 Usher Compounding",
+  "Address1": "36 Cranbrook Way",
+  "Suburb": "Bunbury",
+  "Phone": "9795 7631",
+  "Fax": "9795 5560",
+  "ContactEmail": "usher@pharmacy777.com.au",
+  "Treatment": "M",
+  "Administer": "Chaoqun \nWAN",
+  "OpeningHours": "6 DAYS M-F 9-5\nSat 9-12",
+  "State": "WA",
+  "Postcode": 6230,
+  "ContactPerson": "Warren Cargill",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0411 125 310 Warren** \n*Accept One-off dosing* Formerly Usher Pharmacy, Usher Compounding Pharmacy"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d4f"
+  },
+  "PharmacyName": "Wizard Pharmacy \nBunbury Centrepoint",
+  "Address1": "Shop 4 Bunbury Centrepoint SC\n60 Blair Street",
+  "Suburb": "Bunbury",
+  "Phone": "9721 5166",
+  "Fax": "9721 5192",
+  "ContactEmail": "dispensary.bunbury3@wizardphy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-Sun 8.30-5.30",
+  "State": "WA",
+  "Postcode": 6230,
+  "ContactPerson": "Mr Giovanni Antonelli",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Not taking new clients 04/08/20 Formerly \"Centrepoint Amcal Chemist\" "
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d50"
+  },
+  "PharmacyName": "Amcal Express Burswood ",
+  "Address1": "265 Great Eastern Hwy",
+  "Suburb": "Burswood",
+  "Phone": "9361 8777",
+  "Fax": "9361 8077",
+  "ContactEmail": "burswood@amcal.net.au",
+  "Treatment": "M",
+  "Administer": "Tyson \nWellman",
+  "OpeningHours": "7 DAYS+P/H 8-11pm\nDepot Admin Tue-Thu 12-6pm",
+  "State": "WA",
+  "Postcode": 6100,
+  "ContactPerson": "Tyson Wellman",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Approved for 180 clients.\n**Accept One-off dosing** Formerly Amcal Max Burswood \nFormerly Burswood Amcal Night and Day Chemist"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d51"
+  },
+  "PharmacyName": "Broadwater Pharmacy Busselton",
+  "Address1": "Shop 14 Broadwater Village\nBussell Highway",
+  "Suburb": "Busselton",
+  "Phone": "9754 2626",
+  "Fax": "9754 2421",
+  "ContactEmail": "scripts@bwaterpharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS 8.30-6pm",
+  "State": "WA",
+  "Postcode": 6280,
+  "ContactPerson": "David Lismann",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0401 767 651 Michael Hewson** \n*Accept One-off dosing*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d52"
+  },
+  "PharmacyName": "Busselton Discount Drug Store",
+  "Address1": "Shop 8, 67 Kent Street",
+  "Suburb": "Busselton",
+  "Phone": "9752 1879",
+  "Fax": "9754 7393",
+  "ContactEmail": "disp@bsndds.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS+P/H M-Sat 8-6\nSun 10-5",
+  "State": "WA",
+  "Postcode": 6280,
+  "ContactPerson": "Warren Oliver",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Accept One-off dosing* Formerly Busselton Healthsense Pharmacy"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d53"
+  },
+  "PharmacyName": "Geographe Pharmacy",
+  "Address1": "Shop 5 Bayside SC\n330 Marine Terrace",
+  "Suburb": "Busselton",
+  "Phone": "9752 1700",
+  "Fax": "9752 1600",
+  "ContactEmail": "geographepharmacy@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 8-6 Sat 8-2",
+  "State": "WA",
+  "Postcode": 6280,
+  "ContactPerson": "Ms Nadine Botha",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Formerly \"Pharmacy 777 Busselton Bayside\""
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d54"
+  },
+  "PharmacyName": "Pharmacy 777 Busselton",
+  "Address1": "Shop 5 Central Shopping Centre\n5 Prince St",
+  "Suburb": "Busselton",
+  "Phone": "9752 1276",
+  "Fax": "9754 4275",
+  "ContactEmail": "busselton.pharmacist@pharmacy777.com.au",
+  "Treatment": "M",
+  "Administer": "Mr Scott\nBraddock",
+  "OpeningHours": "7 DAYS 8-6",
+  "State": "WA",
+  "Postcode": 6280,
+  "ContactPerson": "Mr Scott Braddock",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Formerly Friendlies Busselton\", \"Chemmart Central Pharmacy Busselton\" "
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d55"
+  },
+  "PharmacyName": "Busselton Pharmacy",
+  "Address1": "Shop 3 West Busselton SC\n170 Bussell Highway",
+  "Suburb": "Busselton",
+  "Phone": "9754 2922",
+  "Fax": "9754 2117",
+  "ContactEmail": "scripts@busseltonpharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-7 \nSat 8-6 Sun 9-5",
+  "State": "WA",
+  "Postcode": 6280,
+  "ContactPerson": "Mr Jarred Smith",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Accept One-off dosing* Contact first before referring clients\nFormerly West Busselton Pharmacy"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d56"
+  },
+  "PharmacyName": "Pharmacy 777 Butler",
+  "Address1": "8 / 2 Captiva Approach",
+  "Suburb": "Butler",
+  "Phone": "9562 1397",
+  "Fax": "9562 1048",
+  "ContactEmail": "butler@pharmacy777.com.au",
+  "Treatment": "M",
+  "Administer": "Mr Mena\nBotross",
+  "OpeningHours": "7 DAYS M-Sun 7-9",
+  "State": "WA",
+  "Postcode": 6036,
+  "ContactPerson": "Mena Botross",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Open for new clients as of 24 February 2020*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d57"
+  },
+  "PharmacyName": "Superchem Butler Pharmacy",
+  "Address1": "7/175 Butler Road",
+  "Suburb": "Butler",
+  "Phone": "9562 1074",
+  "Fax": "9562 0308",
+  "ContactEmail": "butler@superchem.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8.30-7pm \nSat 9-5 Sun 11-5",
+  "State": "WA",
+  "Postcode": 6036,
+  "ContactPerson": "Mr Pak Yew Wong",
+  "PreferredContactMethod": "Phone"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d58"
+  },
+  "PharmacyName": "Byford Glades 7 Day Pharmacy",
+  "Address1": "Shop E, 15 Covenant Lane",
+  "Suburb": "Byford",
+  "Phone": "9526 4777",
+  "Fax": "9526 4788",
+  "ContactEmail": "by@rkpharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 Days 8-8",
+  "State": "WA",
+  "Postcode": 6122,
+  "ContactPerson": "David Tran",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Formerley Byford Discount Drug Store"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d59"
+  },
+  "PharmacyName": "Priceline Pharmacy Byford",
+  "Address1": "Shop 2 Byford Village SC\n20 Abernethy Road",
+  "Suburb": "Byford",
+  "Phone": "9525 6222",
+  "Fax": "9525 6225",
+  "ContactEmail": "pp.byford@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-8 Sat 8-5 \nSun & P/H 9-5",
+  "State": "WA",
+  "Postcode": 6122,
+  "ContactPerson": "Kevin Cho",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0422 794 486 Kevin Cho** \n*Accept One-off dosing* Looking for new clients"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d5a"
+  },
+  "PharmacyName": "Canning Vale Pharmacy",
+  "Address1": "1/11 Vostan Road",
+  "Suburb": "Canning Vale",
+  "Phone": "6258 5238",
+  "ContactEmail": "info@canningvalepharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 9-6 Sat 9-2 Sun 9-12",
+  "State": "WA ",
+  "Postcode": 6155,
+  "ContactPerson": "Ms Julie Lazum",
+  "PreferredContactMethod": "Phone"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d5b"
+  },
+  "PharmacyName": "Hamilton's Compounding \nPharmacy",
+  "Address1": "33 Rousham Street",
+  "Suburb": "Canning Vale",
+  "Phone": "6254 2700",
+  "Fax": "6254 2707",
+  "ContactEmail": "hamiltonshealth@westnet.com.au",
+  "Treatment": "M",
+  "OpeningHours": "5 DAYS M-F 9-5 \n",
+  "State": "WA",
+  "Postcode": 6155,
+  "ContactPerson": "Felecia Hamilton",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "Formerly \"Hamilton's Health Performance Pharmacy\""
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d5c"
+  },
+  "PharmacyName": "Wizard Pharmacy Livingston",
+  "Address1": "Shop 17, 100 Ranford Road",
+  "Suburb": "Canning Vale",
+  "Phone": "9456 5000",
+  "Fax": "9456 5500",
+  "ContactEmail": "pm.livingston1@wizardphy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 8-7\nSat 8-5.30 Sun 11-5",
+  "State": "WA",
+  "Postcode": 6155,
+  "ContactPerson": "Peter Santos / Jeffrey Lam",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Do not accept clients.  Supply pharmacy only (1/1/19)"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d5d"
+  },
+  "PharmacyName": "Market City Pharmacy",
+  "Address1": "1/280 Bannister Road",
+  "Suburb": "Canning Vale",
+  "Phone": "9278 6560",
+  "Fax": "9278 6561",
+  "ContactEmail": "john@marketcitypharmacy.com",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 7-7 \nSat & Sun 8-4",
+  "State": "WA",
+  "Postcode": 6155,
+  "ContactPerson": "John Nguyen",
+  "PreferredContactMethod": "{Not Stated}",
+  "Notes": "*Accept One-off dosing* "
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d5e"
+  },
+  "PharmacyName": "Amcal Pharmacy Cannington",
+  "Address1": "Shop 1001-3 Westfield Carousel\n1382 Albany Highway",
+  "Suburb": "Cannington",
+  "Phone": "9351 9147",
+  "Fax": "9351 9264",
+  "ContactEmail": "cannington@amcal.net.au",
+  "Treatment": "M",
+  "OpeningHours": "7 Days 9-5.30 Sat 9-5 \nSun 11-5",
+  "State": "WA",
+  "Postcode": 6107,
+  "ContactPerson": "Mandy Lu",
+  "PreferredContactMethod": "{Not Stated}"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d5f"
+  },
+  "PharmacyName": "Cannington Medical \nCentre Pharmacy",
+  "Address1": "Shop 1, 8-10 Hamilton Street",
+  "Suburb": "Cannington",
+  "Phone": "9356 7556",
+  "ContactEmail": "canningtonmedical.pharmacy@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 7am-8pm \nSat-Sun 8am-8pm",
+  "State": "WA",
+  "Postcode": 6107,
+  "ContactPerson": "Lin Tzee LOH",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Switchboard Phone Nr 6298 9999* \n*EMERGENCY USE ONLY (not be given to clients) - 0402 196 135 Lin Tzee LOH** \nNot accepting one-off dosing but seeking more permanent patients\nNil fax available, email only please"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d60"
+  },
+  "PharmacyName": "Wizard Pharmacy Cannington (Full)",
+  "Address1": "Shop 23 1480-1490 Albany Hwy",
+  "Suburb": "Cannington",
+  "Phone": "9258 4516",
+  "Fax": "9258 4718",
+  "ContactEmail": "pm.cannington1@wizardphy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 7.30-8 \nSat-Sun 9-7",
+  "State": "WA",
+  "Postcode": 6107,
+  "ContactPerson": "Aga Palecka - Manager",
+  "PreferredContactMethod": "Phone",
+  "Notes": "No new referrals 22 Oct 2021\n**EMERGENCY USE ONLY (not be given to clients) - 0403 499 622 Esther HO** "
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d61"
+  },
+  "PharmacyName": "Capel Pharmacy",
+  "Address1": "21 Properjohn Road",
+  "Suburb": "Capel",
+  "Phone": "9727 3300",
+  "Fax": "9727 3033",
+  "ContactEmail": "capelpharmacy@hotmail.com",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 8.30-5.30 \nSat 8.30-12noon",
+  "State": "WA",
+  "Postcode": 6271,
+  "ContactPerson": "David Lisman",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0430 022 397 David Lisman** "
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d62"
+  },
+  "PharmacyName": "Caring Pharmacy Carlisle",
+  "Address1": "50 Planet Street",
+  "Suburb": "Carlisle",
+  "Phone": "9361 9778",
+  "Fax": "9361 9778",
+  "ContactEmail": "Carlisle@caringpharmacy.com.au",
+  "Treatment": "M",
+  "Administer": "Paul Lai",
+  "OpeningHours": "7 DAYS M-F 8.30-6, Sat 8.30-5, Sun 9-1",
+  "State": "WA",
+  "Postcode": 6101,
+  "ContactPerson": "Paul Lai",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Formerly \"Carlisle Pharmacy\""
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d63"
+  },
+  "PharmacyName": "Amcal Chemist Carnarvon",
+  "Address1": "Shop M14 Carnarvon Central\n35 Robinson Street",
+  "Suburb": "Carnarvon",
+  "Phone": "9941 1547",
+  "Fax": "9941 2850",
+  "ContactEmail": "dispensary.carnarvon@amcal.net.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-6 Sat 8-3 \nSun 8-1",
+  "State": "WA",
+  "Postcode": 6701,
+  "ContactPerson": "Robin Fahl",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Shop 14 Carnarvon Central Shopping Centre, 35 Robinson St, Carnarvon. "
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d64"
+  },
+  "PharmacyName": "Chidlow Pharmacy",
+  "Address1": "Shop 5, 2 Memorial Avenue",
+  "Suburb": "Chidlow",
+  "Phone": "9572 4220 ",
+  "Fax": "9572 4224",
+  "ContactEmail": "chidlowpharmacy@yahoo.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 9-5 \nSat/Sun 9-2",
+  "State": "WA",
+  "Postcode": 6556,
+  "ContactPerson": "Mr Ahmed Hassan El-Lebeidy",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0404 934 387 Mohamed ** \n*Not taking MMTP clients 28 Jul 2017*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d65"
+  },
+  "PharmacyName": "Island Pharmacy",
+  "Address1": "26 Gaze Road",
+  "Suburb": "Christmas \nIsland",
+  "Phone": "9164 8337",
+  "Fax": "9164 8432",
+  "ContactEmail": "cipharmg@pulau.cx",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 9-12.30, 1-5\nSat 9-12",
+  "State": "WA",
+  "Postcode": 6798,
+  "ContactPerson": "Laura Trilinl",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Accept One-off dosing*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d66"
+  },
+  "PharmacyName": "Herdsman Pharmacy",
+  "Address1": "Shop 1 & 3, 1 Flynn St",
+  "Suburb": "Churchlands",
+  "Phone": "9387 6665",
+  "Fax": "9387 6664",
+  "ContactEmail": "herdsmandispensary@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS 8-9",
+  "State": "WA",
+  "Postcode": 6018,
+  "ContactPerson": "Kyle/Hayley",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Formerly Full Life Herdsman 7 Day Pharmacy \n**EMERGENCY USE ONLY (not be given to clients) - 0439 923 468 Sharee van den Berg**"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d67"
+  },
+  "PharmacyName": "Advantage Pharmacy Claremont",
+  "Address1": "20 Bayview Terrace,",
+  "Suburb": "Claremont",
+  "Phone": "9383 3311",
+  "Fax": "9383 3055",
+  "ContactEmail": "dispensary@claremontchemist.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-Sat 8-5.30 \nSun 11-5",
+  "State": "WA",
+  "Postcode": 6010,
+  "ContactPerson": "Mr Philip Tomazin",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0477 376 657 Daniel Walsh** \nMobile: 0404683559 Formerly \"Friendlies Chemists Claremont\""
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d68"
+  },
+  "PharmacyName": "Michael's Chemist Claremont",
+  "Address1": "3/248 Stirling Highway",
+  "Suburb": "Claremont",
+  "Phone": "9384 7477",
+  "Fax": "9384 7221",
+  "ContactEmail": "claremont@michaelschemist.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-7 \nSat/Sun 8-6",
+  "State": "WA",
+  "Postcode": 6010,
+  "ContactPerson": "Dennis Pham",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0425 560 758 Lydia Lim**"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d69"
+  },
+  "PharmacyName": "Stirling Highway Drive-In \nPharmacy 777 ",
+  "Address1": "234 Stirling Highway",
+  "Suburb": "Claremont",
+  "Phone": "9384 2292",
+  "Fax": "9384 4230",
+  "ContactEmail": "dispensary@sdip.com.au",
+  "Treatment": "M",
+  "Administer": "Maria \nBryson",
+  "OpeningHours": "7 DAYS+P/H 7am-11pm",
+  "State": "WA",
+  "Postcode": 6010,
+  "ContactPerson": "MARIE/KIMSU",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "*Not taking MMTP clients as of 26/10/2021* *Accept One-off dosing* \nFormerly Amcal Max Stirling Drive In Pharmacy and Stirling Drive In Pharmacy"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d6a"
+  },
+  "PharmacyName": "Pharmacy on Clarkson Station",
+  "Address1": "22/291 Ocean Keys Boulevard",
+  "Suburb": "Clarkson",
+  "Phone": "9408 5177",
+  "Fax": "9408 5177",
+  "ContactEmail": "clarksonpharmacy@iinet.net.au",
+  "Treatment": "M",
+  "Administer": "Thao TRAN",
+  "OpeningHours": "7 DAYS Mon-Fri 7-6.30 \nSat, Sun & PH 9-1",
+  "State": "WA",
+  "Postcode": 6030,
+  "ContactPerson": "Ms Thao TRAN",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Approved to supply Buvidal to NS Joondalup 13/3/2020* \n*EMERGENCY USE ONLY (not be given to clients) - 0431 072 583 Thao TRAN** *Approved to receive supplies of Buvidal to dispense to patients of NS Joondalup* *Accept One-off dosing*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d6b"
+  },
+  "PharmacyName": "Amcal Pharmacy Belmont City",
+  "Address1": "3/321 Abernethy Road",
+  "Suburb": "Cloverdale",
+  "Phone": "9277 2707",
+  "Fax": "9277 2730",
+  "ContactEmail": "amcalbc@optusnet.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8.30-9 \nSat 8.30-7 Sun 9-7",
+  "State": "WA",
+  "Postcode": 6105,
+  "ContactPerson": "Mr Chun Lam Lu",
+  "PreferredContactMethod": "{Not Stated}",
+  "Notes": "*Accept One-off dosing* Formerly \"Terrywhite Chemmart Belmont City\", \"Belmont City Chemmart Pharmacy\", \"Abernethy Drive-in Chemist\""
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d6c"
+  },
+  "PharmacyName": "Wizard Pharmacy Belmont",
+  "Address1": "Lot 9, 222-226 Belmont Ave",
+  "Suburb": "Cloverdale",
+  "Phone": "9478 1819",
+  "Fax": "9277 7403",
+  "ContactEmail": "kkho@wizardphy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS 9-9",
+  "State": "WA",
+  "Postcode": 6105,
+  "ContactPerson": "Kiat Nee Kho",
+  "PreferredContactMethod": "Phone"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d6d"
+  },
+  "PharmacyName": "Pharmacy 777 Cockburn",
+  "Address1": "Unit 1, 850 North Lake Road",
+  "Suburb": "Cockburn \nCentral",
+  "Phone": "9417 3170",
+  "ContactEmail": "cockburn@pharmacy777.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS 8-8",
+  "State": "WA",
+  "Postcode": 6164,
+  "ContactPerson": "Ms Behnaz Fattahalhoseini",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Formerly Terrywhite Chemmart Cockburn, Caring Pharmacy Cockburn. Thomsons Lake Pharmacy"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d6e"
+  },
+  "PharmacyName": "TerryWhite Chemmart Collie",
+  "Address1": "Shops 8 & 9 Collie Central SC\nForrest Street",
+  "Suburb": "Collie",
+  "Phone": "9734  3700",
+  "Fax": "9734 3041",
+  "ContactEmail": "collpharm@westnet.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-6\nSat 8-5  Sun 11-5",
+  "State": "WA",
+  "Postcode": 6225,
+  "ContactPerson": "Trevor Rowe",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Formerly Collie Boulevard (Chemmart) Pharmacy"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d6f"
+  },
+  "PharmacyName": "Community Pharmacy Amcal",
+  "Address1": "144 Coode St",
+  "Suburb": "Como",
+  "Phone": "9367 1584",
+  "Fax": "9367 9782",
+  "ContactEmail": "pharmacist@comopharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-7 Sat 8-5\nSun 9-3",
+  "State": "WA",
+  "Postcode": 6152,
+  "ContactPerson": "Michael/Peter/Angela",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Not taking new patients 18/12/20"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d70"
+  },
+  "PharmacyName": "Pharmacy 777 Connolly",
+  "Address1": "Shop 5 Connolly SC\n1 Glenelg Place",
+  "Suburb": "Connolly",
+  "Phone": "9300 1233",
+  "Fax": "9300 2883",
+  "ContactEmail": "Connolly@pharmacy777.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-Sun 8-8",
+  "State": "WA",
+  "Postcode": 6027,
+  "ContactPerson": "Mr Neil Norris",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Reducing Program - MUST APPROACH PHARMACY MANAGER PRIOR TO REFERRING CLIENTS"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d71"
+  },
+  "PharmacyName": "Optimal Pharmacy Plus \nCoolbellup",
+  "Address1": "Shop 1, 1 Waverley Road",
+  "Suburb": "Coolbellup",
+  "Phone": "9337 2904\n6118 2632 ",
+  "Fax": "9337 4737",
+  "ContactEmail": "oppc@westnet.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-9 \nSat/Sun 8-6",
+  "State": "WA",
+  "Postcode": 6163,
+  "ContactPerson": "Mr Malcolm Karabatic / Jamie Lau",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0408 844 376 Malcolm Karabatic**"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d72"
+  },
+  "PharmacyName": "Woodbridge Pharmacy",
+  "Address1": "37 Elanora Drive",
+  "Suburb": "Cooloongup",
+  "Phone": "9527 2344",
+  "Fax": "9527 2644",
+  "ContactEmail": "woodbridge@feelgoodpharmacies.com.au",
+  "Treatment": "M",
+  "Administer": "Natalie\nWillis",
+  "OpeningHours": "6 DAYS M-F 8-7 Sat 8-5",
+  "State": "WA",
+  "Postcode": 6168,
+  "ContactPerson": "Natalie Willis",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Approved to supply Buvidal to NS Rockingham 26/10/2020* \n*Formerly Friendlies Pharmacy Cooloongup,Friendlies Rockingham Elanora Drive*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d73"
+  },
+  "PharmacyName": "Corrigin Pharmacy",
+  "Address1": "4 Campbell Street,",
+  "Suburb": "Corrigin",
+  "Phone": "9063 2094",
+  "Fax": "9063 2754",
+  "ContactEmail": "pharmacy@corriginpharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 9-5 Sat 9-12",
+  "State": "WA",
+  "Postcode": 6375,
+  "ContactPerson": "Mrs Michelle Hooper",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0427 275 174 Michelle Hooper** \n*Accept One-Off dosing**"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d74"
+  },
+  "PharmacyName": "Pharmacy 777 Cottesloe",
+  "Address1": "Shop 7 Ground Floor\n36 Eric Street",
+  "Suburb": "Cottesloe",
+  "Phone": "9383 4161",
+  "Fax": "9383 4311",
+  "ContactEmail": "cottesloe@pharmacy777.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS 7-8",
+  "State": "WA",
+  "Postcode": 6011,
+  "ContactPerson": "Miss Kim Taylor",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Seeking more clients (14/8/2018)"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d75"
+  },
+  "PharmacyName": "Pharmacy on Napoleon",
+  "Address1": "32 Napoleon Street",
+  "Suburb": "Cottesloe",
+  "Phone": "9384 8080",
+  "Fax": "9384 7519",
+  "ContactEmail": "admin.pon@phcy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 8-6 Sat 8-5\nSun 9-3",
+  "State": "WA",
+  "Postcode": 6011,
+  "ContactPerson": "Mr Romeo Di Girolamo",
+  "PreferredContactMethod": "{Not Stated}",
+  "Notes": "**Not taking clients 1/1/19**"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d76"
+  },
+  "PharmacyName": "Craigie Community Chemist",
+  "Address1": "Shop 2-4 Craigie Plaza SC\nEddystone Ave",
+  "Suburb": "Craigie",
+  "Phone": "9307 3555",
+  "Fax": "9307 3587",
+  "ContactEmail": "info@craigiecommunitychemist.com",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS+P/H M-F 8-8\nSat 8-6 Sun 9-6",
+  "State": "WA",
+  "Postcode": 6025,
+  "ContactPerson": "Mr. James Richards",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Accept One-off dosing*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d77"
+  },
+  "PharmacyName": "Sunlander Pharmacy",
+  "Address1": "1/10 Sunlander Drive",
+  "Suburb": "Currambine",
+  "Phone": "9304 1780",
+  "Fax": "9304 1731",
+  "ContactEmail": "sunlanderpharmacy@gmail.com",
+  "OpeningHours": "6 DAYS M-Thu 8.30-7\nFri 8.30-6 Sat 8.30-2",
+  "State": "WA",
+  "Postcode": 6028,
+  "ContactPerson": "Mr Ben Chau",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Suboxone only* CONFIRMED 1/1/2019"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d78"
+  },
+  "PharmacyName": "Dalwallinu Pharmacy",
+  "Address1": "Shop 1, 25 Johnson Street",
+  "Suburb": "Dalwallinu",
+  "Phone": "9661 2795",
+  "Fax": "9661 2796",
+  "ContactEmail": "dalwallinupharmacy@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 9-5, Sat 9-12 ",
+  "State": "WA",
+  "Postcode": 6609,
+  "ContactPerson": "Mr Joseph Mikhail",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Accept One-off Dosing*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d79"
+  },
+  "PharmacyName": "Blooms The Chemist Darch",
+  "Address1": "Shop 18, 225 Kingsway Rd",
+  "Suburb": "Darch",
+  "Phone": "9303 9895",
+  "Fax": "9303 9906",
+  "ContactEmail": "darch@blooms.net.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-7 \nSat/Sun 8-5",
+  "State": "WA",
+  "Postcode": 6065,
+  "ContactPerson": "Daniel",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Formerly United Discount Chemist Darch"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d7a"
+  },
+  "PharmacyName": "Advantage Pharmacy Florida Beach",
+  "Address1": "71 Dandaragan Drive",
+  "Suburb": "Dawesville",
+  "Phone": "9508 0992",
+  "ContactEmail": "florida@fpgpharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8.30-6,\nSat 8.30-5, Sun 10-4",
+  "State": "WA",
+  "Postcode": 6211,
+  "ContactPerson": "Mr Noel Fosbery",
+  "PreferredContactMethod": "Phone"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d7b"
+  },
+  "PharmacyName": "TerryWhite Chemmart Florida",
+  "Address1": "Tenancy 1/64 Dandaragan Drive",
+  "Suburb": "Dawesville",
+  "Phone": "0434 368 435",
+  "ContactEmail": "florida@twcmgroup.com",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-6, Sat 8-5, Sun 9-4",
+  "State": "WA",
+  "Postcode": 6211,
+  "ContactPerson": "Guor Michar",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Formerly Chemwise Pharmacy Florida\nApproved for DEPOT BPN, but only do oral formulations"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d7c"
+  },
+  "PharmacyName": "Denmark Pharmacy",
+  "Address1": "Shop 1, 20 Strickland Street",
+  "Suburb": "Denmark",
+  "Phone": "9848 3635",
+  "Fax": "9848 1711",
+  "ContactEmail": "denmarkpharmacy@bigpond.com",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 8.30-5.30 \nSat 8.30-1",
+  "State": "WA",
+  "Postcode": 6333,
+  "ContactPerson": "Penny Gooding",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0456 862 758 Ingrid Ayres** \n*Accept One-off dosing during Xmas & NY*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d7d"
+  },
+  "PharmacyName": "Kimberley Pharmacy \nServices (Derby)",
+  "Address1": "PO Box 1197",
+  "Suburb": "Derby",
+  "Phone": "9191 1160",
+  "Fax": "9191 2110",
+  "ContactEmail": "derby@kimberleypharmacyservices.com.au",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 8.30-5 \nSat 8.30-12.30 ",
+  "State": "WA",
+  "Postcode": 6728,
+  "ContactPerson": "Mr Andrew Loi",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Shop 2/48 Claredon Street"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d7e"
+  },
+  "PharmacyName": "Optimal Pharmacy Plus Dianella ",
+  "Address1": "Shop 50-53 Centro Dianella SC\nCnr Alexandra Dr & Grand Promenade",
+  "Suburb": "Dianella",
+  "Phone": "9276 8484",
+  "Fax": "9276 8008",
+  "ContactEmail": "pm-oppd@westnet.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS 8am -8pm Sat 8-5\nSun 11-5",
+  "State": "WA",
+  "Postcode": 6059,
+  "ContactPerson": "Mr Robert Di Loreto",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**Not taking on new Client 5/1/21* \nFormerly Guardian Pharmacy Dianella corner of Alexandra Drive & Grand Promenade, Dianella Mob: 0403201367"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d7f"
+  },
+  "PharmacyName": "Dongara Pharmacy",
+  "Address1": "Shop 2, 30 Smith Street",
+  "Suburb": "Dongara",
+  "Phone": "9927 1132",
+  "Fax": "9927 2550",
+  "ContactEmail": "dongarapharmacy@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 8.30-5.30 \nSat 8.30-12.30",
+  "State": "WA",
+  "Postcode": 6525,
+  "ContactPerson": "Miss Naomi Klopper",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0417 178 820 Joanna Klopper** \n*Accept One-off Dosing* AKA Brian Rowe Chemist"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d80"
+  },
+  "PharmacyName": "Donnybrook Pharmacy",
+  "Address1": "78 South West Highway",
+  "Suburb": "Donnybrook",
+  "Phone": "9731 1016",
+  "Fax": "9731 1317",
+  "ContactEmail": "donnybrookpharmacy@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 8.30-5.30 \nSat 8.30-2",
+  "State": "WA",
+  "Postcode": 6239,
+  "ContactPerson": "Rowan Lowe",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Referral via CPP"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d81"
+  },
+  "PharmacyName": "Duncraig Pharmacy",
+  "Address1": "Shop 8/50 Marri Road",
+  "Suburb": "Duncraig",
+  "Phone": "9447 5208",
+  "Fax": "9448 0358",
+  "ContactEmail": "duncraigpharmacy6023@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 8-6 Sat 8-5 ",
+  "State": "WA",
+  "Postcode": 6023,
+  "ContactPerson": "Vincent Wong",
+  "PreferredContactMethod": "{Not Stated}",
+  "Notes": "*Seeking new clients 19/8/19*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d82"
+  },
+  "PharmacyName": "Pharmacy 777 Glengarry",
+  "Address1": "Unit 1, 57 Arnisdale Road",
+  "Suburb": "Duncraig",
+  "Phone": "9447 4482",
+  "Fax": "9203 5916",
+  "ContactEmail": "glengarry@pharmacy777.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS 8-8",
+  "State": "WA",
+  "Postcode": 6023,
+  "ContactPerson": "Ms Tina Pasyar",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Accept one-off dosing*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d83"
+  },
+  "PharmacyName": "Dunsborough Pharmacy",
+  "Address1": "Shop 16, Centrepoint SC\n55 Dunn Bay Rd",
+  "Suburb": "Dunsborough",
+  "Phone": "9755 3272",
+  "Fax": "9759 1470",
+  "ContactEmail": "scripts@dunspharmacy.com.au",
+  "OpeningHours": "7 DAYS 8-6",
+  "State": "WA",
+  "Postcode": 6281,
+  "ContactPerson": "John Sobkowiak",
+  "PreferredContactMethod": "Email",
+  "Notes": "*Accept One-off Dosing only from 9.30-6*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d84"
+  },
+  "PharmacyName": "Caring Pharmacy East Fremantle",
+  "Address1": "23 / 3 Silas Street",
+  "Suburb": "East \nFremantle",
+  "Phone": "9339 1259",
+  "Fax": "9339 0375",
+  "ContactEmail": "eastfreo@caringpharmacy.com.au",
+  "Treatment": "M",
+  "Administer": "Paul Lai",
+  "OpeningHours": "7 DAYS M-F 8-7 Sat 8-5 \nSun 9-1",
+  "State": "WA",
+  "Postcode": 6158,
+  "ContactPerson": "Mr Wai Meng Chan",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**Prefer scripts to be emailed** \"Formerly East Fremantle Pharmacist Advice\" "
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d85"
+  },
+  "PharmacyName": "Affinity Pharmacy",
+  "Address1": "G/F 149 Wittenoom St",
+  "Suburb": "East Perth",
+  "Phone": "9221 1691",
+  "Fax": "9325 7130",
+  "ContactEmail": "laaanders@gmail.com",
+  "Treatment": "M",
+  "Administer": "Mrs Ngoc Lan\nHUYNH",
+  "OpeningHours": "5 DAYS M-F 9-5.30",
+  "State": "WA",
+  "Postcode": 6004,
+  "ContactPerson": "Mrs Ngoc Lan HUYNH",
+  "PreferredContactMethod": "Phone"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d86"
+  },
+  "PharmacyName": "Next Step",
+  "Address1": "32 Moore St",
+  "Suburb": "East Perth",
+  "Phone": "9219 1919",
+  "Fax": "9221 3089",
+  "ContactEmail": "pharmacy.dao@health.wa.gov.au",
+  "Treatment": "M",
+  "OpeningHours": "M-F 9-12",
+  "State": "WA",
+  "Postcode": 6004,
+  "ContactPerson": "Thomas Duong",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Only for Next Step clients"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d87"
+  },
+  "PharmacyName": "Pharmacy 777 East Perth",
+  "Address1": "Shop 3, 81-95 Royal Street",
+  "Suburb": "East Perth",
+  "Phone": "9325 5247",
+  "Fax": "9325 5437",
+  "ContactEmail": "eastperth@pharmacy777.com.au",
+  "Treatment": "M",
+  "Administer": "Andrew\nSilvan",
+  "OpeningHours": "7 DAYS 8-7pm",
+  "State": "WA",
+  "Postcode": 6004,
+  "ContactPerson": "Andrew Silvan",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Approved for 125 clients. Accept one-off dosing \n**EMERGENCY USE ONLY (not be given to clients) - 0438 204 070 Andrew Silvan* formerly \"Green Cross Pharmacy\" formerly \"Claisebrook Cove Pharmacy\""
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d88"
+  },
+  "PharmacyName": "Priceline Pharmacy East \nVictoria Park",
+  "Address1": "Unit 1 & 4 / 779 Albany Highway",
+  "Suburb": "East Victoria \nPark",
+  "Phone": "9361 1072",
+  "Fax": "9470 2346",
+  "ContactEmail": "eastvicpark@theinfinitygroup.net.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-Sat 8-6 \nSun 9-5",
+  "State": "WA",
+  "Postcode": 6101,
+  "ContactPerson": "Ms Jiaqi Wu",
+  "PreferredContactMethod": "Phone",
+  "Notes": "NO new clients Sep 2022\nFormerly \"East Victoria Park Soul Pattinson Chemist\""
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d89"
+  },
+  "PharmacyName": "TerryWhite Chemmart Eaton",
+  "Address1": "Sh 15 Eaton Fair SC, Eaton Dr",
+  "Suburb": "Eaton",
+  "Phone": "9725 2635",
+  "Fax": "9725 2652",
+  "ContactEmail": "admin@twcmeaton.com.au",
+  "OpeningHours": "7 DAYS M-F 8-8 Sat 8-6 \nSun 9-6",
+  "State": "WA",
+  "Postcode": 6232,
+  "ContactPerson": "Ross Darnell/Carina Telder",
+  "PreferredContactMethod": "Email",
+  "Notes": "Formerly Chemmart Pharmacy Superstore Eaton.  Not taking clients 5/10/2017."
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d8a"
+  },
+  "PharmacyName": "Home Care Pharmacy WA",
+  "Address1": "Shop 2-3 Edgewater SC\nEdgewater Dr",
+  "Suburb": "Edgewater",
+  "Phone": "9405 3794",
+  "Fax": "9405 3730",
+  "ContactEmail": "admin@hcpwa.com.au",
+  "OpeningHours": "7 DAYS M-F 8-6 Sat 8-5.30 \nSun 10-2",
+  "State": "WA",
+  "Postcode": 6027,
+  "ContactPerson": "Vinh Nguyen",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0421 593 804 Andy Nguyen** \n*Formerly Edgewater Pharmacy and  Guardian Edgewater Pharmacy Plus Newsagency*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d8b"
+  },
+  "PharmacyName": "Bradshaws Pharmacy",
+  "Address1": "94B Dempster Street",
+  "Suburb": "Esperance",
+  "Phone": "9071 3539 ",
+  "Fax": "9071 6836",
+  "ContactEmail": "dispensary@bradshawspharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8.30-5.30\nSat 8.30-1 Sun 9-12",
+  "State": "WA",
+  "Postcode": 6450,
+  "PreferredContactMethod": "Phone",
+  "Notes": "Terry White Pharmacy Esperance provide approvals for Sunday dispensing (Terry White clients only). \nAlternative P: 9072 1204"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d8c"
+  },
+  "PharmacyName": "Castletown Chemist",
+  "Address1": "Shops 9 & 10, 67 Goldfields Road",
+  "Suburb": "Esperacne",
+  "Phone": "9071 4480",
+  "Fax": "9071 4942",
+  "ContactEmail": "office@castletownchemist.com",
+  "Treatment": "M",
+  "Administer": "Rina\nSweeney",
+  "OpeningHours": "7 DAYS M-F 9-6 Sat 9-2\nSun 10-4",
+  "State": "WA",
+  "Postcode": 6450,
+  "ContactPerson": "Mrs Rina Sweeney",
+  "PreferredContactMethod": "Phone"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d8d"
+  },
+  "PharmacyName": "TerryWhite Chemmart Esperance",
+  "Address1": "Shops 11-12 Boulevard SC\nForrest Street",
+  "Suburb": "Esperance",
+  "Phone": "9071 2125",
+  "Fax": "9071 7855",
+  "ContactEmail": "esperance@twcmgroup.com",
+  "Treatment": "M",
+  "Administer": "Ryan \nNorris",
+  "OpeningHours": "6 DAYS M-F 8.30-5.30 \nThu 8.30-8 Sat 8.30-5",
+  "State": "WA",
+  "Postcode": 6450,
+  "ContactPerson": "Ryan Norris",
+  "PreferredContactMethod": "Email",
+  "Notes": "*Formerly TerryWhite Chemists Esperance* \nAccept one-off dosing Alternative phone: 6215 0287"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d8e"
+  },
+  "PharmacyName": "Exmouth Pharmacy",
+  "Address1": "380 Maidstone Crescent",
+  "Suburb": "Exmouth",
+  "Phone": "9949 1140",
+  "Fax": "9949 1900",
+  "ContactEmail": "exmouthpharmacy@westnet.com.au",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 9-5 Sat 9-1",
+  "State": "WA",
+  "Postcode": 6707,
+  "ContactPerson": "Mr Andrew Twaddle",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "Accept one-offs dosing \n380 Maidstone Crescent-not for mailing \n6 days: from October 1st to June 30th, open M-F 9-5.30 and Sat 9-12.30.      \n7 days: MON-SAT 9-5.30 and SUN 9-1.30 in high season (from 1st July to September 30th)  TEMPORARY PHONE NUMBER: 9949 1070"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d8f"
+  },
+  "PharmacyName": "Advantage Pharmacy Falcon",
+  "Address1": "PO Box 5111",
+  "Suburb": "Falcon",
+  "Phone": "9534 2644",
+  "Fax": "6315 2664",
+  "ContactEmail": "falconpharmacy@starpharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8.30-6 \nSat 8.30-5 Sun 10-4",
+  "State": "WA",
+  "Postcode": 6210,
+  "ContactPerson": "Mr Noel Laurence Fosbery",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0424 408 597 Nhan** \nPostal Address: use PO Box 5111 Address: Shop 3 Miami Plaza Shopping Ctr, 633 Old Coast Rd, Falcon formerly \"Friendlies Chemists Miami Plaza\". **Please use email only**"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d90"
+  },
+  "PharmacyName": "Kimberley Pharmacy \nServices (Fitzroy Valley)",
+  "Address1": "Fitzroy Hospital, 82 Fallon Rd",
+  "Suburb": "Fitzroy Crossing",
+  "Phone": "9191 5308",
+  "Fax": "9191 5664",
+  "ContactEmail": "fitzroy@kimberleypharmacyservices.com.au",
+  "Treatment": "M",
+  "OpeningHours": "5 DAYS M-F 8-5",
+  "State": "WA",
+  "Postcode": 6765,
+  "ContactPerson": "Ms Hannah Mann",
+  "PreferredContactMethod": "Phone"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d91"
+  },
+  "PharmacyName": "Priceline Pharmacy Fremantle",
+  "Address1": "7 Adelaide Street",
+  "Suburb": "Fremantle",
+  "Phone": "9336 2277",
+  "Fax": "9336 2276",
+  "ContactEmail": "pricelinepharmacyfremantle@outlook.com",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8.30-6\nSat 9-5  Sun 12-4",
+  "State": "WA",
+  "Postcode": 6160,
+  "ContactPerson": "Alvin",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Formerly \"Pharmacy 777 Fremantle\" \"Friendlies Chemist Fremantle\" and \n\"Tom's Value Pharmacy\""
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d92"
+  },
+  "PharmacyName": "Chemist Discount Centre \nFremantle",
+  "Address1": "38 Adelaide Street",
+  "Suburb": "Fremantle",
+  "Phone": "9430 4899",
+  "Fax": "9335 3307",
+  "ContactEmail": "WCPFREO@gmail.com",
+  "Treatment": "M",
+  "Administer": "Chun Ming \nSiow",
+  "OpeningHours": "7 DAYS M-F 8-6 Sat 9-5\nSun 10-4",
+  "State": "WA",
+  "Postcode": 6160,
+  "ContactPerson": "Chun Ming SIOW",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0425 768 855 Chun Ming Siow* \nFormerly \"Woolstores Community Pharmacy\" and \"Woolstores Chemmart Fremantle\""
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d93"
+  },
+  "PharmacyName": "Pharmacy 777 Fremantle",
+  "Address1": "3/ 91 Hampton Rd ",
+  "Suburb": "Fremantle",
+  "Phone": "9335 6616",
+  "Fax": "9336 5216",
+  "ContactEmail": "fremantle@pharmacy777.com.au",
+  "Treatment": "M",
+  "Administer": "Anton \nVariyan",
+  "OpeningHours": "7 DAYS M-F 8-7 Sat 8-4 \nSun 9-1",
+  "State": "WA",
+  "Postcode": 6160,
+  "ContactPerson": "Mr Anton Variyan",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0402 277 769 Anton Variyan* \n*Accept non-violent clients only* Mobile: 0402 277 769 \n*Formerly Wray Avenue Pharmacy*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d94"
+  },
+  "PharmacyName": "Optimal Pharmacy Plus \nNorthgate",
+  "Address1": "Shop 2, Northgate Shopping Ctr,\n110 Chapman Road",
+  "Suburb": "Geraldton",
+  "Phone": "9921 6455",
+  "Fax": "9964 5295",
+  "ContactEmail": "oppn@westnet.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8.30-5.30 Sat 8.30-5 Sun 11-3",
+  "State": "WA",
+  "Postcode": 6530,
+  "ContactPerson": "Mr Grant Hargreaves",
+  "PreferredContactMethod": "PHone"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d95"
+  },
+  "PharmacyName": "Pharmacy 777 Geraldton",
+  "Address1": "Shop 4 Seacrest SC, 75 Barrett Dr",
+  "Suburb": "Geraldton",
+  "Phone": "9921 2164",
+  "Fax": "9921 8252",
+  "ContactEmail": "geraldton@pharmacy777.com.au",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 8-6 Sat 8-4 ",
+  "State": "WA",
+  "Postcode": 6530,
+  "ContactPerson": "Mr Ross Darnell",
+  "PreferredContactMethod": "Fax",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0490 816 039 Joseph Lim** \nREFERRALS VIA CPP ONLY (1/1/19) \nFormerly \"Friendlies Geraldton\" and \"Tarcoola Pharmacy\".  **No dosing on Sundays ** "
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d96"
+  },
+  "PharmacyName": "Rangeway Amcal Pharmacy",
+  "Address1": "Shops 1-2 Rangeway Shopping Ctr\nUtakarra Road",
+  "Suburb": "Geraldton",
+  "Phone": "9921 8111",
+  "Fax": "9921 1044",
+  "ContactEmail": "rangeway@amcal.net.au",
+  "Treatment": "M",
+  "Administer": "Paul Buise",
+  "OpeningHours": "6 DAYS M-F 8-6 Sat 8-1\nDepot Admin on Mon/Fri only",
+  "State": "WA",
+  "Postcode": 6530,
+  "ContactPerson": "Paul Buise",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Only stable Depot Admin clients.  No weekly to monthly Depot clients. 10/6/24\n**EMERGENCY USE ONLY (not be given to clients) - 0448 216 138 Ross or Louise** \n\"Formerly Rangeway Pharmacy\" Shop 1&2 Rangeway Shopping Centre Cnr Rifle Range Rd & Utakarra Rd, Rangeway"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d97"
+  },
+  "PharmacyName": "Terrywhite Chemmart Bluff Point",
+  "Address1": "Shop 10 Bluff Point SC\n429-437 Chapman Rd",
+  "Suburb": "Geraldton",
+  "Phone": "9923 1584",
+  "Fax": "9923 1147",
+  "ContactEmail": "mail@bluffpointpharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-Fri 8-6 \nSat 8.30-2",
+  "State": "WA",
+  "Postcode": 6530,
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Accept one-offs dosing*  Formerly Bluff Point Chemmart Pharmacy"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d98"
+  },
+  "PharmacyName": "Gidgegannup Pharmacy",
+  "Address1": "Shop 2/2071 Toodyay Road",
+  "Suburb": "Gidgegannup",
+  "Phone": "9578 3875",
+  "Fax": "9578 3876",
+  "ContactEmail": "info@gidgepharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 8.30-5.30 \nSat 8.30-1pm",
+  "State": "WA",
+  "Postcode": 6083,
+  "ContactPerson": "Ms Jana Pratico",
+  "PreferredContactMethod": "Email"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d99"
+  },
+  "PharmacyName": "Health First Goldfield Pharmacy",
+  "Address1": "Shop 17-19 Marangaroo SC\n70 Marangaroo Dr",
+  "Suburb": "Girrawheen",
+  "Phone": "9342 3073",
+  "Fax": "9343 6240",
+  "ContactEmail": "girra@health1stpharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS 8.30-7.30\nSat/Sun 8.30-7",
+  "State": "WA",
+  "Postcode": 6064,
+  "ContactPerson": "Vu Tran",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Accept One-off dosing* ****** NO NEW REFERRALS******* "
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d9a"
+  },
+  "PharmacyName": "Glen Forrest Pharmacy",
+  "Address1": "Shop 8/1320 Great Eastern Hwy",
+  "Suburb": "Glen Forrest",
+  "Phone": "9298 8076",
+  "Fax": "9298 9363",
+  "ContactEmail": "glenforrest@pharmacyalliance.net",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 8.30-6 \nSat 8.30-5",
+  "State": "WA",
+  "Postcode": 6071,
+  "ContactPerson": "Mr Donald Langsford",
+  "PreferredContactMethod": "Phone"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d9b"
+  },
+  "PharmacyName": "Pharmacy 777 Glendalough",
+  "Address1": "Shop 8-10 Glendalough Village\nCnr Harbourne St & Jon Sanders Dr",
+  "Suburb": "Glendalough",
+  "Phone": "9444 5551",
+  "Fax": "9444 7277",
+  "ContactEmail": "glendalough@pharmacy777.com.au",
+  "Treatment": "M",
+  "Administer": "Junhee Han",
+  "OpeningHours": "7 DAYS+P/H 8-10",
+  "State": "WA",
+  "Postcode": 6016,
+  "ContactPerson": "Mr Andy Junhee Han",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Accept One-off dosing* Dosing times 0830hrs -2000hrs "
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d9c"
+  },
+  "PharmacyName": "Golden Bay Pharmacy",
+  "Address1": "Unit 1, 3 Yuin Street",
+  "Suburb": "Golden Bay",
+  "Phone": "9537 3537",
+  "Fax": "9537 3557",
+  "ContactEmail": "goldenbay.phcy@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS 8.30-5pm \nSat 8.30-1pm",
+  "State": "WA",
+  "Postcode": 6174,
+  "ContactPerson": "Kiung Fan WONG",
+  "PreferredContactMethod": "Phone"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d9d"
+  },
+  "PharmacyName": "Goomalling Pharmacy",
+  "Address1": "37 Railway Terrace",
+  "Suburb": "Goomalling",
+  "Phone": "9629 1542",
+  "Fax": "9629 1750",
+  "ContactEmail": "info@gopharmacywa.com.au",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 9-5 Sat 9-12",
+  "State": "WA",
+  "Postcode": 6460,
+  "ContactPerson": "Mr Mark Patrick Ashton",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Formerly WA Country Chemist Online *Accept one-off dosing*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d9e"
+  },
+  "PharmacyName": "Chemist Discount Centre \nGosnells",
+  "Address1": "PO Box 94\nShop 23D, 2158 Albany Highway",
+  "Suburb": "Gosnells",
+  "Phone": "9398 6666",
+  "Fax": "9398 1803",
+  "ContactEmail": "gosnellsdispense@procp.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS + P/H 8am-10pm",
+  "State": "WA",
+  "Postcode": 6990,
+  "ContactPerson": "Gary Khoo",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "**All scripts be posted to PO BOX 94** \n*Accept One-off dosing* \nShop 23D Gosnells Complex SC, 2158 Albany Highway, Gosnells 6110 \n*Formerly Terry White Chemmart Gosnells & Chemmart Pharmacy Superstore Gosnells* "
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30d9f"
+  },
+  "PharmacyName": "Pharmacist Advice Gosnells",
+  "Address1": "Shop 6, IGA Foothills SC\n2251 Albany Highway",
+  "Suburb": "Gosnells",
+  "Phone": "9398 2556",
+  "Fax": "9490 1867",
+  "ContactEmail": "gosnellspharmacy@rocketmail.com",
+  "Treatment": "M",
+  "Administer": "Philip Tiang",
+  "OpeningHours": "7 DAYS M-F 8-7 \nSat/Sun 9-2",
+  "State": "WA",
+  "Postcode": 6110,
+  "ContactPerson": "Phillip Tiang",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Formerly Gosnells Pharmacy \nDepot Admin Thu-Fri 10-4"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30da0"
+  },
+  "PharmacyName": "Green Head Chemist",
+  "Address1": "162 Ocean View Drive",
+  "Suburb": "Green Head",
+  "Phone": "9953 1282",
+  "Fax": "9953 1624",
+  "ContactEmail": "greenheadchemist@westnet.com.au",
+  "Treatment": "M",
+  "OpeningHours": "5 DAYS M-F 8.30-12.30",
+  "State": "WA",
+  "Postcode": 6514,
+  "ContactPerson": "Ms Thao Thi Tran",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0433 857 125 Elva Chang** \n*Accept One-off dosing*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30da1"
+  },
+  "PharmacyName": "TerryWhite Chemmart \nGreenwood",
+  "Address1": "Shop 7, Greenwood Village SC\nCalectasia Street",
+  "Suburb": "Greenwood",
+  "Phone": "9447 7653",
+  "Fax": "9243 4950",
+  "ContactEmail": "admin@greenwoodpharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS+P/H M-F 8.30-6 \nSat 8.30-5 Sun 10-5",
+  "State": "WA",
+  "Postcode": 6024,
+  "ContactPerson": "Mr Ashley Paterson",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0411 692 208 Ashley Paterson** \n\"Formerly Greenwood Chemmart Pharmacy\" Not taking patients currently - 02/10/19 "
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30da2"
+  },
+  "PharmacyName": "Waterhall Pharmacy",
+  "Address1": "Shop 7 Waterhall SC\n9 Waterhall Road",
+  "Suburb": "Guildford",
+  "Phone": "9377 2868",
+  "ContactEmail": "waterhallpharmacy@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 8-6 Sat 8-5",
+  "State": "WA",
+  "Postcode": 6055,
+  "ContactPerson": "Mr Kim Su",
+  "PreferredContactMethod": "Phone",
+  "Notes": "REFERRALS ONLY VIA CPP.  Stable clients only (1/1/2019)"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30da3"
+  },
+  "PharmacyName": "Gwelup Plaza Pharmacy",
+  "Address1": "Shop 3 Gwelup Plaza S C\n709 North Beach Rd",
+  "Suburb": "Gwelup",
+  "Phone": "9446 5755",
+  "Fax": "9445 7702",
+  "ContactEmail": "dispensary.gpp@phcy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-7\nSat 8-5.30 Sun 10-5",
+  "State": "WA",
+  "Postcode": 6018,
+  "ContactPerson": "Mr Romeo Di Girolamo",
+  "PreferredContactMethod": "Email",
+  "Notes": "SEND ALL SCRIPTS to:                                PO Box 1275, GWELUP  WA  6018  "
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30da4"
+  },
+  "PharmacyName": "The Bridge 7 Day Pharmacy (Full)",
+  "Address1": "10 Old Coast Road",
+  "Suburb": "Halls Head",
+  "Phone": "9582 9256",
+  "Fax": "9349 0350",
+  "ContactEmail": "team@tbpharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 7-9\nSat 8-6 Sun PH 9-6",
+  "State": "WA",
+  "Postcode": 6210,
+  "ContactPerson": "Mr Romeo Di Girolamo",
+  "PreferredContactMethod": "Phone",
+  "Notes": "FULL - no new CLs 6 Jun 2023"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30da5"
+  },
+  "PharmacyName": "Optimal Pharmacy Plus Simms Road",
+  "Address1": "Shop 8, 8 Simms Road",
+  "Suburb": "Hamilton Hill",
+  "Phone": "9337 7757",
+  "Fax": "9314 6226",
+  "ContactEmail": "simmsroad@opplus.com.au",
+  "Treatment": "M",
+  "Administer": "Peter\nZaninovich",
+  "OpeningHours": "7 DAYS M-Sun 8-8\n(Dosing 9-8)",
+  "State": "WA",
+  "Postcode": 6163,
+  "ContactPerson": "Mr Peter Zaninovich",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "Approved for 65 clients.\n*Formerly \"Terrywhite Chemmart Hamilton Hill\" \"Greg's Discount Chemist Hamilton Hill\"* \nDo not take one-off dosing"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30da6"
+  },
+  "PharmacyName": "Harvey Pharmacy",
+  "Address1": "91 Uduc Road",
+  "Suburb": "Harvey",
+  "Phone": "9729 1422",
+  "Fax": "9729 1410",
+  "ContactEmail": "harveypharmacyscripts@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 8.30-6 \nSat 8.30-1",
+  "State": "WA",
+  "Postcode": 6220,
+  "PreferredContactMethod": "Unknown",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0417 926 728 Vincent Cosentino** \nAnother email address: pharmacy@harveypharmacy.com FULL 7/11/23"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30da7"
+  },
+  "PharmacyName": "Blooms The Chemist High Wycombe",
+  "Address1": "T24 & 25, 530 High Wycombe Village Shopping Ctr\n530 Kalamunda Road",
+  "Suburb": "High \nWycombe",
+  "Phone": "9454 5798",
+  "Fax": "9454 8448",
+  "ContactEmail": "highwycombe@blooms.net.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8.30-6.30, \nSat 8.30-5 Sun 11-5",
+  "State": "WA",
+  "Postcode": 6057,
+  "ContactPerson": "Ms Madeleine Dennis",
+  "PreferredContactMethod": "{Not Stated}",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0407 987 352 William Caffey* \n*Formerly \"Advantage Pharmacy High Wycombe, Pharmacy 777 High Wycombe\", \"Friendlies High Wycombe\", \"Friendlies Pharmacy High Wycombe\" **Not accepting Temporary patients** Formerly \"O'Connor's Pharmacy\". Not taking any patients currently 09/07/20"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30da8"
+  },
+  "PharmacyName": "High Wycombe Discount \nChemist",
+  "Address1": "Shop 9, 120 Wittenoom Rd",
+  "Suburb": "High \nWycombe",
+  "Phone": "9454 4884",
+  "Fax": "9463 1478",
+  "ContactEmail": "hw.discountchemist@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-6 Sat 9-4\nSun 9-1",
+  "State": "WA",
+  "Postcode": 6057,
+  "ContactPerson": "Sing Yew WONG",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Accept one-offs dosing* *Formerly Caring Pharmacy High Wycombe*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30da9"
+  },
+  "PharmacyName": "Pharmacy 777 High Wycombe",
+  "Address1": "33 Newburn Road",
+  "Suburb": "High \nWycombe",
+  "Phone": "9454 7572",
+  "Fax": "9454 9351",
+  "ContactEmail": "highwycombe@pharmacy777.com.au",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 8-6 \nSat 8.30-5",
+  "State": "WA",
+  "Postcode": 6057,
+  "ContactPerson": "Mr Ryan Cottone",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Accept One-off dosing*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30daa"
+  },
+  "PharmacyName": "Pharmacy 777 Whitford City",
+  "Address1": "Shop 42 Whitford City SC\nWhitfords Avenue",
+  "Suburb": "Hillarys",
+  "Phone": "9401 6669",
+  "Fax": "9307 4799 ",
+  "ContactEmail": "whitfordcity@pharmacy777.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS+P/H 7-11",
+  "State": "WA",
+  "Postcode": 6025,
+  "ContactPerson": "Mr. Robert Ayad",
+  "PreferredContactMethod": "Phone"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dab"
+  },
+  "PharmacyName": "TerryWhite Chemmart\nWhitford City",
+  "Address1": "Shop 243 Whitford City SC\nCnr Whitfords Ave & Marmion Ave",
+  "Suburb": "Hillarys",
+  "Phone": "9401 8466",
+  "Fax": "9402 3908",
+  "ContactEmail": "dispensary.whitfordcity@twcmgroup.com",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8.30-6 \nSat 8.30-5 Sun 11-5",
+  "State": "WA",
+  "Postcode": 6025,
+  "ContactPerson": "Miss Alison McGuinness",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Formerly TerryWhite Chemists Whitford City* Accept one-off dosing"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dac"
+  },
+  "PharmacyName": "Pharmacy 777 Hilton",
+  "Address1": "300 South Street",
+  "Suburb": "Hilton",
+  "Phone": "9337 1434",
+  "Fax": "9331 6813",
+  "ContactEmail": "hilton@pharmacy777.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS+P/H 8AM -10PM",
+  "State": "WA",
+  "Postcode": 6163,
+  "PreferredContactMethod": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dad"
+  },
+  "PharmacyName": "Superchem Hocking",
+  "Address1": "Shop 2 Wyatt Grove SC\n100 Gungarra Ave",
+  "Suburb": "Hocking",
+  "Phone": "9405 3979",
+  "Fax": "9404 5964",
+  "ContactEmail": "hocking@superchem.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-8, Sat 8-5\nSun 11-5",
+  "State": "WA",
+  "Postcode": 6065,
+  "ContactPerson": "Mr Pak Yew Wong",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Accept one-off dosing* Also email scripts to pak.wong@superchem.com.au"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dae"
+  },
+  "PharmacyName": "Caring Pharmacy Huntingdale",
+  "Address1": "Suite 2 Spencer Road Medical Ctr\nCnr Spencer & Warton Rd",
+  "Suburb": "Huntingdale",
+  "Phone": "9493 1800",
+  "Fax": "9452 1256",
+  "ContactEmail": "huntingdale@caringpharmacy.com.au",
+  "Treatment": "M",
+  "Administer": "Sue Yee TEE",
+  "OpeningHours": "7 DAYS M-F 8-7\nSat/Sun 8-5",
+  "State": "WA",
+  "Postcode": 6110,
+  "ContactPerson": "Sue Yee Tee",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0421 994 899 Sun Yee TEE** \nFormerly \"Huntingdale Pharmacist Advice\""
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30daf"
+  },
+  "PharmacyName": "Huntingdale Village Pharmacy",
+  "Address1": "Shop 2/3 5 Pipit Close",
+  "Suburb": "Huntingdale",
+  "Phone": "9490 5522",
+  "Fax": "9490 6434",
+  "ContactEmail": "huntpharm@westnet.com.au",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 9-6 Sat 9-2",
+  "State": "WA",
+  "Postcode": 6110,
+  "ContactPerson": "Mrs Harsha Nidagal",
+  "PreferredContactMethod": "Phone"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30db0"
+  },
+  "PharmacyName": "Pharmacy 777 Inglewood",
+  "Address1": "1 / 898 Beaufort Street,",
+  "Suburb": "Inglewood",
+  "Phone": "9271 1130",
+  "Fax": "9371 1150",
+  "ContactEmail": "inglewood@pharmacy777.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS+P/H 8-8",
+  "State": "WA",
+  "Postcode": 6052,
+  "ContactPerson": "Minh Vuong",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0401 258 552 Minh VUONG** \n*Formerly \"Friendlies Inglewood\",  \"Inglewood Pharmacy\""
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30db1"
+  },
+  "PharmacyName": "Innaloo Discount Drug Store",
+  "Address1": "52A & B Ellen Stirling Boulevard",
+  "Suburb": "Innaloo",
+  "Phone": "9445 8188",
+  "Fax": "9204 3042",
+  "ContactEmail": "innaloo@discountdrugstores.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8.30-6.30 \nSat 8.30-5 Sun 11-5",
+  "State": "WA",
+  "Postcode": 6018,
+  "ContactPerson": "Giovanna Cecchele",
+  "PreferredContactMethod": "{Not Stated}",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0403 185 581 Que-anh Langcay**"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30db2"
+  },
+  "PharmacyName": "Morris Compounding Pharmacy",
+  "Address1": "12A Morris Place",
+  "Suburb": "Innaloo",
+  "Phone": "9446 9858 ",
+  "Fax": "9446 1856",
+  "ContactEmail": "morrispharmacy@bigpond.com",
+  "Treatment": "M",
+  "OpeningHours": "7 Days 8.30-6.30",
+  "State": "WA",
+  "Postcode": 6018,
+  "ContactPerson": "John Lagana",
+  "PreferredContactMethod": "{Not Stated}",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0419 922 460 John Lagana**"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30db3"
+  },
+  "PharmacyName": "Wizard Innaloo Pharmacy",
+  "Address1": "Shop 1113 Westfield SC\nEllen Stirling Blvd",
+  "Suburb": "Innaloo",
+  "Phone": "9204 2152",
+  "Fax": "6316 1401",
+  "ContactEmail": "innaloo1@wizardphy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8.30-7\nSat 8.30-5 Sun 11-5",
+  "State": "WA",
+  "Postcode": 6018,
+  "ContactPerson": "Mr Aaron Van Vliet",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Previously Terry White Chemmart Innaloo** Nil patients, not taking any patients \n**Taking clients from Medicine Box"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30db4"
+  },
+  "PharmacyName": "Pharmacy 777 Jindalee",
+  "Address1": "Unit 3-5 Jindalee CC\n6 Jindalee Boulevard",
+  "Suburb": "Jindalee",
+  "Phone": "9562 3790",
+  "Fax": "9562 3791",
+  "ContactEmail": "jindalee@pharmacy777.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-Sun 7-11pm",
+  "State": "WA",
+  "Postcode": 6036,
+  "ContactPerson": "Danielle Walker",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Accept one-off dosing *Formerly Jindalee Pharmacy* Seeking new clients (2/4/19)"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30db5"
+  },
+  "PharmacyName": "HPS Pharmacies Lakeside",
+  "Address1": "G/F Medical Centre West\nJoondalup Health Campus\n60 Shenton Avenue",
+  "Suburb": "Joondalup",
+  "Phone": "6369 8450",
+  "Fax": "8375 3504",
+  "ContactEmail": "lakeside@hpspharmacies.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8.30-7 \nSat-Sun 9-5",
+  "State": "WA",
+  "Postcode": 6027,
+  "ContactPerson": "Mrs Atefeh Eshghabadi",
+  "PreferredContactMethod": "Phone"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30db6"
+  },
+  "PharmacyName": "Wizard Pharmacy Joondalup Dr",
+  "Address1": "Shop E5 Lakeside Joondalup SC",
+  "Suburb": "Joondalup",
+  "Phone": "9301 5300",
+  "Fax": "9301 5400",
+  "ContactEmail": "pm.joondalup2@wizardphy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS 9-7.30",
+  "State": "WA",
+  "Postcode": 6027,
+  "ContactPerson": "Mr Francesco Napoli",
+  "PreferredContactMethod": "Phone"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30db7"
+  },
+  "PharmacyName": "Caring Pharmacy Joondanna",
+  "Address1": "Suite 1, 21 Wanneroo Road",
+  "Suburb": "Joondanna",
+  "Phone": "9444 1564",
+  "Fax": "9242 2938",
+  "ContactEmail": "Joondanna@caringpharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-7 \nSat 8-5 Sun 10-3",
+  "State": "WA",
+  "Postcode": 6060,
+  "ContactPerson": "Paul Lai",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "Accept one-off dosing Formerly \"Joondanna Pharmacy\", \"Friendlies Chemists Joondanna\" \"Hywoods Pharmacy\""
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30db8"
+  },
+  "PharmacyName": "Jurien Pharmacy",
+  "Address1": "Shops 2-4 Jurien Bay SC\n24 Bashford St",
+  "Suburb": "Jurien Bay",
+  "Phone": "9652 1333",
+  "Fax": "9652 1572",
+  "ContactEmail": "jurpharm@westnet.com.au",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-Fri 8.30-5.30 \nSat 8.30-12.30",
+  "State": "WA",
+  "Postcode": 6516,
+  "ContactPerson": "Jim Grehan",
+  "PreferredContactMethod": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30db9"
+  },
+  "PharmacyName": "Hills View Pharmacy Kalamunda",
+  "Address1": "2/37 Elizabeth Street",
+  "Suburb": "Kalamunda",
+  "Phone": "9293 1061",
+  "Fax": "9293 1803",
+  "ContactEmail": "hillsview@medsolutions.net.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-Thu 8.30-7.30 \nFri 8.30-6.30\nSat/Sun 8.30-12.30",
+  "State": "WA",
+  "Postcode": 6076,
+  "ContactPerson": "Gary / William",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Not taking patients currently 06/07/20"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dba"
+  },
+  "PharmacyName": "Nightingales Pharmacy\nKalamunda",
+  "Address1": "Shop 2, Kalamunda Glades SC\n123 Canning Rd",
+  "Suburb": "Kalamunda",
+  "Phone": "9293 2621",
+  "Fax": "9293 1093",
+  "ContactEmail": "Dispensary@nightingales.net.au ",
+  "Treatment": "M",
+  "OpeningHours": "7 Days+P/H 8-9",
+  "State": "WA",
+  "Postcode": 6076,
+  "ContactPerson": "Miss Alexandra Bologa",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0400 542 536 Michael Norden* \nFULL 06/07/20"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dbb"
+  },
+  "PharmacyName": "O'Hara's Pharmacy 777 \nKalamunda",
+  "Address1": "7 Haynes Street,",
+  "Suburb": "Kalamunda",
+  "Phone": "9293 1412",
+  "Fax": "9257 1590",
+  "ContactEmail": "kalamunda@pharmacy777.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-6 Sat 8-5 \nSun 9-5",
+  "State": "WA",
+  "Postcode": 6076,
+  "ContactPerson": "Andrew Mason",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "Formerly O'Hara's Pharmacy"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dbc"
+  },
+  "PharmacyName": "Priceline Pharmacy Kalamunda",
+  "Address1": "Shop 25 Kalamunda Central SC\n39 Railway Rd",
+  "Suburb": "Kalamunda",
+  "Phone": "9293 4947",
+  "Fax": "9293 3369",
+  "ContactEmail": "dispensary@\npricelinepharmacykalamunda.com",
+  "OpeningHours": "7 DAYS M-F 8.30-6\nSat 8.30-5 Sun 11-4",
+  "State": "WA",
+  "Postcode": 6076,
+  "ContactPerson": "Khean Wong",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Seeking clients 3/7/2020 Suboxone only"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dbd"
+  },
+  "PharmacyName": "Kalbarri Pharmacy",
+  "Address1": "Shop 1 Kalbarri Lane\n42 Grey St",
+  "Suburb": "Kalbarri",
+  "Phone": "9937 1026",
+  "Fax": "9937 2050",
+  "ContactEmail": "kalbarripharmacy42@yahoo.com",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 9-5 Sat 9-1",
+  "State": "WA",
+  "Postcode": 6536,
+  "ContactPerson": "Mr Jung Vo",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0402 884 138 Andrea D'Souza**"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dbe"
+  },
+  "PharmacyName": "Wizard Pharmacy Hannans",
+  "Address1": "Shop 2-5, Hannans Boulevard SC\n89 Graeme St",
+  "Suburb": "Kalgoorlie",
+  "Phone": "9022 2200",
+  "Fax": "9022 2290",
+  "ContactEmail": "pm.kalgoorlie3@wizardphy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 8.30-5.30\nSat 8.30-2",
+  "State": "WA",
+  "Postcode": 6430,
+  "ContactPerson": "Brooke Dziubak",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Formerly Amcal Chemist Hannans, Savings Plus Chemist Kalgoorlie and \nHannans Boulevard Pharmacy, Hannans Guardian Pharmacy"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dbf"
+  },
+  "PharmacyName": "Wizard Pharmacy Kalgoorlie \nCentral",
+  "Address1": "205 Hannan Street",
+  "Suburb": "Kalgoorlie",
+  "Phone": "9000 3060",
+  "Fax": "9021 0295",
+  "ContactEmail": "dispensary.kalgoorlie1@wizardphy.com.au\npm.kalgoorlie1@wizardphy.com.au",
+  "Treatment": "M",
+  "Administer": "Elise \nWheadon",
+  "OpeningHours": "7 DAYS 8-8",
+  "State": "WA",
+  "Postcode": 6430,
+  "ContactPerson": "Elise Wheadon",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0400 817 074 Elise Wheadon*\n'Formerly Amcal Chemist Kalgoorlie'"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dc0"
+  },
+  "PharmacyName": "Dove's Pharmacy",
+  "Address1": "Suite 3 276 Dampier Avenue\nWhitfords Medical Centre",
+  "Suburb": "Kallaroo",
+  "Phone": "9307 4555",
+  "Fax": "9307 7889",
+  "ContactEmail": "contact@dovespharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-6.30\nSat 9-3 Sun 9-1",
+  "State": "WA",
+  "Postcode": 6025,
+  "ContactPerson": "Mr Kiro Saweres",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Please contact first to arrange dosing. ** Do not take temporary patients *\nLooking for more patients 22/11/19"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dc1"
+  },
+  "PharmacyName": "Pharmacy 777 Karratha",
+  "Address1": "PO Box 1536\nShop 33-34 Karratha Village SC\nSharpe Ave",
+  "Suburb": "Karratha",
+  "Phone": "9144 4007",
+  "Fax": "9144 4664",
+  "ContactEmail": "karratha@pharmacy777.com.au",
+  "Treatment": "M",
+  "Administer": "Tommy\nMetcalfe",
+  "OpeningHours": "7 DAYS 8-8 ",
+  "State": "WA",
+  "Postcode": 6714,
+  "ContactPerson": "Mrs Laura Stewart",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Accept One-off dosing* **Dosing only on Mon-Fri** **Weekends dosing need neg** \nShop 33 & 34 Karratha Village Shopping Centre, Sharpe Street, Karratha 6714"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dc2"
+  },
+  "PharmacyName": "Karrinyup St Luke Pharmacy",
+  "Address1": "2/57 Burroughs Road",
+  "Suburb": "Karrinyup",
+  "Phone": "9341 7009",
+  "Fax": "9117 2044",
+  "ContactEmail": "admin@stlukepharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 days M-F 7-9pm \nSat-Sun 8-6",
+  "State": "WA",
+  "Postcode": 6018,
+  "ContactPerson": "Youssef TAKLA",
+  "PreferredContactMethod": "Phone"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dc3"
+  },
+  "PharmacyName": "Great Southern Community \nChemist",
+  "Address1": "Shop 1, 132 Clive Street",
+  "Suburb": "Katanning",
+  "Phone": "9821 8016",
+  "Fax": "9821 8017",
+  "ContactEmail": "gscchemist@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 8.30-5.30, \nSat 8.30-12",
+  "State": "WA",
+  "Postcode": 6317,
+  "ContactPerson": "Mr Paul Buck",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Not taking new clients 22 Nov 2017* "
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dc4"
+  },
+  "PharmacyName": "Katanning Pharmacy",
+  "Address1": "92 Clive Street",
+  "Suburb": "Katanning",
+  "Phone": "9821 1677",
+  "Fax": "9821 7009",
+  "ContactEmail": "info@katanningpharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 8.30-5.30 \nSat 9-12",
+  "State": "WA",
+  "Postcode": 6317,
+  "ContactPerson": "Mr Paul Buck",
+  "PreferredContactMethod": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dc5"
+  },
+  "PharmacyName": "Kellerberrin Pharmacy",
+  "Address1": "92 Massingham Street",
+  "Suburb": "Kellerberrin",
+  "Phone": "9045 4306",
+  "Fax": "9045 4376",
+  "ContactEmail": "kellerberrin.phcy@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "6 Days M-F 9-5 Sat 9-12",
+  "State": "WA",
+  "Postcode": 6410,
+  "ContactPerson": "Yung Hong LAU Henry",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Accept One-off Dosing*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dc6"
+  },
+  "PharmacyName": "Wizard Pharmacy Kelmscott \nStargate",
+  "Address1": "Shop 8-9 Stargate SC\n2784 Albany Highway",
+  "Suburb": "Kelmscott",
+  "Phone": "9390 9911",
+  "Fax": "9495 1370",
+  "ContactEmail": "dispensary.kelmscott2@wizardphy.com.au\npm.kelmscott2@wizardphy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS+P/H 8-9",
+  "State": "WA",
+  "Postcode": 6111,
+  "ContactPerson": "Roslyne Currell",
+  "PreferredContactMethod": "Email",
+  "Notes": "*Accept one-off dosing*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dc7"
+  },
+  "PharmacyName": "Kenwick Pharmacy",
+  "Address1": "Shops 4-6 Kenwick Village SC\nCnr Belmont & Kenwick Rd",
+  "Suburb": "Kenwick",
+  "Phone": "9459 5936",
+  "Fax": "9459 5936",
+  "ContactEmail": "kenwickpharmacy@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 7.30-8.30\nSat 8-7 Sun 12-5",
+  "State": "WA",
+  "Postcode": 6107,
+  "ContactPerson": "Laura",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Mobile: 0411 233 197 Only will have 4 meth and 4 bup and one time"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dc8"
+  },
+  "PharmacyName": "TerryWhite Chemmart Kingsley",
+  "Address1": "Shop A10 Kingsley Village SC\n100 Kingsley Dr",
+  "Suburb": "Kingsley",
+  "Phone": "9409 7373",
+  "Fax": "9409 1015",
+  "ContactEmail": "kingsley@twcmgroup.com",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-7 Sat 8-5\nSun 9-5",
+  "State": "WA",
+  "Postcode": 6026,
+  "ContactPerson": "Ms Nerida Gardner",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0468 958 234 Nam Vuong** \nFormerly 'Kingsley Village Pharmacy' 'Kingsley Village Discount Drug Store'"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dc9"
+  },
+  "PharmacyName": "Kojonup Pharmacy",
+  "Address1": "114 Albany Highway",
+  "Suburb": "Kojonup",
+  "Phone": "9831 1035",
+  "Fax": "9895 6419",
+  "ContactEmail": "kojonup.pharmacy@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 8.45-5.15 \nSat 8.45-12",
+  "State": "WA",
+  "Postcode": 6395,
+  "ContactPerson": "Mrs Sally McMahon",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0439 311 036 Bruce Warland**"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dca"
+  },
+  "PharmacyName": "Koondoola Pharmacy",
+  "Address1": "Shop B1, 34 Koondoola Ave",
+  "Suburb": "Koondoola",
+  "Phone": "9342 5720",
+  "Fax": "9343 2194",
+  "ContactEmail": "koondoolapharmacy@westnet.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 9-6 Sat 9-4\nSun 9-12",
+  "State": "WA",
+  "Postcode": 6064,
+  "ContactPerson": "Mr John Lane",
+  "PreferredContactMethod": "Phone",
+  "Notes": " "
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dcb"
+  },
+  "PharmacyName": "Kununurra Amcal Pharmacy",
+  "Address1": "64 Konkerberry Drive",
+  "Suburb": "Kununurra",
+  "Phone": "9168 1111",
+  "Fax": "9168 1398",
+  "ContactEmail": "kpharm@iinet.net.au",
+  "Treatment": "M",
+  "Administer": "Gareth \nGearon",
+  "OpeningHours": "6 DAYS M-F 9-5.30 Sat 9-1",
+  "State": "WA",
+  "Postcode": 6743,
+  "ContactPerson": "Gareth Gearon",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "Formerly \"Kununurra Amcal Pharmacy\""
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dcc"
+  },
+  "PharmacyName": "Priceline Pharmacy Kwinana",
+  "Address1": "PO Box 39",
+  "Suburb": "Kwinana Town\nCtr",
+  "Phone": "9419 1445",
+  "Fax": "9439 1151",
+  "ContactEmail": "pricelinepharmacykwinana@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-6 Thu 8-8\nSat 8-5 Sun 11-5",
+  "State": "WA",
+  "Postcode": 6966,
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0438 984 575 Vanessa Bolton or \n0447 024 959 Tri Vo** \n*Not taking LongTerm new clients 11/6/19* \nShop T23/24 Kwinana Hub Shopping Centre, 4 Chisholm Avenue, Parmelia \nFormerly Marketplace Pharmacy Kwinana, The Hub Soul Pattinson and Health Etc. Kwinana"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dcd"
+  },
+  "PharmacyName": "Lake Grace Community Pharmacy",
+  "Address1": "27 Stubbs Street",
+  "Suburb": "Lake Grace",
+  "Phone": "9865 2641",
+  "Fax": "9822 2133",
+  "ContactEmail": "admin@lakegracepharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 9-5.30\nSat 9-12",
+  "State": "WA",
+  "Postcode": 6353,
+  "ContactPerson": "Shashidhara Holla Balekudru",
+  "PreferredContactMethod": "Phone"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dce"
+  },
+  "PharmacyName": "Lancelin Pharmacy",
+  "Address1": "PO Box 334",
+  "Suburb": "Lancelin",
+  "Phone": "9655 2777",
+  "Fax": "9655 2888 ",
+  "ContactEmail": "lancelinpharmacy@bigpond.com",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 9-5 Sat 9-12",
+  "State": "WA",
+  "Postcode": 6044,
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0419 912 394 John Brinklow* \nShop 2, 119 Gingin Road Please contact Pharmacist prior to any referral - local, stable clients only"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dcf"
+  },
+  "PharmacyName": "Landsdale Compounding \nPharmacy",
+  "Address1": "21A The Broadview",
+  "Suburb": "Landsdale",
+  "Phone": "9302 5577",
+  "Fax": "9302 5566",
+  "ContactEmail": "erx@rkpharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 7-9 \nSat/Sun 9-8",
+  "State": "WA",
+  "Postcode": 6065,
+  "ContactPerson": "Ravin Pushpalingam",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Formerly Landsdale Guardian Pharmacy*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dd0"
+  },
+  "PharmacyName": "Pharmacy 777 Langford",
+  "Address1": "Unit 3 & 4, 76 Langford Ave",
+  "Suburb": "Langford",
+  "Phone": "9350 5447",
+  "Fax": "9350 5546",
+  "ContactEmail": "langford@pharmacy777.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS+P/H 8-10",
+  "State": "WA",
+  "Postcode": 6147,
+  "ContactPerson": "Tina Jolly",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Accept One-off dosing* "
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dd1"
+  },
+  "PharmacyName": "Leeman Pharmacy",
+  "Address1": "4 Spencer Street",
+  "Suburb": "Leeman",
+  "Phone": "9953 1177",
+  "Fax": "9953 1188",
+  "ContactEmail": "leemanpharmacy@westnet.com.au",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 9-5 Sat 9-12",
+  "State": "WA",
+  "Postcode": 6514,
+  "ContactPerson": "Mr Thao Tran",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Accept One-off dosing*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dd2"
+  },
+  "PharmacyName": "Pharmacy 777 Lesmurdie",
+  "Address1": "Shop 15 Lesmurdie Village SC\n35 Sanderson Rd",
+  "Suburb": "Lesmurdie",
+  "Phone": "9291 7470",
+  "ContactEmail": "lesmurdie@pharmacy777.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-7, Sat 8-5, \nSun 9-1",
+  "State": "WA",
+  "Postcode": 6076,
+  "ContactPerson": "Voon HUONG",
+  "PreferredContactMethod": "{Not Stated}"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dd3"
+  },
+  "PharmacyName": "Pharmacy 777 Lynwood",
+  "Address1": "Shop 6-9 Lynwood Village SC\n6 Lynwood Ave",
+  "Suburb": "Lynwood",
+  "Phone": "9458 3768",
+  "Fax": "9358 3500",
+  "ContactEmail": "lynwood@pharmacy777.com.au",
+  "Treatment": "M",
+  "Administer": "Natalie Willis",
+  "OpeningHours": "7 DAYS M-Wed, Fri 8-7\nThu 8-8 Sat 8-6 Sun 10-2\nDepot Admin Wed/Fri 8.30-6.30",
+  "State": "WA",
+  "Postcode": 6147,
+  "ContactPerson": "Mrs Natalie Willis/Ashton",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0410 304 364 Natalie Willis** \nAccept One-off dosing\nFormerly \"Lynwood Friendlies Pharmacy\" \"Lynwood Soul Pattinson Chemist\"\nMobile: 0410304364"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dd4"
+  },
+  "PharmacyName": "Pharmacy 777 Maddington",
+  "Address1": "Unit 4 / 2 Sheoak Road ",
+  "Suburb": "Maddington",
+  "Phone": "9459 6179",
+  "Fax": "9493 5447",
+  "ContactEmail": "maddington@pharmacy777.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8.30-6\nSat 8.30-5 Sun 10-4",
+  "State": "WA",
+  "Postcode": 6109,
+  "ContactPerson": "Mr Christian Rossi",
+  "PreferredContactMethod": "Email",
+  "Notes": "No new clients 19 Aug 2024\n**EMERGENCY USE ONLY (not be given to clients) - 0405 836 225 Christian Rossi** \n*Formerly Friendlies Maddington and Maddington Village Pharmacy* \nChemist prefer sending scripts and/or ID via EMAIL (11/4/2014)"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dd5"
+  },
+  "PharmacyName": "Mandurah Central Pharmacy",
+  "Address1": "Shop 1, 10 Sholl Street",
+  "Suburb": "Mandurah",
+  "Phone": "9535 1017",
+  "Fax": "9535 6000",
+  "ContactEmail": "dispensary@mcpharmacy.net.au",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 8.30-5.30 \nSat 8.30-5",
+  "State": "WA",
+  "Postcode": 6210,
+  "ContactPerson": "Mr Alan Hipper",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "*Accept One-off dosing* Formerly 'Priceline Pharmacy Mandurah' \nFormerly 'Friendlies Chemist Mandurah'"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dd6"
+  },
+  "PharmacyName": "Mandurah Wholelife Pharmacy and Healthfoods",
+  "Address1": "38-42 Minilya Parkway",
+  "Suburb": "Mandurah",
+  "Phone": "9535 1422",
+  "Fax": "9535 1466",
+  "ContactEmail": "mandurah@wholelife.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-6\nSat 8-2 Sun 9-2",
+  "State": "WA",
+  "Postcode": 6210,
+  "PreferredContactMethod": "Phone",
+  "Notes": "Formerly \"Discount Warehouse Drugstore Mandurah\"\nAccept One-off dosing* Full - not taking clients 30/06/21"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dd7"
+  },
+  "PharmacyName": "Pharmacy 777 Mandurah",
+  "Address1": "PO Box 3426",
+  "Suburb": "Mandurah",
+  "Phone": "9534 9000",
+  "Fax": "9534 9055",
+  "ContactEmail": "mandurah@pharmacy777.com.au",
+  "Treatment": "M",
+  "Administer": "Wesley\nWilliams",
+  "OpeningHours": "7 DAYS+P/H 8am-8pm",
+  "State": "WA",
+  "Postcode": 6210,
+  "ContactPerson": "Wesley Williams",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Approved for 100 clients.\n*Formerly Pharmacy 777 Mandurah*  *Accept one-off dosing* \nUnit 4, 10 Dower Street, Mandurah"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dd8"
+  },
+  "PharmacyName": "Priceline Pharmacy Mandurah East",
+  "Address1": "Shop G061, 330 Pinjarra Road",
+  "Suburb": "Mandurah",
+  "Phone": "9581 5840",
+  "Fax": "9535 1019",
+  "ContactEmail": "mandurah@theinfinitygroup.net.au",
+  "Treatment": "M",
+  "Administer": "Garima Singh",
+  "OpeningHours": "7 DAYS M-F 8.30-6 \nSat 8.30-5 Sun 10-4",
+  "State": "WA",
+  "Postcode": 6210,
+  "ContactPerson": "Garima Singh",
+  "PreferredContactMethod": "Phone"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dd9"
+  },
+  "PharmacyName": "TerryWhite Chemmart Peel",
+  "Address1": "Shops 1-3 Mandurah City SC\n16 Sholl St",
+  "Suburb": "Mandurah",
+  "Phone": "9535 2222",
+  "Fax": "9535 2206",
+  "ContactEmail": "twcpeelpharmacy@gmail.com",
+  "Treatment": "M",
+  "Administer": "Emmanuel\nUngat",
+  "OpeningHours": "7 DAYS M-Sat 8-8\nSun 9-8",
+  "State": "WA",
+  "Postcode": 6210,
+  "ContactPerson": "Emmanuel Ungat",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "Approved for 90 clients.\nFormerly \"Peel Chemmart Pharmacy**"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dda"
+  },
+  "PharmacyName": "Wizard Pharmacy Mandurah",
+  "Address1": "Shop 12 Sands SC\n175-179 Mandurah Terrace",
+  "Suburb": "Mandurah",
+  "Phone": "9535 2134",
+  "Fax": "9535 2798",
+  "ContactEmail": "pm.mandurah1@wizardphy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS 8-7",
+  "State": "WA",
+  "Postcode": 6210,
+  "PreferredContactMethod": "Fax",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0420 359 800 Michael de Brouwer** \nNot taking new clients 1/1/2019 \nFormerly \"Wizard Warehouse Pharmacy Mandurah\" Mobile: 0403205502"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30ddb"
+  },
+  "PharmacyName": "Ambassadors Pharmacy",
+  "Address1": "Shop 9, Bldg 2, Manjimup SC, \n93-101 Mottram St",
+  "Suburb": "Manjimup",
+  "Phone": "9771 1373",
+  "Fax": "9771 8140",
+  "ContactEmail": "ambassadors@manjimuppharmacy.com",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8.30-6 \nSat 8.30-1 Sun 11-4",
+  "State": "WA",
+  "Postcode": 6258,
+  "ContactPerson": "Mr William Green",
+  "PreferredContactMethod": "Phone",
+  "Notes": "3 clients at present  Not taking new clients 20/12/18"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30ddc"
+  },
+  "PharmacyName": "Pharmacy 777 Manjimup\n",
+  "Address1": "4 /79 Giblett St",
+  "Suburb": "Manjimup",
+  "Phone": "9771 1357",
+  "ContactEmail": "manjimup@pharmacy777.com.au",
+  "Treatment": "M",
+  "Administer": "William \nGreen",
+  "OpeningHours": "7 DAYS M-F 8-5.30 \nSat-Sun 8-2",
+  "State": "WA",
+  "Postcode": 6258,
+  "ContactPerson": "William Green",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Closed on Christmas day and Good Friday."
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30ddd"
+  },
+  "PharmacyName": "Priceline Pharmacy Margaret River ",
+  "Address1": "146 Bussell Highway",
+  "Suburb": "Margaret \nRiver",
+  "Phone": "9757 2224",
+  "Fax": "9757 3351",
+  "ContactEmail": "dispense2@pharmacymr.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS+P/H 8-6",
+  "State": "WA",
+  "Postcode": 6285,
+  "ContactPerson": "Karen Cheah",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Formerly Margaret River Pharmacy* *Accept One-off Dosing* \nEMERGENCY CONTACT (NOT TO BE GIVEN TO PATIENTS): Karen 0438 009 809"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dde"
+  },
+  "PharmacyName": "Pharmacy 777 Margaret River",
+  "Address1": "Shop 1 Meeka House\n101 Bussell Highway",
+  "Suburb": "Margaret \nRiver",
+  "Phone": "9757 3688",
+  "Fax": "9757 3188",
+  "ContactEmail": "margaretriver@pharmacy777.com.au",
+  "Treatment": "M",
+  "Administer": "Mrs Ingrid \nManson",
+  "OpeningHours": "7 DAYS+P/H 8-8",
+  "State": "WA",
+  "Postcode": 6285,
+  "ContactPerson": "Ms Ingrid Manson",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Accept One-off dosing* Mobile: 0419367777"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30ddf"
+  },
+  "PharmacyName": "Amcal Pharmacy Maylands",
+  "Address1": "Part of Maylands Medical Ctr\n50-54 Eighth Avenue",
+  "Suburb": "Maylands",
+  "Phone": "9370 3000",
+  "Fax": "9370 3194",
+  "ContactEmail": "maylands@amcal.net.au",
+  "Treatment": "M",
+  "OpeningHours": "6 Days M-F 8.30-6 \nSat 8.30-5",
+  "State": "WA",
+  "Postcode": 6051,
+  "ContactPerson": "Kevin Vee Ern Foo",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0402 025 988 Kevin Foo** \nFormerly \"Friendlies Pharmacy Maylands\""
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30de0"
+  },
+  "PharmacyName": "Clinicare Compounding \nPharmacy Maylands",
+  "Address1": "245 Guildford Road",
+  "Suburb": "Maylands",
+  "Phone": "9370 4410",
+  "Fax": "9471 7115",
+  "ContactEmail": "info@maylandscompounding.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-7 Sat 8-5.30 \nSun 9-1",
+  "State": "WA",
+  "Postcode": 6051,
+  "ContactPerson": "Yuen Chun LEE",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Accept One-off dosing*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30de1"
+  },
+  "PharmacyName": "Pharmacy 777 Maylands",
+  "Address1": "Shop 3 Maylands Park SC\n238 Guildford Rd",
+  "Suburb": "Maylands",
+  "Phone": "9271 5659",
+  "Fax": "9272 5231",
+  "ContactEmail": "maylands@pharmacy777.com.au",
+  "Treatment": "M",
+  "Administer": "Storm\nMeacock",
+  "OpeningHours": "7 DAYS+P/H 8-10",
+  "State": "WA",
+  "Postcode": 6051,
+  "ContactPerson": "Thom",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0419 193 373 Storm Meacock** \nAccept One-off dosing* Alternative number 9271 1533"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30de2"
+  },
+  "PharmacyName": "Meekatharra Pharmacy",
+  "Address1": "72 Main Street",
+  "Suburb": "Meekatharra",
+  "Phone": "9980 1798",
+  "Fax": "9981 1709",
+  "ContactEmail": "meekapharmacy@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 9-5 Sat 9-1",
+  "State": "WA",
+  "Postcode": 6642,
+  "ContactPerson": "Danielle Brown",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0437 720 321 Danielle Brown** \nAccept One-off dosing, advise in advance for ordering stock"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30de3"
+  },
+  "PharmacyName": "Merredin Pharmacy",
+  "Address1": "102 Barrack St",
+  "Suburb": "Merredin",
+  "Phone": "9041 1311",
+  "Fax": "9041 1023",
+  "ContactEmail": "merredinpharmacyscripts@gmail.com",
+  "Treatment": "M ",
+  "OpeningHours": "6 DAYS M-F 8.30-5.30 \nSat 8.30-12.30",
+  "State": "WA",
+  "Postcode": 6415,
+  "ContactPerson": "Wayne Ingrilli",
+  "PreferredContactMethod": "Email",
+  "Notes": "Formerly Savings Plus Chemist Merredin.  Accept one-off dosing."
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30de4"
+  },
+  "PharmacyName": "Midland Drive-In Pharmacy",
+  "Address1": "280 Great Eastern Highway",
+  "Suburb": "Midland",
+  "Phone": "9274 2972",
+  "Fax": "9250 2543",
+  "ContactEmail": "mdip@live.com.au",
+  "Treatment": "M",
+  "Administer": "Miss Brooke\nGoddard",
+  "OpeningHours": "6 DAYS M-F 8-6 Sat 8-1",
+  "State": "WA",
+  "Postcode": 6056,
+  "ContactPerson": "Nick",
+  "PreferredContactMethod": "Phone"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30de5"
+  },
+  "PharmacyName": "Midland Pharmacy &\n Compounding Centre",
+  "Address1": "10 / 401 Great Eastern Hwy",
+  "Suburb": "Midland",
+  "Phone": "6270 7481",
+  "Fax": "6270 7480",
+  "ContactEmail": "info@midlandpharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "5 DAYS 8-6",
+  "State": "WA",
+  "Postcode": 6056,
+  "ContactPerson": "William Safar",
+  "PreferredContactMethod": "Phone"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30de6"
+  },
+  "PharmacyName": "Optimal Pharmacy Plus Midland",
+  "Address1": "Shop 8, 295 Great Eastern Hwy",
+  "Suburb": "Midland",
+  "Phone": "9274 1001",
+  "Fax": "9274 3733",
+  "ContactEmail": "oppmi@westnet.com.au",
+  "Treatment": "M",
+  "Administer": "Peter\nZaninovich",
+  "OpeningHours": "7 DAYS M-Sat 8-6 Sun 8-5",
+  "State": "WA",
+  "Postcode": 6056,
+  "ContactPerson": "Mr Peter Zaninovich",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Approved for 100 clients.\n *Approved to supply Buvidal to NS Midland 1/9/2020*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30de7"
+  },
+  "PharmacyName": "Pharmacy 777 Centrepoint \nMidland",
+  "Address1": "Shop 17 Centrepoint SC\nGreat Eastern Highway",
+  "Suburb": "Midland",
+  "Phone": "9274 7767",
+  "Fax": "9274 7779",
+  "ContactEmail": "midland@pharmacy777.com.au",
+  "Treatment": "M",
+  "Administer": "Eric Thow",
+  "OpeningHours": "7 DAYS+P/H 8am-10pm",
+  "State": "WA",
+  "Postcode": 6056,
+  "ContactPerson": "Mr Andrew Ngeow",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Approved for 80 clients."
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30de8"
+  },
+  "PharmacyName": "Mindarie Keys Pharmacy",
+  "Address1": "Shop 8 / 36 Anchorage Drive",
+  "Suburb": "Mindarie",
+  "Phone": "9407 7166",
+  "Fax": "9407 7199",
+  "ContactEmail": "mindariepharmacy@outlook.com",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS 8-8",
+  "State": "WA",
+  "Postcode": 6030,
+  "ContactPerson": "Karen Johnson",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Does not do one-off dosing"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30de9"
+  },
+  "PharmacyName": "Superchem Mirrabooka Village",
+  "Address1": "Shop 9 Mirrabooka Village SC\nHoneywell Boulevard",
+  "Suburb": "Mirrabooka",
+  "Phone": "9249 1124",
+  "Fax": "9248 2020",
+  "ContactEmail": "mirrabooka@superchem.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS 8-8",
+  "State": "WA",
+  "Postcode": 6061,
+  "ContactPerson": "Chloe Tan",
+  "PreferredContactMethod": "Phone"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dea"
+  },
+  "PharmacyName": "Moora Community Pharmacy",
+  "Address1": "7 Dandaragan Street",
+  "Suburb": "Moora",
+  "Phone": "9651 1252",
+  "Fax": "9651 1998",
+  "ContactEmail": "moorapharmacy@iinet.net.au",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 8.30-5.30\nSat 8.30-1",
+  "State": "WA",
+  "Postcode": 6510,
+  "ContactPerson": "John Lagana",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Formerly Savemor Pharmacy Moora"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30deb"
+  },
+  "PharmacyName": "Just Pharmacy Morley",
+  "Address1": "1/40 Rudloc Road",
+  "Suburb": "Morley",
+  "Phone": "9276 1395",
+  "Fax": "9276 5191",
+  "ContactEmail": "justpharmacymorley@ppsportal.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 7-8\nSat/Sun 8-8pm",
+  "State": "WA",
+  "Postcode": 6062,
+  "ContactPerson": "Sepida Rahmani",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Accept one-offs dosing* \nEMERGENCY USE ONLY (not be given to clients) - 0402 544 570 Sepideh \nFormerly Morley Budget Chemmart* Seeking additional clients Mobile: 0413121146"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dec"
+  },
+  "PharmacyName": "Pharmacy 777 Morley",
+  "Address1": "Shop 2 & 3, 127 Crimea Street",
+  "Suburb": "Morley",
+  "Phone": "9276 1183",
+  "Fax": "9276 1455",
+  "ContactEmail": "morley@pharmacy777.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS 8-8",
+  "State": "WA",
+  "Postcode": 6062,
+  "ContactPerson": "Mr Robert Ayad",
+  "PreferredContactMethod": "Phone"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30ded"
+  },
+  "PharmacyName": "Mosman Drive-In Chemist",
+  "Address1": "590 Stirling Highway",
+  "Suburb": "Mosman Park",
+  "Phone": "9384 0219",
+  "Fax": "9385 2057",
+  "ContactEmail": "dispensary@mosmandriveinchemist.com",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS 8-8",
+  "State": "WA",
+  "Postcode": 6012,
+  "ContactPerson": "Mr John Fountain",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0422 794 130 Jason CHEW**"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dee"
+  },
+  "PharmacyName": "Mt Barker Country Chemist",
+  "Address1": "23 Lowood Rd",
+  "Suburb": "Mount Barker",
+  "Phone": "9851 1010",
+  "Fax": "9851 2011",
+  "ContactEmail": "mbccdispensary@alliancepharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 8.30-5.30 \nSat 8.30-12.30",
+  "State": "WA",
+  "Postcode": 6324,
+  "ContactPerson": "SIMON/JOHN",
+  "PreferredContactMethod": "Email",
+  "Notes": "*Accept one-off dosing* Mobile: 0456 081 510 (contact nr in case the landline is not working) \nFormerly \"Mount Barker Pharmacy\""
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30def"
+  },
+  "PharmacyName": "Pharmacy 777 Mt Hawthorn",
+  "Address1": "159A Scarborough Beach Rd",
+  "Suburb": "Mount \nHawthorn",
+  "Phone": "9444 1423",
+  "Fax": "9444 1561",
+  "ContactEmail": "mthawthorn@pharmacy777.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS 7-8",
+  "State": "WA",
+  "Postcode": 6016,
+  "ContactPerson": "Minh-Van Ngo",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0433 381 511 Chloe**"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30df0"
+  },
+  "PharmacyName": "Beaufort Chemist",
+  "Address1": "647 Beaufort Street",
+  "Suburb": "Mount \nLawley",
+  "Phone": "9328 7775",
+  "Fax": "9328 7745",
+  "ContactEmail": "info@beaufortchemist.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS+P/H 7am - 2am",
+  "State": "WA",
+  "Postcode": 6050,
+  "ContactPerson": "Mita Shah",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "*Not taking new clients 17/1/24*  *will NOT take one offs* \nApproved for DEPOT BPN, but only do oral formulations\nLimited dosing hours - clients must attend for interview before accepted - METHADONE and SUBOXONE FILM ONLY \nFormerly \"Beaufort St 24Hour Chemist\""
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30df1"
+  },
+  "PharmacyName": "Epic Pharmacy Mt Lawley",
+  "Address1": "St John of God Hospital\nThirlmere Rd",
+  "Suburb": "Mount \nLawley",
+  "Phone": "9370 9882",
+  "Fax": "9370 9880",
+  "ContactEmail": "mtlawley@epicpharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "6 Days M-F 8.30-5.30 \nSat 9-12",
+  "State": "WA",
+  "Postcode": 6050,
+  "ContactPerson": "John Forster",
+  "PreferredContactMethod": "{Not Stated}",
+  "Notes": "St John of God Hospital Patients ONLY"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30df2"
+  },
+  "PharmacyName": "The Dispensary Mount Lawley",
+  "Address1": "Unit 1, 777 Beaufort Street",
+  "Suburb": "Mount \nLawley",
+  "Phone": "9271 1956",
+  "Fax": "9473 0582",
+  "ContactEmail": "dispensary.td@tassone.com.au",
+  "Treatment": "M",
+  "Administer": "Mr Alberto\nTassone",
+  "OpeningHours": "7 DAYS M-F 8.30-7\nSat/Sun 8.30-5\nDepot Admin Tue,W,F 12-5\nThu 10-2, Sat 10-3",
+  "State": "WA",
+  "Postcode": 6050,
+  "ContactPerson": "Mr Robert Tassone",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Formerly Mount Lawley Pharmacy & Health Foods"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30df3"
+  },
+  "PharmacyName": "Mundaring Amcal Pharmacy",
+  "Address1": "Shop 4, 5 Nicol St",
+  "Suburb": "Mundaring",
+  "Phone": "9295 1063",
+  "Fax": "9295 1708",
+  "ContactEmail": "mundaring@amcal.net.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-8 Sat 8-5 \nSun P/H 8.30-5",
+  "State": "WA",
+  "Postcode": 6073,
+  "ContactPerson": "Meryl Paterson",
+  "PreferredContactMethod": "{Not Stated}",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0418 901 195 Meryl Paterson** \nAccept One-off dosing"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30df4"
+  },
+  "PharmacyName": "Mundaring Village Pharmacy",
+  "Address1": "Shop 11, 7295 Great Eastern Hwy",
+  "Suburb": "Mundaring",
+  "Phone": "9295 0889",
+  "Fax": "9295 0882",
+  "ContactEmail": "info@mundaringpharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-6\nSat 8-5 Sun 10-3",
+  "State": "WA",
+  "Postcode": 6073,
+  "ContactPerson": "Ms Jana Ann Practico",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Not taking new clients 24/5/19"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30df5"
+  },
+  "PharmacyName": "Mundijong Pharmacy",
+  "Address1": "Shop 2, 40 Paterson Street",
+  "Suburb": "Mundijong",
+  "Phone": "9526 0682",
+  "Fax": "9525 5778",
+  "ContactEmail": "mundijongpharmacy@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-10\nSat/Sun 9-2",
+  "State": "WA",
+  "Postcode": 6123,
+  "ContactPerson": "Mr David Tran",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Not taking new clients 16/9/19*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30df6"
+  },
+  "PharmacyName": "Fiona Stanley Hospital Pharmacy",
+  "Address1": "11 Robin Warren Drive",
+  "Suburb": "Murdoch",
+  "Phone": "6152 3140",
+  "ContactEmail": "barry.jenkins@health.wa.gov.au",
+  "OpeningHours": "7 DAYS M-F 8.30-4.30 Sat-Sun 9.00-2.00pm",
+  "State": "WA",
+  "Postcode": 6150,
+  "ContactPerson": "Mr Barry Jenkins",
+  "PreferredContactMethod": "Phone"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30df7"
+  },
+  "PharmacyName": "Myaree Pharmacy",
+  "Address1": "Shop 10 North Lake SC\n67 North Lake Rd",
+  "Suburb": "Myaree",
+  "Phone": "9330 3467",
+  "Fax": "9330 2159",
+  "ContactEmail": "myareepharmacy@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-7 Sat 8-6\nSun 9-5",
+  "State": "WA",
+  "Postcode": 6154,
+  "ContactPerson": "Simon Woo",
+  "PreferredContactMethod": "Email",
+  "Notes": "*Seeking new clients 19/8/19* \"Formerly Optimal Pharmacy Plus Myaree\""
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30df8"
+  },
+  "PharmacyName": "Narembeen Pharmacy",
+  "Address1": "1/19 Churchill Street",
+  "Suburb": "Narembeen",
+  "Phone": "9064 7373",
+  "Fax": "9064 7300",
+  "ContactEmail": "narembeenpharmacy@live.co.uk",
+  "Treatment": "M",
+  "OpeningHours": "5 DAYS M-F 9-5",
+  "State": "WA",
+  "Postcode": 6369,
+  "ContactPerson": "Dennis Kian",
+  "PreferredContactMethod": "{Not Stated}",
+  "Notes": "*Formerly Clinicare Pharmacy Narembeen*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30df9"
+  },
+  "PharmacyName": "Narrogin Guardian Pharmacy",
+  "Address1": "PO Box 105",
+  "Suburb": "Narrogin",
+  "Phone": "9881 1006",
+  "Fax": "9881 2116",
+  "ContactEmail": "narrogin@guardianpharm.net",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 8.30-6 \nSat 8.30-12.30",
+  "State": "WA",
+  "Postcode": 6312,
+  "ContactPerson": "Mr Nikhil Patel",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "*Accept one-off dosing* 74 Federal Street, Narrogin Formerly Maxwells Pharmacy"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dfa"
+  },
+  "PharmacyName": "Broadway Fair Pharmacy",
+  "Address1": "Broadway Fair SC, 88 Broadway",
+  "Suburb": "Nedlands",
+  "Phone": "9386 1355",
+  "Fax": "9389 9485",
+  "ContactEmail": "admin@broadwayfairpharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8.30-7\nSat 8.30-6 Sun 10-3",
+  "State": "WA",
+  "Postcode": 6009,
+  "ContactPerson": "Chi Yen Chia",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Approved but not doing CPOP"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dfb"
+  },
+  "PharmacyName": "Boulevard Pharmacy",
+  "Address1": "PO Box 302",
+  "Suburb": "Newman",
+  "Phone": "9175 2207",
+  "Fax": "9262 3006",
+  "ContactEmail": "boulevard@newmanpharma.com.au",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 9-6 Thu 9-7 \nSat 8.30-4 ",
+  "State": "WA",
+  "Postcode": 6753,
+  "ContactPerson": "Ms Elizabeth Hyde",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "*Accept One-off Dosing** Shop 19 Boulevard Shopping Centre Newman Drive, Newman \nPublic Holidays closed"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dfc"
+  },
+  "PharmacyName": "Hilditch Pharmacy",
+  "Address1": "Shop 6 Parnawarri SC, 1 Lee Lane",
+  "Suburb": "Newman",
+  "Phone": "9175 5927 ",
+  "Fax": "9262 3006",
+  "ContactEmail": "hilditchpharm@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 9-6 Sat 9-4",
+  "State": "WA",
+  "Postcode": 6753,
+  "ContactPerson": "Elizabeth Hyde",
+  "PreferredContactMethod": "{Not Stated}"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dfd"
+  },
+  "PharmacyName": "Nollamara Compounding \nPharmacy 777",
+  "Address1": "51 Nollamara Avenue",
+  "Suburb": "Nollamara",
+  "Phone": "9349 1201",
+  "Fax": "9344 2002",
+  "ContactEmail": "nollamaracompounding@\npharmacy777.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS 8-6 \nDosing 8.30-5.30 ",
+  "State": "WA",
+  "Postcode": 6061,
+  "ContactPerson": "Somayyeh / Lisa",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Seeking new patients 18/05/20 \nEMERGENCY USE ONLY (not be given to clients) - 0402 457 292 Lisa Nguyen \nMobile: 0421 953 083 - emergency only Formerley \"Healthlink Nollamara\""
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dfe"
+  },
+  "PharmacyName": "Pharmacy 777 Nollamara",
+  "Address1": "Shop 24 Nollamara SC\n84 Hillsborough Dr",
+  "Suburb": "Nollamara",
+  "Phone": "9349 1570",
+  "Fax": "9440 4811",
+  "ContactEmail": "nollamara@pharmacy777.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS+P/H 8-10",
+  "State": "WA",
+  "Postcode": 6061,
+  "ContactPerson": "Neil Norris",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Accept one-off dosing* 18/05/20: Not accepting patients, at capacity"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30dff"
+  },
+  "PharmacyName": "TerryWhite Chemmart Noranda",
+  "Address1": "Shop 49 Noranda Palms SC\nCnr McGilvray & Benara Rd",
+  "Suburb": "Noranda",
+  "Phone": "9375 1251",
+  "Fax": "9275 1351",
+  "ContactEmail": "dispense@norandachemmart.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8.30-8.30\nSat-Sun 8.30-7pm",
+  "State": "WA",
+  "Postcode": 6062,
+  "ContactPerson": "Andrew Downey",
+  "PreferredContactMethod": "Phone",
+  "Notes": "No new referrals Sep 2023\n**EMERGENCY USE ONLY (not be given to clients) - 0409 884 412 Andrew Downey \nAccept One-off dosing*, Formerly Noranda Chemmart Pharmacy, \nAlternate Email: noranda@terrywhitechemmart.com.au"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e00"
+  },
+  "PharmacyName": "Greenleaf Pharmacy North Beach",
+  "Address1": "Shop 10 West Coast Plaza\n1 North Beach Rd",
+  "Suburb": "North Beach",
+  "Phone": "9447 1419",
+  "Fax": "9448 6925",
+  "ContactEmail": "script.northbeach@greenleaf.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 7am-8pm",
+  "State": "WA",
+  "Postcode": 6020,
+  "ContactPerson": "Mr Stuart Alexander",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "Formerly West Coast Plaza Chemist, Formerly North Beach Pharmacy\nProgram Full - Suboxone only clients by referral (as at 1/1/2019)"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e01"
+  },
+  "PharmacyName": "Leighton Beach Drive-In \nPharmacy",
+  "Address1": "108 Stirling Highway,",
+  "Suburb": "North \nFremantle",
+  "Phone": "9335 1191",
+  "Fax": "9335 1044",
+  "ContactEmail": "leightonbeachchemist@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-7\nSat 8.30-7 Sun 8.30-5",
+  "State": "WA",
+  "Postcode": 6159,
+  "ContactPerson": "Yeen Na Wee",
+  "PreferredContactMethod": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e02"
+  },
+  "PharmacyName": "Michael's Health Care Chemist \nNorth Perth",
+  "Address1": "Shop 2, 4/391 Fitzgerald Street",
+  "Suburb": "North Perth",
+  "Phone": "9328 3359",
+  "Fax": "9328 3482",
+  "ContactEmail": "northperth@michaelschemist.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-7pm Sat 8-5 \nSun 11-5",
+  "State": "WA",
+  "Postcode": 6006,
+  "ContactPerson": "Mr Michael Spartalis",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Seeking more patients 14/07/21* \nEMERGENCY USE ONLY (not be given to clients) - 0415 080 539 Sophie Edelman\nAccept One-off dosing "
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e03"
+  },
+  "PharmacyName": "Northam Discount Drug Store",
+  "Address1": "Shop T15 Northam Boulevard SC\n177 Fitzgerald St East",
+  "Suburb": "Northam",
+  "Phone": "9622 1521",
+  "Fax": "9622 3137",
+  "ContactEmail": "dispensary@northamdds.com.au",
+  "Treatment": "M",
+  "Administer": "Mr Matthew\nReid",
+  "OpeningHours": "7 DAYS M-F 8.30-5.30 \nSat 8.30-2.30 Sun 9-2",
+  "State": "WA",
+  "Postcode": 6401,
+  "ContactPerson": "Matthew Reid/David Stephenson/Sharon Bailey",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Accept One-off dosing* Formerly \"Northam Pharmacy\""
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e04"
+  },
+  "PharmacyName": "Wheatbelt Health Centre \nPharmacy",
+  "Address1": "5/25 Holtfreter Avenue",
+  "Suburb": "Northam",
+  "Phone": "9622 7905",
+  "Fax": "9622 7902",
+  "ContactEmail": "admin@wheatbeltpharmacy.com.au",
+  "Treatment": "M",
+  "Administer": "Daniel \nO'Driscoll",
+  "OpeningHours": "6 DAYS M-F 8.30-5.30 \nSat 8.30-1",
+  "State": "WA",
+  "Postcode": 6401,
+  "ContactPerson": "Mr Daniel O'Driscoll",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0405 684 658 Daniel O'Driscoll** \nAccept one-off dosing* Accept local and stable clients 21/10/19"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e05"
+  },
+  "PharmacyName": "Chemist Discount Centre Northbridge",
+  "Address1": "223 William Street",
+  "Suburb": "Northbridge",
+  "Phone": "9328 7885",
+  "Fax": "9328 8505",
+  "ContactEmail": "northbridge@cdcpharmacy.com.au",
+  "Treatment": "M",
+  "Administer": "Christiana\nAniyi",
+  "OpeningHours": "7 DAYS M-F 6am-8pm \nSat/Sun 9-5",
+  "State": "WA",
+  "Postcode": 6003,
+  "ContactPerson": "Mrs Christiana Aniyi",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Approved for 100 clients.\nFormerly \"Busy Bee Pharmacy\"    *Accept one-offs dosing* \n"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e06"
+  },
+  "PharmacyName": "Caring Pharmacy Northbridge",
+  "Address1": "Shop 1 / 154-156 Newcastle St",
+  "Suburb": "Northbridge",
+  "Phone": "9328 9447",
+  "Fax": "9328 9441",
+  "ContactEmail": "northbridge@caringpharmacy.com.au",
+  "Treatment": "M",
+  "Administer": "Mr Eric Chim",
+  "OpeningHours": "6 DAYS M-F 8.30-7 Sat 9-4 ",
+  "State": "WA",
+  "Postcode": 6003,
+  "ContactPerson": "Mr Eric Chim",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Depot Admin M-F 9-4"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e07"
+  },
+  "PharmacyName": "Ocean Reef Pharmacy",
+  "Address1": "Shop 3 Ocean Reef SC\n81 Marina Boulevard",
+  "Suburb": "Ocean Reef",
+  "Phone": "6116 8018",
+  "Fax": "6323 1101",
+  "ContactEmail": "oceanreefpharmacy@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 8-6 Sat 8-2",
+  "State": "WA",
+  "Postcode": 6027,
+  "ContactPerson": "Rachel Morgan-Jones/Pieter Delhaas",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0400 014 741 Rachel Morgan-Jones*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e08"
+  },
+  "PharmacyName": "Osborne Park Pharmacy",
+  "Address1": "207-209 Main Street",
+  "Suburb": "Osborne Park",
+  "Phone": "9344 3655",
+  "Fax": "9344 6036",
+  "ContactEmail": "opp@nunet.com.au",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 8.30-7 \nSat 8.30-5",
+  "State": "WA",
+  "Postcode": 6017,
+  "ContactPerson": "Louis",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0403 010 372 Louis Anastasas**"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e09"
+  },
+  "PharmacyName": "Formula Pharmacy",
+  "Address1": "Unit 2, 369-375 Canning Hwy",
+  "Suburb": "Palmyra",
+  "Phone": "9339 5158",
+  "Fax": "9339 5164",
+  "ContactEmail": "formulapharmacy@outlook.com",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-W, Fri 8.30-6 Thu 8.30-8 Sat 8.30-6",
+  "State": "WA",
+  "Postcode": 6157,
+  "ContactPerson": "Pheobee",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "Program full - no new clients 1/1/19)"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e0a"
+  },
+  "PharmacyName": "Paraburdoo Pharmacy",
+  "Address1": "PO Box 12",
+  "Suburb": "Paraburdoo",
+  "Phone": "6149 1348",
+  "Fax": "9189 6761",
+  "ContactEmail": "paraburdoopharmacy@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 9-5 Sat 9-1",
+  "State": "WA",
+  "Postcode": 6754,
+  "ContactPerson": "Mr Seng Hoo Lu",
+  "PreferredContactMethod": "{Not Stated}",
+  "Notes": "Address: Shop 4 Paraburdoo SC, Ashburton Ave, Paraburdoo WA 6754"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e0b"
+  },
+  "PharmacyName": "Chisham Express Pharmacy",
+  "Address1": "1 Chisham Ave",
+  "Suburb": "Parmelia",
+  "Phone": "9419 3242",
+  "Fax": "9419 2674",
+  "ContactEmail": "chishamave@frednet.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8.30-9\nSat-Sun 8.30-8",
+  "State": "WA",
+  "Postcode": 6167,
+  "ContactPerson": "Dave/David/Matthew",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Accept One-off dosing for well behaved clients* \nFormerly \"Chisham Avenue Dispensary\", \"Guardian Pharmacy Parmelia Chisham Ave\""
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e0c"
+  },
+  "PharmacyName": "Greenleaf Pharmacy Pearsall",
+  "Address1": "Shop 1, 155 Willespie Drive",
+  "Suburb": "Pearsall",
+  "Phone": "9206 5588",
+  "Fax": "9206 5599",
+  "ContactEmail": "pearsall@greenleaf.au\nscript.pearsall@greenleaf.au",
+  "Treatment": "M",
+  "Administer": "Jamie \nBogoias",
+  "OpeningHours": "7 DAYS 8-9",
+  "State": "WA",
+  "Postcode": 6065,
+  "ContactPerson": "Jamie Bogoias",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Formerly Hocking Fullife Pharmacy, Pearsall Pharmacy"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e0d"
+  },
+  "PharmacyName": "Pemberton Pharmacy",
+  "Address1": "48 Brockman Street",
+  "Suburb": "Pemberton",
+  "Phone": "9776 1054",
+  "Fax": "9776 0737",
+  "ContactEmail": "pembertonpharmacy@westnet.com.au",
+  "OpeningHours": "7 DAYS M-F 9-5.30 \nSat 9-4 Sun 10.30-2",
+  "State": "WA",
+  "Postcode": 6260,
+  "ContactPerson": "Helen Hamersley",
+  "PreferredContactMethod": "{Not Stated}",
+  "Notes": "No further clients without approval through Community Pharmacotherapy Program"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e0e"
+  },
+  "PharmacyName": "Chemist Discount Centre Perth \nCBD",
+  "Address1": "Wesley Quarter\n95 William Street",
+  "Suburb": "Perth",
+  "Phone": "9321 5391",
+  "Fax": "9321 5094",
+  "ContactEmail": "perth@cdcpharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 8-6 Sat 10-4",
+  "State": "WA",
+  "Postcode": 6000,
+  "ContactPerson": "Jonathan Wong",
+  "PreferredContactMethod": "Phone",
+  "Notes": "ONLY TAKE ONE-OFF CLIENTS \nEMERGENCY USE ONLY (not be given to clients) - 0430 521 616 Jonathan Wong** *formerly \"Friendlies Chemists Perth\""
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e0f"
+  },
+  "PharmacyName": "Craven's Pharmacy",
+  "Address1": "Shop 2, 553 Hay Street",
+  "Suburb": "Perth",
+  "Phone": "9325 4375",
+  "Fax": "9325 7708",
+  "ContactEmail": "pharmacycravens@gmail.com",
+  "Treatment": "M",
+  "Administer": "Poojah\nMaru",
+  "OpeningHours": "6 DAYS M-F 7.30-5.30\nSat 8.30-5pm",
+  "State": "WA",
+  "Postcode": 6000,
+  "ContactPerson": "Mr Ronald Stuurstraat",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Not taking CPOP Clients (1/1/19)"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e10"
+  },
+  "PharmacyName": "Pharmacy 777 Perth City",
+  "Address1": "Lot 3 Gledden Bldg\n731 Hay Street Mall",
+  "Suburb": "Perth",
+  "Phone": "9321 6411",
+  "Fax": "9321 1920",
+  "ContactEmail": "perthcity@pharmacy777.com.au",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 7-6 Sat 9-5",
+  "State": "WA",
+  "Postcode": 6000,
+  "ContactPerson": "Meahgan Liecester",
+  "PreferredContactMethod": "Email",
+  "Notes": "*Please EMAIL scripts(Jun 2018)*. No dosing between 1100-1400hr. \nOpen all PHs but only 0900-1200hrs. Not taking new patients. Formerly Fitch's Pharmacy"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e11"
+  },
+  "PharmacyName": "Superchem Perth Central",
+  "Address1": "Shop TR4 Raine Square SC",
+  "Suburb": "Perth",
+  "Phone": "9321 4441",
+  "Fax": "9322 5161",
+  "ContactEmail": "perth@superchem.com.au",
+  "Treatment": "M",
+  "OpeningHours": "5 DAYS M-F 8-5.30",
+  "State": "WA",
+  "Postcode": 6000,
+  "ContactPerson": "Ernest Pirone",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**DOSING hours 9am-4pm only** Superchem Raine Square closed since 4 May 2017.  \nAll clients transferred to here.  Same owner. In same shopping centre."
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e12"
+  },
+  "PharmacyName": "Piara Waters Pharmacy",
+  "Address1": "1/20 Riva Entrance",
+  "Suburb": "Piara Waters",
+  "Phone": "9397 1282",
+  "Fax": "6323 1030",
+  "ContactEmail": "admin@piarawaterspharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 8-7 Sat 8-5",
+  "State": "WA",
+  "Postcode": 6112,
+  "ContactPerson": "Paul Ngoo",
+  "PreferredContactMethod": "{Not Stated}",
+  "Notes": "please email scripts"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e13"
+  },
+  "PharmacyName": "TerryWhite Chemmart Pinjarra",
+  "Address1": "PO Box 110",
+  "Suburb": "Pinjarra",
+  "Phone": "9531 2436",
+  "Fax": "9531 1892",
+  "ContactEmail": "pharmacist@twcmpinjarra.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-6 \nSat 8.30-5 Sun 8.30-1",
+  "State": "WA",
+  "Postcode": 6208,
+  "ContactPerson": "Robert Pearson",
+  "PreferredContactMethod": "{Not Stated}",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0403 153 189 Robert Pearson** \nFULL 7/11/23, 27 Forrest Street, PINJARRA  WA 6208"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e14"
+  },
+  "PharmacyName": "Pharmacy 777 Port Hedland",
+  "Address1": "PO Box 335, Point Hedland 6721\nShop 9 Boulevard SC\n150 Anderson St",
+  "Suburb": "Port Hedland",
+  "Phone": "9173 1350 ",
+  "Fax": "9173 2707",
+  "ContactEmail": "porthedland@pharmacy777.com.au",
+  "Treatment": "M",
+  "Administer": "Mr Lee Ross",
+  "OpeningHours": "7 DAYS Mon-Sun 8-8",
+  "State": "WA",
+  "Postcode": 6721,
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Formerly Health Focus Pharmacy* \n**EMERGENCY USE ONLY (not be given to clients) - 0400 887 240 Lee**"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e15"
+  },
+  "PharmacyName": "Port Kennedy Pharmacy",
+  "Address1": "Shop 8B,397 Warnbro Sound Ave",
+  "Suburb": "Port Kennedy",
+  "Phone": "9524 6909",
+  "Fax": "9524 6910",
+  "ContactEmail": "services@pkpharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-7 Sat 8-5 \nSun 8-4",
+  "State": "WA",
+  "Postcode": 6172,
+  "ContactPerson": "Jadely Low",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Accept one-off dosing. \n**EMERGENCY USE ONLY (not be given to clients) - 0402 196 387 Jadely LOW**"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e16"
+  },
+  "PharmacyName": "St Clair Pharmacy & News",
+  "Address1": "Shop 8, 49 Chelmsford Ave",
+  "Suburb": "Port Kennedy",
+  "Phone": "9593 0299",
+  "Fax": "9593 0806",
+  "ContactEmail": "stclairpharmacynews@hotmail.com",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-6 Sat 8-5 \nSun 9-5",
+  "State": "WA",
+  "Postcode": 6172,
+  "ContactPerson": "George Salib",
+  "PreferredContactMethod": "Phone",
+  "Notes": "REFERRALS VIA CPP ONLY (1/1/2019)"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e17"
+  },
+  "PharmacyName": "Ravensthorpe Pharmacy",
+  "Address1": "80 Morgans Street",
+  "Suburb": "Ravensthorpe",
+  "Phone": "9838 1020",
+  "Fax": "9838 1202",
+  "ContactEmail": "ravensthorpepharmacy@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "5 DAYS M, W, F 9.30-3.30\nTue, Thu 9.30-5",
+  "State": "WA",
+  "Postcode": 6346,
+  "ContactPerson": "Ms Siearra Marina Ramli",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0401 538 358 Siearra Cronin**"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e18"
+  },
+  "PharmacyName": "Ravenswood Amcal Pharmacy",
+  "Address1": "Shop 3, 60 Lloyd Ave",
+  "Suburb": "Ravenswood",
+  "Phone": "9537 6958 ",
+  "Fax": "9537 6935",
+  "ContactEmail": "dispensary@ravenswoodpharmacy.com.au",
+  "Treatment": "M",
+  "Administer": "Mrs Quin Lee\nJeffery",
+  "OpeningHours": "6 DAYS M-F 8-5 \nSat 9-3",
+  "State": "WA",
+  "Postcode": 6208,
+  "ContactPerson": "Mrs Quin Lee Jeffery",
+  "PreferredContactMethod": "{Not Stated}",
+  "Notes": "*Accept One-off dosing*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e19"
+  },
+  "PharmacyName": "TerryWhite Chemmart Rivervale",
+  "Address1": "118 Kooyong Road",
+  "Suburb": "Rivervale",
+  "Phone": "9361 2244",
+  "Fax": "9470 3460",
+  "ContactEmail": "info@rivervalechemmart.com.au",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 8-6 \nSat 8-5",
+  "State": "WA",
+  "Postcode": 6103,
+  "ContactPerson": "Karen Price-Patrick",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Accept one-off dosing* \nEMERGENCY USE ONLY (not be given to clients) - 0403 485 999 Patrick or \n0417 917 730 Karen\nFormerly *Rivervale Chemmart Pharmacy** \"Laurie Keys Chemmart Pharmacy\" "
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e1a"
+  },
+  "PharmacyName": "Infinity Pharmacy Rockingham",
+  "Address1": "Shop 213 Rockingham SC\n1 Council Ave",
+  "Suburb": "Rockingham",
+  "Phone": "9591 3288",
+  "Fax": "9591 3088",
+  "ContactEmail": "rockingham@theinfinitygroup.net.au",
+  "OpeningHours": "7 DAYS M-F 8-7 \nSat/Sun 8-6",
+  "State": "WA",
+  "Postcode": 6168,
+  "ContactPerson": "Shaun Pulham",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Formerly Wizard Pharmacy Rockingham"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e1b"
+  },
+  "PharmacyName": "Sonic Rockingham Pharmacy",
+  "Address1": "24 Pedlar Circuit",
+  "Suburb": "Rockingham",
+  "Phone": "9528 6610",
+  "Fax": "9528 7076",
+  "ContactEmail": "sonicpharmacy@frednet.com.au",
+  "Treatment": "M",
+  "OpeningHours": "5 DAYS M-F 8-4",
+  "State": "WA",
+  "Postcode": 6168,
+  "ContactPerson": "Anna Bartlett",
+  "PreferredContactMethod": "Phone"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e1c"
+  },
+  "PharmacyName": "Superchem Rockingham Beach \nPharmacy",
+  "Address1": "Lot 1 & Part Lot 6\nCnr Parkin St & Railway Tce",
+  "Suburb": "Rockingham",
+  "Phone": "9527 1452",
+  "Fax": "9527 4392",
+  "ContactEmail": "rockingham@superchem.com.au",
+  "Treatment": "M",
+  "Administer": "Fong Wong",
+  "OpeningHours": "7 DAYS +P/H 8-7.30",
+  "State": "WA",
+  "Postcode": 6168,
+  "PreferredContactMethod": "Unknown",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0405 316 779 Alla AbuAbdu** \n*Accept One-off dosing*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e1d"
+  },
+  "PharmacyName": "TerryWhite Chemmart \nRockingham Centre ",
+  "Address1": "T131 Rockingham City SC,Read St",
+  "Suburb": "Rockingham",
+  "Phone": "9527 3202",
+  "Fax": "9527 3642",
+  "ContactEmail": "dispensary.rockingham@twcmgroup.com",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-8 Sat 8-6\nSun 10-6",
+  "State": "WA",
+  "Postcode": 6168,
+  "ContactPerson": "Mitchell Coz",
+  "PreferredContactMethod": "Email",
+  "Notes": "*Formerly Terry White Chemists Rockingham City* "
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e1e"
+  },
+  "PharmacyName": "Roleystone Community Pharmacy",
+  "Address1": "Shop 15 Roleystone SC\n21 Jarrah Rd",
+  "Suburb": "Roleystone",
+  "Phone": "9397 5377",
+  "Fax": "9397 6923",
+  "ContactEmail": "roleystonecommunitychemist@hotmail.com",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8.30-6 \nSat 8.30-5 Sun 9-3",
+  "State": "WA",
+  "Postcode": 6111,
+  "PreferredContactMethod": "Unknown",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0438 563 197 Stephen White or \n0421 467 417 Gary Toh** \n*Accept one-off dosing*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e1f"
+  },
+  "PharmacyName": "Caring Pharmacy Malibu (Compounding Chemist)",
+  "Address1": "3/110 Malibu Road",
+  "Suburb": "Safety Bay",
+  "Phone": "9527 7013",
+  "Fax": "9527 7113",
+  "ContactEmail": "malibu@caringpharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-6 \nSat 8-5 Sun 8-1",
+  "State": "WA",
+  "Postcode": 6169,
+  "ContactPerson": "James Yii",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Formerly Malibu Pharmacy*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e20"
+  },
+  "PharmacyName": "Optimal Pharmacy Plus \nScarborough",
+  "Address1": "91 Scarborough Beach Road",
+  "Suburb": "Scarborough",
+  "Phone": "9341 1756",
+  "Fax": "9341 3419",
+  "ContactEmail": "oppsc@iinet.net.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS 8-6",
+  "State": "WA",
+  "Postcode": 6019,
+  "ContactPerson": "Mr Jason Murray",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "*Formerly Post Office Pharmacy*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e21"
+  },
+  "PharmacyName": "Scarborough 7 Day Chemist",
+  "Address1": "Shop 3, 23 Scarborough Beach Rd",
+  "Suburb": "Scarborough",
+  "Phone": "9245 1950",
+  "Fax": "9245 3749",
+  "ContactEmail": "scarborough7daychemist@gmail.com",
+  "Treatment": "M",
+  "Administer": "Chirag Shah",
+  "OpeningHours": "7 DAYS 8-10pm",
+  "State": "WA",
+  "Postcode": 6019,
+  "ContactPerson": "Mr Chirag Shah",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0402 705 490 Chirag SHAH** \n*Accept One-off dosing* Landline issues, please call Mobile 0402 705 490 (5 Nov 2019)"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e22"
+  },
+  "PharmacyName": "Scarborough Beach Pharmacy",
+  "Address1": "Shop 11 Luna Maxi-Mart\n241 West Coast Highway",
+  "Suburb": "Scarborough",
+  "Phone": "9341 1133",
+  "Fax": "9341 1131",
+  "ContactEmail": "scarboroughbeachpharmacy@gmail.com",
+  "Treatment": "M",
+  "Administer": "Chirag Shah",
+  "OpeningHours": "7 DAYS M-Sat 8.30-7\nSat-Sun 9-5",
+  "State": "WA",
+  "Postcode": 6019,
+  "ContactPerson": "Mr Chirag Shah",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Accept One-off dosing*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e23"
+  },
+  "PharmacyName": "Oasis Pharmacy",
+  "Address1": "Unit 1, Ground Floor\n2 Clarkhill Rd",
+  "Suburb": "Secret \nHarbour",
+  "Phone": "9501 9310",
+  "Fax": "9501 9313",
+  "ContactEmail": "oasispharmacy.sh@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-Fri 8.30-5.30\nSat 9-3",
+  "State": "WA",
+  "Postcode": 6173,
+  "ContactPerson": "Mr David Pham",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Accept one-off dosing* \n**EMERGENCY USE ONLY (not be given to clients) - 0403 153 337 David Pham** "
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e24"
+  },
+  "PharmacyName": "Serpentine Pharmacy",
+  "Address1": "Lot 21, Unit 2, 26 Maxwell St",
+  "Suburb": "Serpentine",
+  "Phone": "9525 3700",
+  "Fax": "9525 3711",
+  "ContactEmail": "serpentinepharmacy@bigpond.com",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 8.30-5.30\nSat 8.30-1",
+  "State": "WA",
+  "Postcode": 6125,
+  "ContactPerson": "Mr William Safar",
+  "PreferredContactMethod": "{Not Stated}",
+  "Notes": "Mobile: 0401091921"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e25"
+  },
+  "PharmacyName": "Shenton Pharmacy",
+  "Address1": "214 Nicholson Road",
+  "Suburb": "Shenton Park",
+  "Phone": "9381 1358",
+  "Fax": "9380 6427",
+  "ContactEmail": "shenton.pharmacy@frednet.com.au",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 8.30-5.30\nSat 9-1",
+  "State": "WA",
+  "Postcode": 6008,
+  "ContactPerson": "Aaron Ko",
+  "PreferredContactMethod": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e26"
+  },
+  "PharmacyName": "Pharmacy 777 Shoalwater",
+  "Address1": "Sh 13 Shoalwater SC\n117 Safety Bay Rd",
+  "Suburb": "Shoalwater",
+  "Phone": "9528 7755",
+  "Fax": "9528 7756",
+  "ContactEmail": "shoalwater@pharmacy777.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-Sun 8-9",
+  "State": "WA",
+  "Postcode": 6169,
+  "ContactPerson": "Ms Julie Ng",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "Not taking Depot Admin clients 23/5/24\n*Accept One-off dosing* Formerly Shoalwater Pharmacy"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e27"
+  },
+  "PharmacyName": "Pharmacy 777 Sorrento",
+  "Address1": "Seacrest Medical Centre\n28 Seacrest Dr",
+  "Suburb": "Sorrento",
+  "Phone": "9448 9299",
+  "Fax": "9246 4256",
+  "ContactEmail": "Sorrento@pharmacy777.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-8 Sat 8-6 \nSun+P/H 8.30-6",
+  "State": "WA",
+  "Postcode": 6020,
+  "ContactPerson": "Peata Wishart",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Formerly \"Friendlies Sorrento\", 'Seacrest Pharmacy' 11/08/20: Not taking patients"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e28"
+  },
+  "PharmacyName": "Greg's Discount Chemist \nSouth Fremantle",
+  "Address1": "6 & 6a South Fremantle \nMarket Place, 219 Hampton Rd",
+  "Suburb": "South \nFremantle",
+  "Phone": "9335 4344",
+  "Fax": "9335 4355",
+  "ContactEmail": "southfreo@ppsportal.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-7 Sat 8-6 \nSun 11-5",
+  "State": "WA",
+  "Postcode": 6162,
+  "ContactPerson": "Daniel Chew",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "*Accept One-off dosing* Seeking new patients 10/07/20 Mob: 0401686088 "
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e29"
+  },
+  "PharmacyName": "South Hedland Pharmacy",
+  "Address1": "Shop 22 Sth Hedland SC\nCnr Colebatch Way & Throssell Rd",
+  "Suburb": "South \nHedland",
+  "Phone": "9172 3899",
+  "Fax": "9140 1089",
+  "ContactEmail": "shedlandpharmacy@westnet.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-Sat 8-7 \nSun 9-5",
+  "State": "WA",
+  "Postcode": 6722,
+  "ContactPerson": "Matt",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "*Accept One-off dosing*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e2a"
+  },
+  "PharmacyName": "Optimal Pharmacy Plus \nSouthlakes",
+  "Address1": "Shop 16, Lakes SC, North Lake Rd",
+  "Suburb": "South Lake",
+  "Phone": "9417 4119",
+  "Fax": "9417 7536",
+  "ContactEmail": "oppsl@iinet.net.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-7 Sat 8-5\nSun 11-5",
+  "State": "WA",
+  "Postcode": 6164,
+  "ContactPerson": "Collin or Nao",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0487 933 930 Mark Bartels** \n*Formerly Nightingales Pharmacy South Lake*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e2b"
+  },
+  "PharmacyName": "Pharmacy 777 South Lake",
+  "Address1": "Shop 3 Berrigan Quarter Community SC\n49 Berrigan Dr",
+  "Suburb": "South Lake",
+  "Phone": "9417 2788",
+  "Fax": "9417 7011",
+  "ContactEmail": "southlake@pharmacy777.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 Days 7-9 (Dosing 8-8)",
+  "State": "WA",
+  "Postcode": 6164,
+  "PreferredContactMethod": "{Not Stated}",
+  "Notes": "*Accept One-off dosing*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e2c"
+  },
+  "PharmacyName": "TerryWhite Chemmart Yunderup",
+  "Address1": "3/126 South Yunderup Road",
+  "Suburb": "South \nYunderup",
+  "Phone": "9537 7011",
+  "Fax": "9537 7022",
+  "ContactEmail": "yunderup@twcmgroup.com",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 9-6 Sat 9-2",
+  "State": "WA",
+  "Postcode": 6208,
+  "ContactPerson": "Guor Michar",
+  "PreferredContactMethod": "{Not Stated}"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e2d"
+  },
+  "PharmacyName": "Pharmacy 777 Spearwood",
+  "Address1": "7/223 Rockingham Rd",
+  "Suburb": "Spearwood",
+  "Phone": "9418 6777",
+  "Fax": "9418 7777",
+  "ContactEmail": "spearwood@pharmacy777.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS+P/H 7-8",
+  "State": "WA",
+  "Postcode": 6163,
+  "ContactPerson": "Ms Wen Shyan Yap",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "*NO one-off clients* \n**EMERGENCY USE ONLY (not be given to clients) - 0433 776 512 Crystal Yap or \n0404 389 633 Eric Huong** 25/05/21: Full. "
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e2e"
+  },
+  "PharmacyName": "Phoenix Centre Pharmacy",
+  "Address1": "Shop 35 Phoenix SC\n254 Rockingham Rd",
+  "Suburb": "Spearwood",
+  "Phone": "9418 1548",
+  "Fax": "9418 7220",
+  "ContactEmail": "phoenixcentrepharmacy@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-7 Sat 8-5 \nSun 11-5",
+  "State": "WA",
+  "Postcode": 6163,
+  "ContactPerson": "Mark Langridge/Shane",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0404 263 555 Lukasz Ziola** \n*Accept One-off dosing*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e2f"
+  },
+  "PharmacyName": "Botts Compounding Pharmacy",
+  "Address1": "1098A Albany Highway",
+  "Suburb": "St James",
+  "Phone": "9458 1515",
+  "Fax": "9458 1545",
+  "ContactEmail": "info@bottspharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS+P/H 8am-11pm",
+  "State": "WA",
+  "Postcode": 6102,
+  "ContactPerson": "Trevor Leith/Andrew Cronin",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Approved for 100 clients.\n**EMERGENCY USE ONLY (not be given to clients) - 0488 889 960 Trevor Leith** \nFormerly Botts Drive-In Pharmacy"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e30"
+  },
+  "PharmacyName": "St James Newstart Pharmacy",
+  "Address1": "16A & B Chapman Road",
+  "Suburb": "St James",
+  "Phone": "9361 6101",
+  "Fax": "9472 1764",
+  "ContactEmail": "info@sjnp.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS 8-8",
+  "State": "WA",
+  "Postcode": 6102,
+  "ContactPerson": "Joanne",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0439 096 460 Joanne Abetz**"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e31"
+  },
+  "PharmacyName": "St Francis Pharmacy",
+  "Address1": "Shop 19 Subiaco Square SC\n29 Station St",
+  "Suburb": "Subiaco",
+  "Phone": "9380 6711",
+  "Fax": "9380 6722",
+  "ContactEmail": "enquiries@stfrancispharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 7-8 \nSat/Sun 7-7",
+  "State": "WA",
+  "Postcode": 6008,
+  "ContactPerson": "Ms Kirsty Chew",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "Previously Subi-Square Pharmacy. Seeking new clients (11/01/19) \nAll new clients to be discussed with Kirsty (owner) first"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e32"
+  },
+  "PharmacyName": "Greenleaf Pharmacy Subiaco",
+  "Address1": "145 Hay St",
+  "Suburb": "Subiaco",
+  "Phone": "6370 2212",
+  "ContactEmail": "subiaco@greenleaf.au",
+  "Treatment": "M",
+  "Administer": "Jamie \nBogoias",
+  "OpeningHours": "5 DAYS 8-6",
+  "State": "WA",
+  "Postcode": 6008,
+  "ContactPerson": "Mr Jamie Bogoias",
+  "PreferredContactMethod": "Phone"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e33"
+  },
+  "PharmacyName": "Cockburn Super Clinic Pharmacy",
+  "Address1": "Unit 2, 11 Wentworth Parade",
+  "Suburb": "Success",
+  "Phone": "9414 3851",
+  "Fax": "9414 3061",
+  "ContactEmail": "info@csclinicpharmacy.com.au",
+  "Treatment": "M",
+  "Administer": "Bob TIN",
+  "OpeningHours": "6 DAYS M-F 8-8, Sat 9-5",
+  "State": "WA",
+  "Postcode": 6164,
+  "ContactPerson": "Mr Bob J S Ng Cheong Tin",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Accept one-offs dosing*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e34"
+  },
+  "PharmacyName": "Priceline Pharmacy Gateways",
+  "Address1": "Shop 104, 816 Beeliar Drive",
+  "Suburb": "Success",
+  "Phone": "9414 3375",
+  "Fax": "9414 3379",
+  "ContactEmail": "gateways@theinfinitygroup.net.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-7 Sat 8-5\nSun 11-5",
+  "State": "WA",
+  "Postcode": 6164,
+  "ContactPerson": "Mr Mark Connor",
+  "PreferredContactMethod": "Phone"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e35"
+  },
+  "PharmacyName": "Morrison Road Compounding \nPharmacy",
+  "Address1": "Shop 1 Darling Ridge SC\n309 Morrison Rd",
+  "Suburb": "Swan View",
+  "Phone": "9255 2660",
+  "Fax": "9255 2669",
+  "ContactEmail": "mrdip@bigpond.com",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8.30-7.30 \nSat 8.30-6.30\nSun 9.30-6.30",
+  "State": "WA",
+  "Postcode": 6056,
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0419 922 460 John Lagana** \nFormerly \"Friendlies Chemists Swan View\""
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e36"
+  },
+  "PharmacyName": "Thornlie Square Pharmacy",
+  "Address1": "Shop 18, Thornlie Square SC\nCnr Spencer Rd & Thornlie Ave",
+  "Suburb": "Thornlie",
+  "Phone": "9459 2611",
+  "Fax": "9459 2187",
+  "ContactEmail": "thornliesqphy@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "7 DATS M-F 8.30-6\nSat 8.30-5 Sun 10-4",
+  "State": "WA",
+  "Postcode": 6108,
+  "ContactPerson": "Jonathan Han",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Accept One-off dosing. *Approved to supply Buvidal to NS Thornlie 20/11/2020* **FAX line got issues due to NBN, please EMAIL script or call to check after fax**\n **EMERGENCY USE ONLY (not be given to clients) - 0416 855 190 Jonathan Han** Formerly Thornlie Square Soul Pattinson Chemist"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e37"
+  },
+  "PharmacyName": "Sal's Pharmacy",
+  "Address1": "106 Railway Road",
+  "Suburb": "Three Springs",
+  "Phone": "9954 1994",
+  "Fax": "9932 6122",
+  "ContactEmail": "salspharmacy@hotmail.com",
+  "Treatment": "M",
+  "OpeningHours": "5 DAYS M, Tue, Thu 9-5\nWed 4.15-5.15 Fri 9-3.30",
+  "State": "WA",
+  "Postcode": 6519,
+  "ContactPerson": "Reshad Jahangeer",
+  "PreferredContactMethod": "Email",
+  "Notes": "*Not taking on clients 8/12/2020*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e38"
+  },
+  "PharmacyName": "Tom Price Pharmacy",
+  "Address1": "PO Box 40",
+  "Suburb": "Tom Price",
+  "Phone": "9189 1202",
+  "Fax": "9189 2125",
+  "ContactEmail": "tompricepharmacy@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 8.30-5.30 \nSat 9-2",
+  "State": "WA",
+  "Postcode": 6751,
+  "PreferredContactMethod": "Unknown",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0430 362 339 Ben** \n*Accept One-off dosing* \nShops 4 & 5 Tom Price Shopping Centre Jacaranda Drive, Tom Price WA 6751"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e39"
+  },
+  "PharmacyName": "Trigg Medical Pharmacy",
+  "Address1": "Shop 4, 131 Lynn St",
+  "Suburb": "Trigg",
+  "Phone": "9447 7314",
+  "Fax": "9447 7314",
+  "ContactEmail": "triggmedicalpharmacy@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 9-6 \nSat 9-2",
+  "State": "WA",
+  "Postcode": 6029,
+  "ContactPerson": "Yong Sim LEE",
+  "PreferredContactMethod": "Phone"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e3a"
+  },
+  "PharmacyName": "Amcal Tuart Hill",
+  "Address1": "Shop 3 / 85 Wanneroo Road",
+  "Suburb": "Tuart Hill",
+  "Phone": "9349 1065",
+  "Fax": "9349 4241",
+  "ContactEmail": "dispensary.tuarthill@amcal.net.au",
+  "Treatment": "M",
+  "Administer": "George\nKounis",
+  "OpeningHours": "7 DAYS 8-8",
+  "State": "WA",
+  "Postcode": 6060,
+  "ContactPerson": "Michael Chesney",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Approved for 100 clients.\n**EMERGENCY USE ONLY (not be given to clients) - 0407 981 062 Michael Chesney** \nFormerly Peter Cook Amcal Chemist"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e3b"
+  },
+  "PharmacyName": "Pharmacy 777 Dog Swamp",
+  "Address1": "Shop 4 Dog Swamp SC\n6 Wanneroo Rd",
+  "Suburb": "Tuart Hill",
+  "Phone": "9444 6325",
+  "Fax": "9444 6327",
+  "ContactEmail": "dogswamp@pharmacy777.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS 8-7",
+  "State": "WA",
+  "Postcode": 6060,
+  "ContactPerson": "Ms Jovana Seat",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Accept One-off dosing (provided script cfm with CPOP issuer) \nSeeking more clients 7/5/20 "
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e3c"
+  },
+  "PharmacyName": "Vasse Pharmacy",
+  "Address1": "21 Napoleon Promenade",
+  "Suburb": "Vasse",
+  "Phone": "9787 8800",
+  "Fax": "9794 2597",
+  "ContactEmail": "vassepharmacy@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS 8am-6pm",
+  "State": "WA",
+  "Postcode": 6280,
+  "ContactPerson": "Ms Nadine Botha",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Accept one-off dosing* \n**EMERGENCY USE ONLY (not be given to clients) - 0457 077 798 Nadine Botha**"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e3d"
+  },
+  "PharmacyName": "Wagin Pharmacy",
+  "Address1": "52 Tudhoe St",
+  "Suburb": "Wagin",
+  "Phone": "9861 1245",
+  "Fax": "9861 2419",
+  "ContactEmail": "waginpharmacy@gmail.com",
+  "OpeningHours": "6 DAYS M-F 8.30-5 \nSat 10-12",
+  "State": "WA",
+  "Postcode": 6315,
+  "ContactPerson": "Shayan Hooshmand",
+  "PreferredContactMethod": "Phone"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e3e"
+  },
+  "PharmacyName": "Optimal Pharmacy Plus Waikiki",
+  "Address1": "Shop 9 Stargate SC\n76 Charthouse Rd",
+  "Suburb": "Waikiki",
+  "Phone": "9591 3199",
+  "Fax": "9591 1433",
+  "ContactEmail": "oppw@westnet.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS Mon-Sun 8-8",
+  "State": "WA",
+  "Postcode": 6169,
+  "ContactPerson": "Liberty",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0419 947 161 Liberty Dunstan** \nFormerly Guardian Pharmacy Warnbro"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e3f"
+  },
+  "PharmacyName": "TerryWhite Chemmart Waikiki ",
+  "Address1": "Shop 19 Waikiki Village SC\nCnr Read St & Gnangara Dr",
+  "Suburb": "Waikiki",
+  "Phone": "9591 3011",
+  "Fax": "9591 3022",
+  "ContactEmail": "Dispensary.waikiki@twcmgroup.com",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-7 Sat 8-5 \nSun 10-5",
+  "State": "WA",
+  "Postcode": 6169,
+  "ContactPerson": "Michael Japp",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "Formerly Waikiki Discount Drug Store"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e40"
+  },
+  "PharmacyName": "Wangara Pharmacy",
+  "Address1": "Shop 9, 2 Prindiville Drive",
+  "Suburb": "Wangara",
+  "Phone": "9200 4400",
+  "Fax": "9200 4401",
+  "ContactEmail": "wangarapharmacy@outlook.com",
+  "Treatment": "M",
+  "OpeningHours": "7 Days 7am-11 pm",
+  "State": "WA",
+  "Postcode": 6065,
+  "ContactPerson": "Bassem Saad",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Seeking more patients 19/03/21* *Accept One-off dosing* \nFormerly Friendlies Wangara* Mobile: 0418442445"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e41"
+  },
+  "PharmacyName": "Amcal Pharmacy Wanneroo",
+  "Address1": "U1 & 2, 771 Wanneroo Rd",
+  "Suburb": "Wanneroo",
+  "Phone": "9405 2229",
+  "Fax": "9206 2229",
+  "ContactEmail": "dispensary@wanneroopharmacy.com",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-Sat 8.30-5",
+  "State": "WA",
+  "Postcode": 6065,
+  "ContactPerson": "Ms Li Chuen (Ellsy) Choo",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Formerly ' Pharmacy 777 Wanneroo'"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e42"
+  },
+  "PharmacyName": "Drovers Pharmacy Wanneroo",
+  "Address1": "Shop 11, 1397 Wanneroo Rd",
+  "Suburb": "Wanneroo",
+  "Phone": "9206 1545",
+  "Fax": "9206 1954",
+  "ContactEmail": "wanneroo@droverspharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 8-6 Sat 8-5",
+  "State": "WA",
+  "Postcode": 6065,
+  "ContactPerson": "Christine Mwende",
+  "PreferredContactMethod": "{Not Stated}",
+  "Notes": "Accept one-off dosing. *Formerly Drovers Pharmacy* *Formerly Michael's Chemist Wanneroo*\n**EMERGENCY USE ONLY (not be given to clients) - 0407 775 231 Tania Ncube** \nFormerly Drovers Health Pharmacy* Seeking clients 07/07/20 "
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e43"
+  },
+  "PharmacyName": "TerryWhite Chemmart Warwick",
+  "Address1": "Shop 16 Warwick Grove\nCnr Beach & Erindale Rd",
+  "Suburb": "Warwick",
+  "Phone": "9448 2900",
+  "Fax": "9246 3138",
+  "ContactEmail": "dispense@twcwarwick.com.au",
+  "Treatment": "M",
+  "Administer": "Gavin\nHealy",
+  "OpeningHours": "7 DAYS M-F 8-8 Sat 8-6\nSun 10-6",
+  "State": "WA",
+  "Postcode": 6024,
+  "ContactPerson": "Gavin Healy",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Approved to supply Buvidal to NS Warwick 13/3/2020* \nFormerly Terry White Chemists Warwick and Warwick Amcal Chemist"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e44"
+  },
+  "PharmacyName": "Wattle Grove Pharmacy",
+  "Address1": "10 / 338 Hale Road",
+  "Suburb": "Wattle Grove",
+  "Phone": "9359 2266",
+  "Fax": "9453 1783",
+  "ContactEmail": "wattlegrove6cpa@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 8.30-7pm \nSat 8.30-6pm",
+  "State": "WA",
+  "Postcode": 6107,
+  "ContactPerson": "Soo Jin",
+  "PreferredContactMethod": "Phone"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e45"
+  },
+  "PharmacyName": "Wizard Pharmacy Wellard",
+  "Address1": "Shop 17, 10 The Strand, Wellard Square",
+  "Suburb": "Wellard",
+  "Phone": "9419 2900",
+  "Fax": "9501 9292",
+  "ContactEmail": "pm.wellard1@wizardphy.com.au",
+  "Treatment": "M",
+  "Administer": "Mario Atmaja",
+  "OpeningHours": "7 DAYS M-F 8-7 Sat 9-5 Sun 11-5",
+  "State": "WA",
+  "Postcode": 6170,
+  "ContactPerson": "Mario Atmaja",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Buvidal admin M-F 10-4 only"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e46"
+  },
+  "PharmacyName": "Pharmacy 777 Wembley",
+  "Address1": "274 Cambridge Street",
+  "Suburb": "Wembley",
+  "Phone": "9387 3984",
+  "Fax": "9387 4000",
+  "ContactEmail": "wembley@pharmacy777.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-Sun 8-8",
+  "State": "WA",
+  "Postcode": 6014,
+  "ContactPerson": "Jessica Figg/Trupti Gohil",
+  "PreferredContactMethod": "Phone"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e47"
+  },
+  "PharmacyName": "Wembley Pharmacy",
+  "Address1": "361 Cambridge Street",
+  "Suburb": "Wembley",
+  "Phone": "9387 3079",
+  "Fax": "9387 4014",
+  "ContactEmail": "wembley@pharmacyalliance.net",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS+P/H 8-10",
+  "State": "WA",
+  "Postcode": 6014,
+  "PreferredContactMethod": "Unknown",
+  "Notes": "*Accept one-off dosing* \n**EMERGENCY USE ONLY (not be given to clients) - 0407 427 669 Navid Namdar**"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e48"
+  },
+  "PharmacyName": "TerryWhite Chemmart Wembley \nDowns",
+  "Address1": "Shop 2-3 Wembley Downs SC\n11 Bournemouth Crescent",
+  "Suburb": "Wembley \nDowns",
+  "Phone": "9341 3404",
+  "Fax": "9245 1647",
+  "ContactEmail": "wembleydowns@\nterrywhitechemmart.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-7 \nSat/Sun 8-6",
+  "State": "WA",
+  "Postcode": 6019,
+  "ContactPerson": "Henry Gulev",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Formerly The Downs Chemmart*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e49"
+  },
+  "PharmacyName": "Terry White Chemmart West \nLeederville",
+  "Address1": "Unit 1 West Leederville Ctr\n115 Cambridge St",
+  "Suburb": "West \nLeederville",
+  "Phone": "9381 5087",
+  "Fax": "9381 3027",
+  "ContactEmail": "westleederville@terrywhitechemmart.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-7 Sat 8.30-5\n Sun 11-5",
+  "State": "WA",
+  "Postcode": 6007,
+  "ContactPerson": "Mr Eric Chim",
+  "PreferredContactMethod": "Phone",
+  "Notes": "Formerly 'West Leederville Soul Pattinson Chemist'"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e4a"
+  },
+  "PharmacyName": "Wickham Pharmacy",
+  "Address1": "Shop 4 Wickham CC, Mulga Way",
+  "Suburb": "Wickham",
+  "Phone": "9187 0708",
+  "Fax": "9187 0708",
+  "ContactEmail": "wickhampharmacy@hotmail.com",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-Sat 9-5.30",
+  "State": "WA",
+  "Postcode": 6720,
+  "ContactPerson": "Mrs Teresa Tan",
+  "PreferredContactMethod": "{Not Stated}",
+  "Notes": "28/01/21 Fax unreliable. Please only use email"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e4b"
+  },
+  "PharmacyName": "Pharmacy 777 Willagee",
+  "Address1": "1/60 Archibald Street",
+  "Suburb": "Willagee",
+  "Phone": "9337 2718",
+  "Fax": "9331 2201",
+  "ContactEmail": "willagee@pharmacy777.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-7 Sat 8-5 \nSun 9-2",
+  "State": "WA",
+  "Postcode": 6156,
+  "ContactPerson": "Kim Dethlefsen",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0406 688 936 Kim Dethlefsen** \nFormerly \"Amcal Chemist Willagee\" Formerly \"Friendlies Chemists Willagee\""
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e4c"
+  },
+  "PharmacyName": "Pharmacy 777 Willetton",
+  "Address1": "Shop 10 Burrendah SC\n61 Apsley Rd",
+  "Suburb": "Willetton",
+  "Phone": "9457 1777",
+  "Fax": "9457 1589",
+  "ContactEmail": "Willetton@pharmacy777.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS 7am-8pm",
+  "State": "WA",
+  "Postcode": 6155,
+  "ContactPerson": "Ms Hua Ying Cheong",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0402 483 995 David Biancuzzo* \nNo referrals as of 1/1/19"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e4d"
+  },
+  "PharmacyName": "Wizard Pharmacy Willetton",
+  "Address1": "Shop 3 Riverton SC, 189 High Rd",
+  "Suburb": "Willetton",
+  "Phone": "9457 3467",
+  "Fax": "9354 7031",
+  "ContactEmail": "pm.willetton1@wizardphy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8.30-7 \nSat 8.30-5 Sun 9-5",
+  "State": "WA",
+  "Postcode": 6155,
+  "ContactPerson": "Nadia Jillian Dyson",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "Formerly \"Terry White Chemmart Willetton\" Formerly \"Willetton Chemmart Pharmacy\""
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e4e"
+  },
+  "PharmacyName": "Williams Pharmacy",
+  "Address1": "34 Albany Highway",
+  "Suburb": "Williams",
+  "Phone": "9865 9101",
+  "Fax": "9865 9101 ",
+  "ContactEmail": "williams.pharmacy@yahoo.com",
+  "Treatment": "M",
+  "OpeningHours": "6 Days M-F 9-5\nSat 9-12.30",
+  "State": "WA",
+  "Postcode": 6391,
+  "ContactPerson": "Ms Georgia Porter",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0455 352 800 Swee Ping PANG*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e4f"
+  },
+  "PharmacyName": "Wongan Hills Pharmacy",
+  "Address1": "19 Elphin Cres",
+  "Suburb": "Wongan Hills",
+  "Phone": "9671 1157",
+  "Fax": "9671 1957",
+  "ContactEmail": "wonganhillschemist@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 9-5.30 \nSat 9-12.30 ",
+  "State": "WA",
+  "Postcode": 6603,
+  "ContactPerson": "Mr John Cao",
+  "PreferredContactMethod": "Phone"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e50"
+  },
+  "PharmacyName": "Woodvale Pharmacy",
+  "Address1": "Shop 12, 153 Trappers Dr",
+  "Suburb": "Woodvale",
+  "Phone": "9309 2601",
+  "Fax": "9309 2528",
+  "ContactEmail": "woodvalephcy@gmail.com",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-6.30 \nSat 8-4 Sun 11-5",
+  "State": "WA",
+  "Postcode": 6026,
+  "ContactPerson": "Mr Quoc Khanh Nguyen",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0412 078 474 Khanh NGUYEN**"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e51"
+  },
+  "PharmacyName": "Acacia Prison Medical Services",
+  "Address1": "Great Eastern Highway",
+  "Suburb": "Wooroloo",
+  "Phone": "9573 3300",
+  "Treatment": "M",
+  "State": "WA",
+  "Postcode": 6558
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e52"
+  },
+  "PharmacyName": "Pharmacy 777 Yanchep",
+  "Address1": "T16/18 Yanchep Central SC\n1 & 2 Peony Boulevard",
+  "Suburb": "Yanchep",
+  "Phone": "6244 8517",
+  "Fax": "6244 8537",
+  "ContactEmail": "yanchep@pharmacy777.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-8 Sat 8-5 \nSun 11-5",
+  "State": "WA",
+  "Postcode": 6035,
+  "ContactPerson": "Mun Kiat CHAN",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Accept one-off dosing*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e53"
+  },
+  "PharmacyName": "Yanchep Community Pharmacy",
+  "Address1": "Shop 3 The Village, 5 Village Row",
+  "Suburb": "Yanchep",
+  "Phone": "9561 2888",
+  "Fax": "9561 2899",
+  "ContactEmail": "yancheppharmacy@bigpond.com",
+  "Treatment": "M",
+  "Administer": "Paul \nDrake-Brockman",
+  "OpeningHours": " 7 DAYS M-F 8-8 \nSAT 8-5.30 SUN 9-5\nDepot Admin M-F 10-5 talk to Paul",
+  "State": "WA",
+  "Postcode": 6035,
+  "ContactPerson": "Mr Paul Drake-Brockman",
+  "PreferredContactMethod": "Phone",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0423 037 666 Michael Hainsworth** \nFormerly \"Yanchep Pharmacy\""
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e54"
+  },
+  "PharmacyName": "Caring Pharmacy Yangebup",
+  "Address1": "Shop 12 Lakelands C\n31 Moorhen Rd",
+  "Suburb": "Yangebup",
+  "Phone": "9417 1108",
+  "Fax": "9417 2649",
+  "ContactEmail": "yangebup@caringpharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-F 8-6 Sat 8-5 \nSun P/H 9-2",
+  "State": "WA",
+  "Postcode": 6164,
+  "ContactPerson": "Mr Harshand Varsani",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "*Accept one-off dosing* \n**EMERGENCY USE ONLY (not be given to clients) - 0406 659 182 Ashley Zhang** \nFormerly \"Yangebup Community Pharmacy\" Formerly 'Friendlies Chemist Yangebup'"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e55"
+  },
+  "PharmacyName": "Pharmacy 777 Flinders",
+  "Address1": "Shop 20 Flinders Square SC\nCnr Flinders & Wiluna St",
+  "Suburb": "Yokine",
+  "Phone": "9443 1749",
+  "Fax": "9443 1741",
+  "ContactEmail": "flinders@pharmacy777.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS 8-9",
+  "State": "WA",
+  "Postcode": 6060,
+  "ContactPerson": "Ms Jovana Seat",
+  "PreferredContactMethod": "Phone",
+  "Notes": "*Seeking more clients 12/5/20** *Accept One-off dosing 10-5pm only*"
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e56"
+  },
+  "PharmacyName": "Royal Street Community \nPharmacy",
+  "Address1": "162 Wanneroo Road",
+  "Suburb": "Yokine",
+  "Phone": "9349 4011",
+  "Fax": "9349 4217",
+  "ContactEmail": "rscp@ppsportal.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS M-Sat 8-8 \nSun 8-6",
+  "State": "WA",
+  "Postcode": 6060,
+  "ContactPerson": "Christina Sua",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "*Accept One-off dosing* *Formerly \"Royal St Chemmart\""
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e57"
+  },
+  "PharmacyName": "Amcal Yokine Pharmacy",
+  "Address1": "224 Swan Street",
+  "Suburb": "Yokine",
+  "Phone": "9349 1676",
+  "Fax": "9349 1676",
+  "ContactEmail": "dispensary@yokinepharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "7 DAYS+P/H 8-8",
+  "State": "WA",
+  "Postcode": 6060,
+  "ContactPerson": "Deseree Bui",
+  "PreferredContactMethod": "Email",
+  "Notes": "Formerly Yokine Pharmacy.  Full - not taking on new clients 29/5/19 "
+},
+{
+  "_id": {
+    "$oid": "6876263247db947029e30e58"
+  },
+  "PharmacyName": "Health Pharmacy York",
+  "Address1": "105 Avon Terrace",
+  "Suburb": "York",
+  "Phone": "9641 1044",
+  "Fax": "9641 1446",
+  "ContactEmail": "dispensary@healthpharmacy.com.au",
+  "Treatment": "M",
+  "OpeningHours": "6 DAYS M-F 8.30-5.30\nSat 8.30-12.30",
+  "State": "WA",
+  "Postcode": 6302,
+  "ContactPerson": "Miss Sherwin Kashani",
+  "PreferredContactMethod": "Unknown",
+  "Notes": "**EMERGENCY USE ONLY (not be given to clients) - 0427 411 044 Matthew Reid* \n*Accept One-off dosing* Formerly York Pharmacy"
+}]

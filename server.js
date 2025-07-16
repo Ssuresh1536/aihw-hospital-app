@@ -1,32 +1,23 @@
+// server.js
 const express = require('express');
 const mongoose = require('mongoose');
-const cors = require('cors');
-const fetchAndStoreData = require('./utils/fetchAndStoreData');
-const hospitalRoutes = require('./routes/hospitalRoutes');
+const dotenv = require('dotenv');
+const pharmacyRoutes = require('./routes/pharmacyRoutes');
 
-// ✅ Load environment variables from .env file
-require('dotenv').config();
-
+dotenv.config();
 const app = express();
-const PORT = 5000;
+const PORT = process.env.PORT || 3000;
 
-app.use(cors());
 app.use(express.json());
+app.use('/api/pharmacies', pharmacyRoutes); 
+
 app.use(express.static('public'));
 
-// ✅ Use MONGO_URI from .env file
-mongoose.connect(process.env.MONGO_URI, {
-  useNewUrlParser: true,
-  useUnifiedTopology: true
-}).then(() => {
-  console.log("✅ MongoDB connected");
-  fetchAndStoreData();
-}).catch((err) => {
-  console.error("❌ MongoDB connection error:", err.message);
-});
 
-app.use('/api/hospitals', hospitalRoutes);
-
-app.listen(PORT, () => {
-  console.log(`🚀 Server running at http://localhost:${PORT}`);
-});
+mongoose
+  .connect(process.env.MONGO_URI)
+  .then(() => {
+    console.log('✅ Connected to MongoDB Atlas');
+    app.listen(PORT, () => console.log(`🚀 Server running on port ${PORT}`));
+  })
+  .catch((err) => console.error('❌ MongoDB connection error:', err));

@@ -1,5 +1,5 @@
 const axios = require('axios');
-const Hospital = require('../models/Hospital');
+const Hospital = require('../models/Pharmacy');
 
 const datasetIds = [41, 42, 43];
 

@@ -2,11 +2,10 @@
 <html lang="en">
 
 <head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Edit – WA Hospitals</title>
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
-
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Edit – WA Pharmacies</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
 </head>
 
 <body>
@@ -36,15 +35,14 @@
                     <p>This application communicates with a RESTful API hosted on Vercel and backed by MongoDB Atlas. It
                         provides the following endpoints:</p>
                     <ul>
-                        <li><strong>GET /api/hospitals</strong> - Retrieve all hospital records</li>
-                        <li><strong>POST /api/hospitals</strong> - Add a new hospital record</li>
-                        <li><strong>PATCH /api/hospitals/[code]</strong> - Update selected fields (e.g., resus,
-                            emergency, urgency)</li>
-                        <li><strong>DELETE /api/hospitals/[code]</strong> - Delete a hospital by code</li>
+                        <li><strong>GET /api/pharmacies</strong> - Retrieve all pharmacy records</li>
+                        <li><strong>POST /api/pharmacies</strong> - Add a new pharmacy record</li>
+                        <li><strong>PATCH /api/pharmacies/[name]</strong> - Update selected fields (e.g., Mon-Fri, Sat,
+                            Sun-Ph)</li>
+                        <li><strong>DELETE /api/pharmacies/[name]</strong> - Delete a pharmacy</li>
                     </ul>
                     <p>All requests return JSON responses and interact with a live database. Admin access is required
-                        for
-                        modifying or deleting data.</p>
+                        for modifying or deleting data.</p>
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
@@ -55,44 +53,44 @@
 
     <!-- Main Content -->
     <div class="container mt-4">
-        <h2>Edit Hospital</h2>
+        <h2>Edit Pharmacy</h2>
 
         <div id="response"></div>
 
-        <label for="hospitalSelector" class="form-label">Select Hospital</label>
-        <select id="hospitalSelector" class="form-select mb-4">
-            <option value="">-- Choose a hospital --</option>
+        <label for="pharmacySelector" class="form-label">Select Pharmacy</label>
+        <select id="pharmacySelector" class="form-select mb-4">
+            <option value="">-- Choose a pharmacy --</option>
         </select>
 
         <form id="edit-form">
             <div class="mb-3">
-                <label for="name" class="form-label">Hospital Name</label>
+                <label for="name" class="form-label">Pharmacy Name</label>
                 <input type="text" id="name" class="form-control" required>
             </div>
             <div class="mb-3">
-                <label for="code" class="form-label">Hospital Code</label>
-                <input type="text" id="code" class="form-control" required>
+                <label for="email" class="form-label">Pharmacy Email</label>
+                <input type="email" id="email" class="form-control" required>
             </div>
             <div class="mb-3">
-                <label for="val41" class="form-label">Resuscitation (41)</label>
-                <input type="number" id="val41" class="form-control" required>
+                <label for="valMonFri" class="form-label">Mon–Fri</label>
+                <input type="text" id="valMonFri" class="form-control">
             </div>
             <div class="mb-3">
-                <label for="val42" class="form-label">Emergency (42)</label>
-                <input type="number" id="val42" class="form-control" required>
+                <label for="valSat" class="form-label">Sat</label>
+                <input type="text" id="valSat" class="form-control">
             </div>
             <div class="mb-3">
-                <label for="val43" class="form-label">Urgency (43)</label>
-                <input type="number" id="val43" class="form-control" required>
+                <label for="valSun" class="form-label">Sun-Ph</label>
+                <input type="text" id="valSun" class="form-control">
             </div>
-            <button type="submit" class="btn btn-primary">Update Hospital</button>
+            <button type="submit" class="btn btn-primary">Update Pharmacy</button>
         </form>
     </div>
 
-    <!-- Bootstrap JS Bundle (required for modal) -->
+    <!-- Bootstrap JS Bundle (for modal functionality) -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
-    <!-- Your custom script -->
+    <!-- Custom script -->
     <script src="edit.js"></script>
 </body>
 

@@ -4,19 +4,16 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Upload New hospital with a Unique Code – WA Hospitals</title>
+    <title>Upload New Pharmacy – WA Pharmacies</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
 </head>
 
 <body>
 
-    <!-- Navbar with dark theme and API modal trigger -->
+    <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark px-4">
         <a class="navbar-brand" href="#" data-bs-toggle="modal" data-bs-target="#apiModal">API Description</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
+        <div class="collapse navbar-collapse">
             <ul class="navbar-nav ms-auto">
                 <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
                 <li class="nav-item"><a class="nav-link" href="edit.html">Edit</a></li>
@@ -27,27 +24,21 @@
         </div>
     </nav>
 
-    <!-- API Description Modal -->
+    <!-- API Modal -->
     <div class="modal fade" id="apiModal" tabindex="-1" aria-labelledby="apiModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content">
                 <div class="modal-header">
                     <h5 class="modal-title" id="apiModalLabel">API Description</h5>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
                 </div>
                 <div class="modal-body">
-                    <p>This application communicates with a RESTful API hosted on Vercel and backed by MongoDB Atlas. It
-                        provides the following endpoints:</p>
                     <ul>
-                        <li><strong>GET /api/hospitals</strong> – Retrieve all hospital records</li>
-                        <li><strong>POST /api/hospitals</strong> – Add a new hospital record</li>
-                        <li><strong>PATCH /api/hospitals/[code]</strong> – Update selected fields (resus, emergency,
-                            urgency)</li>
-                        <li><strong>DELETE /api/hospitals/[code]</strong> – Delete a hospital by code</li>
+                        <li><strong>GET /api/pharmacies</strong> – Retrieve all pharmacy records</li>
+                        <li><strong>POST /api/pharmacies</strong> – Add a new pharmacy</li>
+                        <li><strong>PATCH /api/pharmacies/[email]</strong> – Update pharmacy data</li>
+                        <li><strong>DELETE /api/pharmacies/[email]</strong> – Delete a pharmacy</li>
                     </ul>
-                    <p>All requests return JSON responses and interact with a live database. Admin access is required
-                        for
-                        modifying or deleting data.</p>
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
@@ -58,47 +49,47 @@
 
     <!-- Main Content -->
     <div class="container mt-4">
-        <h2>Upload New Hospital with a Unique Code</h2>
+        <h2>Upload New Pharmacy</h2>
 
         <form id="upload-form">
             <div class="mb-3">
-                <label for="name" class="form-label">Hospital Name</label>
+                <label for="name" class="form-label">Pharmacy Name (must be unique)</label>
                 <input type="text" id="name" class="form-control" required>
             </div>
 
             <div class="mb-3">
-                <label for="code" class="form-label">Hospital Code (must be unique)</label>
-                <input type="text" id="code" class="form-control" required>
+                <label for="email" class="form-label">Pharmacy Email (must be unique)</label>
+                <input type="email" id="email" class="form-control" required>
             </div>
 
             <div class="mb-3">
-                <label for="val41" class="form-label">Resus (key 41)</label>
-                <input type="number" id="val41" step="0.01" class="form-control" required>
+                <label for="valMonFri" class="form-label">Mon–Fri</label>
+                <input type="text" id="valMonFri" class="form-control" required>
             </div>
 
             <div class="mb-3">
-                <label for="val42" class="form-label">Emergency (key 42)</label>
-                <input type="number" id="val42" step="0.01" class="form-control" required>
+                <label for="valSat" class="form-label">Sat</label>
+                <input type="text" id="valSat" class="form-control" required>
             </div>
 
             <div class="mb-3">
-                <label for="val43" class="form-label">Urgency (key 43)</label>
-                <input type="number" id="val43" step="0.01" class="form-control" required>
+                <label for="valSun" class="form-label">Sun-Ph</label>
+                <input type="text" id="valSun" class="form-control" required>
             </div>
 
-            <button type="submit" class="btn btn-primary">Upload Hospital</button>
+            <button type="submit" class="btn btn-primary">Upload Pharmacy</button>
         </form>
 
-        <hr>
+        <hr />
 
-        <h4>Delete Existing Hospital</h4>
+        <h4>Delete Existing Pharmacy</h4>
         <div class="mb-3">
-            <label for="delete-select" class="form-label">Select Hospital</label>
+            <label for="delete-select" class="form-label">Select Pharmacy Email</label>
             <select id="delete-select" class="form-select">
-                <option value="">-- Select Hospital to Delete --</option>
+                <option value="">-- Select Pharmacy Email --</option>
             </select>
         </div>
-        <button id="delete-btn" class="btn btn-danger">Delete Selected Hospital</button>
+        <button id="delete-btn" class="btn btn-danger">Delete Selected Pharmacy</button>
 
         <div id="response" class="mt-3"></div>
     </div>
