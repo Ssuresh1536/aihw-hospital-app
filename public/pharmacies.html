@@ -1,4 +1,4 @@
-<script>
+ <script>
   const apiURL = 'https://aihw-hospital-app.onrender.com/api/pharmacies'; // ✅ Use Render URL
 
   async function loadPharmacies() {
@@ -45,6 +45,7 @@
       row.style.display = name.includes(filter) || suburb.includes(filter) ? '' : 'none';
     });
   });
+  
 
   loadPharmacies();
 </script>
