@@ -1,7 +1,6 @@
-// routes/pharmacyRoutes.js
 const express = require('express');
 const router = express.Router();
-const Pharmacy = require('../models/pharmacy');
+const Pharmacy = require('../models/Pharmacy'); // Case-sensitive!
 
 // GET all pharmacies
 router.get('/', async (req, res) => {
