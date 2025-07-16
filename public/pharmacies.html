@@ -1,0 +1,50 @@
+<script>
+  const apiURL = 'https://aihw-hospital-app.onrender.com/api/pharmacies'; // ✅ Use Render URL
+
+  async function loadPharmacies() {
+    try {
+      const res = await fetch(apiURL);
+      const data = await res.json();
+      const tbody = document.getElementById('pharmacyTable');
+      tbody.innerHTML = ''; // Clear existing rows
+
+      data.forEach(pharmacy => {
+        const row = document.createElement('tr');
+
+        const email = pharmacy.ContactEmail || '';
+        const subject = encodeURIComponent("Prescription for Patient");
+        const body = encodeURIComponent(`Dear ${pharmacy.PharmacyName},\n\nPlease find the attached prescription for review.\n\nRegards,\n[Your Name]`);
+
+        const emailButton = email
+          ? `<a href="mailto:${email}?subject=${subject}&body=${body}" class="btn btn-sm btn-primary">Email</a>`
+          : '';
+
+        row.innerHTML = `
+          <td>${pharmacy.PharmacyName || ''}</td>
+          <td>${pharmacy.Address1 || ''}</td>
+          <td>${pharmacy.Suburb || ''}</td>
+          <td>${pharmacy.Phone || ''}</td>
+          <td>${emailButton}</td>
+          <td>${pharmacy.ContactPerson || ''}</td>
+          <td>${pharmacy.Treatment || ''}</td>
+        `;
+
+        tbody.appendChild(row);
+      });
+    } catch (error) {
+      console.error('Failed to load pharmacies:', error);
+    }
+  }
+
+  document.getElementById('search').addEventListener('input', function () {
+    const filter = this.value.toLowerCase();
+    const rows = document.querySelectorAll('#pharmacyTable tr');
+    rows.forEach(row => {
+      const name = row.cells[0]?.textContent.toLowerCase() || '';
+      const suburb = row.cells[2]?.textContent.toLowerCase() || '';
+      row.style.display = name.includes(filter) || suburb.includes(filter) ? '' : 'none';
+    });
+  });
+
+  loadPharmacies();
+</script>
